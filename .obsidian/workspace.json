@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prueba.md",
+                "file": "escrito/Correcciones posibles.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba.md",
+                "file": "escrito/Correcciones posibles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba.md",
+                "file": "escrito/Correcciones posibles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prueba.md"
+                "file": "escrito/Correcciones posibles.md"
               }
             }
           }
@@ -156,19 +156,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Week plan": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "notion-like-tables:Create new loom": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "f292753864d8e233",
   "lastOpenFiles": [
+    "escrito/Sobre el proceso.md",
+    "escrito/Glosario.loom",
+    "escrito/Correcciones posibles.md",
+    "escrito/Correcciones y sugerencias audio.md",
+    "1- Investigación.md",
+    "Bandoneon ! (A Combine) (1966) - David Tudor.md",
     "escrito/Resonando - txt.md",
+    "2- Gerardo Gandini.md",
     "prueba.md",
     "0- Ideas obra.md",
     "1- Obras y análisis.md",
-    "2- Gerardo Gandini.md",
     "Tesina - cronograma 2023.md",
-    "course_artistic_research.pdf",
-    "escrito/Sobre el proceso.md",
-    "escrito/Correcciones posibles.md"
+    "course_artistic_research.pdf"
   ]
 }
