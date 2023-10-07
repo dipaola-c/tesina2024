@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f292753864d8e233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prueba.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "escrito/Resonando - txt.md",
+                "file": "prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "escrito/Resonando - txt.md",
+                "file": "prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "escrito/Resonando - txt.md"
+                "file": "prueba.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45faab207523ae8b",
+  "active": "f292753864d8e233",
   "lastOpenFiles": [
+    "escrito/Resonando - txt.md",
+    "prueba.md",
     "0- Ideas obra.md",
     "1- Obras y análisis.md",
     "2- Gerardo Gandini.md",
