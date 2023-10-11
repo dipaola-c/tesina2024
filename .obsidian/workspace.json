@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0- Ideas obra.md",
+                "file": "escrito/Correcciones y sugerencias audio.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0- Ideas obra.md",
+                "file": "escrito/Correcciones y sugerencias audio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0- Ideas obra.md",
+                "file": "escrito/Correcciones y sugerencias audio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0- Ideas obra.md"
+                "file": "escrito/Correcciones y sugerencias audio.md"
               }
             }
           }
@@ -165,8 +165,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7f80322636974088",
+  "active": "f292753864d8e233",
   "lastOpenFiles": [
+    "escrito/Correcciones posibles.md",
+    "escrito/Correcciones y sugerencias audio.md",
+    "escrito/Glosario.loom",
+    "escrito/Resonando - txt.md",
+    "escrito/Sobre el proceso.md",
+    "0- Ideas obra.md",
     "1- Investigación.md",
     "1- Obras y análisis.md",
     "2- Gerardo Gandini.md",
@@ -176,16 +182,10 @@
     "course_artistic_research.pdf",
     "plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "Pasted image 20231010225420.png",
-    "escrito/Sobre el proceso.md",
-    "0- Ideas obra.md",
     "Pasted image 20230930161859.png.md",
     "Artistic Research in Music – an Introduction.md",
-    "escrito/Resonando - txt.md",
     "prueba.md",
-    "escrito/Correcciones y sugerencias audio.md",
-    "escrito/Correcciones posibles.md",
     "Icon\r",
-    "plantilla-de-tesina-licMus-UNTREF-v1.docx",
-    "escrito/Glosario.loom"
+    "plantilla-de-tesina-licMus-UNTREF-v1.docx"
   ]
 }
