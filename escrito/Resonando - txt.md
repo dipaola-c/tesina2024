@@ -40,12 +40,14 @@ Sobre el título
 # borrador txt
 ## Temáticas/preguntas
 - Hibridación instrumental, entre instrumentos - de lo humano a lo maquínico. Iteraciones - máquino - humano (trémolo, vibradores, etc). Similitud tímbrica entre moduladores humanos y artificiales.
-	- [17:35, 5/10/2023] Luciano Azzigotti2: capitulo 1 similitud
-[17:35, 5/10/2023] Luciano Azzigotti2: capitulo 2 timbre
-[17:35, 5/10/2023] Luciano Azzigotti2: capitulo 3 moduladores
-[17:35, 5/10/2023] Luciano Azzigotti2: capitulo 4 humanos
-[17:35, 5/10/2023] Luciano Azzigotti2: capitulo 5 artificiales
-	    
+
+- Posible estructura
+	- capitulo 1 similitud
+	- capitulo 2 timbre
+	- capitulo 3 moduladores
+	- capitulo 4 humanos
+	- capitulo 5 artificiales
+
 - Cita tímbrica (tomando el concepto de proliferación de objetos encontrados de Gerardo Gandini, en la revista Lulu, ¿se puede proliferar un objeto pero de forma tímbrica tomando a Schaeffer, Lachenmann, Mastropietro…?)
     
 - TITULO

@@ -16,12 +16,21 @@
 - [ ] Ver 2 capítulos del curso https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
 - [ ] Leer Assis
 - [ ] Leer Castro
+- [ ] Ver Stiegler ()
 - [ ] Completar anotaciones de la obra *Resonando*
 - [ ] Realizar posible análisis de la obra hasta el momento (ver ejemplos repo)
+- [ ] Lenguaje musical Messiaen
 
 ---
-#### 2da semana
-
-#### 3ra semana
-
-#### 4ta semana
+#### 2da semana (17-10-2023)
+---
+#### 3ra semana (24-10-2023)
+---
+#### 4ta semana (31-10-2023)
+---
+---
+### 5ta semana (07-10-2023)
+---
+### 6ta semana (14-10-2023)
+---
+### 7ma semana (21-10-2023)

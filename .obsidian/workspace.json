@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "escrito/Correcciones posibles.md",
+                "file": "escrito/Sobre el proceso.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "escrito/Correcciones posibles.md",
+                "file": "escrito/Sobre el proceso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "escrito/Correcciones posibles.md",
+                "file": "escrito/Sobre el proceso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "escrito/Correcciones posibles.md"
+                "file": "escrito/Sobre el proceso.md"
               }
             }
           }
@@ -167,18 +167,23 @@
   },
   "active": "f292753864d8e233",
   "lastOpenFiles": [
-    "escrito/Sobre el proceso.md",
-    "escrito/Glosario.loom",
-    "escrito/Correcciones posibles.md",
-    "escrito/Correcciones y sugerencias audio.md",
-    "1- Investigación.md",
-    "Bandoneon ! (A Combine) (1966) - David Tudor.md",
     "escrito/Resonando - txt.md",
-    "2- Gerardo Gandini.md",
-    "prueba.md",
-    "0- Ideas obra.md",
-    "1- Obras y análisis.md",
+    "Artistic Research in Music – an Introduction.md",
+    "course_artistic_research.pdf",
+    "plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "Tesina - cronograma 2023.md",
-    "course_artistic_research.pdf"
+    "Pasted image 20230930161859.png.md",
+    "Bandoneon ! (A Combine) (1966) - David Tudor.md",
+    "prueba.md",
+    "escrito/Sobre el proceso.md",
+    "2- Gerardo Gandini.md",
+    "1- Investigación.md",
+    "0- Ideas obra.md",
+    "escrito/Correcciones y sugerencias audio.md",
+    "escrito/Correcciones posibles.md",
+    "Icon\r",
+    "plantilla-de-tesina-licMus-UNTREF-v1.docx",
+    "escrito/Glosario.loom",
+    "1- Obras y análisis.md"
   ]
 }
