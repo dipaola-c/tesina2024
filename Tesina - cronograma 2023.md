@@ -22,6 +22,7 @@
 - [ ] Lenguaje musical Messiaen
 - [ ] investigar:
 - [ ] ![[Pasted image 20231010225524.png]]
+- [ ] Corregir audio: comienzo e intersección 
 
 ---
 #### 2da semana (17-10-2023)
@@ -31,8 +32,8 @@
 #### 4ta semana (31-10-2023)
 ---
 ---
-### 5ta semana (07-10-2023)
+### 5ta semana (07-11-2023)
 ---
-### 6ta semana (14-10-2023)
+### 6ta semana (14-11-2023)
 ---
-### 7ma semana (21-10-2023)
+### 7ma semana (21-11-2023)

@@ -73,9 +73,7 @@ alguna nota pedal que pueda relevarse entre fl, cl, ?
 el piano completamente textural (como puntos, sonidos lisos puros en el arpa, etc)
 movimiento gliss vs quietud
 ricochet cortito
-==MASA BURBUJEANTE DE A POCO
-(gotas clari bajo) como inflandose los cachetes
-https://www.youtube.com/watch?time_continue=25&v=PdwYfbrPdos&embeds_euri=https%3A%2F%2Fwww.lecturas.com%2Frecetas%2Factualidad%2Ffocaccia-receta-facil-pan-italiano-esponjoso-y-burbujeante-sin-amasar_13056&feature=emb_logo&ab_channel=%EC%8B%9D%ED%83%81%EC%9D%BC%EA%B8%B0tablediary
+
 (4.15)
 bloque tímbrico y bloque de una nota (se van relevando los instrumentos en cada bloque)
 termina ebow del piano?? (que ya está sonando pero los demás instrumentos hacen silencio)
