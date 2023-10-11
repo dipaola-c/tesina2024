@@ -17,7 +17,7 @@
 - [ ] Leer Assis
 - [ ] Leer Castro
 - [ ] Ver Stiegler ()
-- [ ] Completar anotaciones de la obra *Resonando*
+- [x] Completar anotaciones de la obra *Resonando*
 - [ ] Realizar posible análisis de la obra hasta el momento (ver ejemplos repo)
 - [ ] Lenguaje musical Messiaen
 - [ ] investigar:

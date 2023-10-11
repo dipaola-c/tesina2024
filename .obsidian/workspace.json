@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "escrito/txt/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
+                "file": "escrito/Sobre el proceso.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "escrito/txt/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
+                "file": "escrito/Sobre el proceso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "escrito/txt/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
+                "file": "escrito/Sobre el proceso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "escrito/txt/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md"
+                "file": "escrito/Sobre el proceso.md"
               }
             }
           }
@@ -165,8 +165,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7f80322636974088",
+  "active": "f292753864d8e233",
   "lastOpenFiles": [
+    "escrito/Correcciones y sugerencias audio.md",
+    "escrito/Sobre el proceso.md",
+    "Tesina - cronograma 2023.md",
+    "escrito/txt/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
     "escrito/txt/El acento agudo.md",
     "escrito/txt/Modulación tímbrica.md",
     "escrito/txt/Tiempo y forma.md",
@@ -174,10 +178,8 @@
     "escrito/img/Pasted image 20230410222301.png",
     "escrito/txt/Tipos sonoros de la nueva música.md",
     "escrito/img",
-    "escrito/Correcciones y sugerencias audio.md",
     "escrito/txt/Varios sobre Gerardo Gandini.md",
     "escrito/txt/La doble génesis del concepto de textura musical.md",
-    "escrito/txt/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
     "escrito/img/Pasted image 20230505004454.png",
     "escrito/img/Pasted image 20230505004437.png",
     "escrito/img/Pasted image 20230430115139.png",
@@ -187,13 +189,11 @@
     "escrito/img/Pasted image 20230421165950.png",
     "escrito/img/Pasted image 20230420220005.png",
     "escrito/img/Pasted image 20230416233727.png",
-    "Tesina - cronograma 2023.md",
     "plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "course_artistic_research.pdf",
     "Bandoneon ! (A Combine) (1966) - David Tudor.md",
     "Artistic Research in Music – an Introduction.md",
     "escrito/Resonando - txt.md",
-    "escrito/Sobre el proceso.md",
     "2- Gerardo Gandini.md",
     "0- Ideas obra.md",
     "escrito/Correcciones posibles.md",
