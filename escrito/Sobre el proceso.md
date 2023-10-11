@@ -1,5 +1,4 @@
-![[Pasted image 20230930161859.png]]
-
+![[Pasted image 20231010225420.png]]
 ## Práctica artística
 
 ### Comienzo de la obra
