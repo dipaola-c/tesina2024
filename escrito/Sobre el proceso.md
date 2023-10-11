@@ -61,6 +61,8 @@ https://www.youtube.com/watch?v=pIEUS0-DDcs&ab_channel=JuanPabloVitali
 
 ##### A
 - 16.30 sonido cuasi bandoneón ??? explotar? (en relación a la parte calmax). 
+- 17.06 piano (timbre!)
+- 17.17 ? (desarrollar)
 - silencio de 17.56?? (más acumulación parte A)
 
 ##### B

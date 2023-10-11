@@ -20,6 +20,7 @@
 - darle entidad al vib
 - explotar 20.30
 - visión/escucha 'lupa' de esa iteración con el vibrador (por dentro del sonido), relación ricochet, materiales iterados (timbre imaginario ?)
+==- ver piano en general==
 
 ==PENDIENTE==
 - El sonido se traslada (cada línea con su particularidad)
