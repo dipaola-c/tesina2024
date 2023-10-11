@@ -20,6 +20,8 @@
 - [ ] Completar anotaciones de la obra *Resonando*
 - [ ] Realizar posible análisis de la obra hasta el momento (ver ejemplos repo)
 - [ ] Lenguaje musical Messiaen
+- [ ] investigar:
+- [ ] ![[Pasted image 20231010225524.png]]
 
 ---
 #### 2da semana (17-10-2023)
