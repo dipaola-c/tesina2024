@@ -8,6 +8,7 @@
 ### Material de escucha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6bh3bWP5lc?si=1jxLBEmIKGZFwLTD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/k6bh3bWP5lc?si=1jxLBEmIKGZFwLTD
 
 ###### sobre Stone Garden (Daniel D'Adamo)
 De los sonidos (tienen dirección, son gestos? hay algo de energía acumulada que se libera hacia un lugar x), luego también están esos sonidos estáticos (menos direccionales).
@@ -16,7 +17,7 @@ De los sonidos (tienen dirección, son gestos? hay algo de energía acumulada qu
 - Comienzo definido (hasta 0.06), luego hasta 0.15 (pero no todos los instrumentos hacen lo mismo, se dirigen hacia el mismo lugar pero con distintos comportamientos y materiales)
 - Hasta minuto 1.12, se estatiza con movimientos ascendentes
 - A partir de 1.15 entra un nuevo material relacionado a los otros pero mucho más brillante (aparece una especie de nota pedal sutil y por momentos)
-	- En línas generales hay una nota polar (do#) y el batimento suele ser una novedad y no la norma (como un punto de confluencia), también como elemento formal
+	- En líneas generales hay una nota polar (do#) y el batimento suele ser una novedad y no la norma (como un punto de confluencia), también como elemento formal
 - 4.39 rebote único, marca algo en la forma
 - 6.33 cambia la textura, más regular (ritmo de fondo) se disuelve ese ritmo
 - 7.40 aparece un elemento nuevo (flauta+voz)
@@ -26,13 +27,20 @@ De los sonidos (tienen dirección, son gestos? hay algo de energía acumulada qu
 - 11.10 en adelante se 'hunde' y confluye en unísono, se escuchan algunos puntos pequeños en rallentando hacia el final
 
 <iframe width="560" height="315" src="https://youtu.be/vBLjhKliF_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/vBLjhKliF_Y
 
 #### escritura
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p_Gwg8PAAfE?si=MI28hoi0GbwyNXYe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://www.youtube.com/embed/p_Gwg8PAAfE?si=MI28hoi0GbwyNXYe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NygKZOrYlf4?si=3sPoAUm_v2-OVIeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://www.youtube.com/embed/NygKZOrYlf4?si=3sPoAUm_v2-OVIeP
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pIEUS0-DDcs&ab_channel=JuanPabloVitali" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+https://www.youtube.com/watch?v=pIEUS0-DDcs&ab_channel=JuanPabloVitali
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_dp0d9urrAg?si=WJ9FwmnOIxFyoK_h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 ### Cambios en la obra
