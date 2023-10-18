@@ -29,3 +29,12 @@ https://en.wikipedia.org/wiki/Whole_Earth_Catalog
 ![[Pasted image 20231018142333.png]]
 
 
+En definitiva, cómo las compañías han estado construyendo *control related technologies* aparentando *work related technologies* (email, social media, word processor). **Esto funciona como un símbolo y también como una promesa, donde acceder a la herramienta correcta aumenta la eficiencia del trabajo.** (la autora expone que siendo vistas todas estas herramientas como *work-related* todas son *good-right*).
+
+![[Pasted image 20231018144032.png]]
+
+Teniendo en cuenta esto, vivir la vida dentro de la sociedad humana es reconocer verla a través del lente de la tecnología (no se puede abstraer la sociedad actual de la computadora o la máquina de cocer). (Esta es *the house* y puede ser continuamente extendido y remodelado, siendo creada y a la vez demolida).
+#### Audre Lorde
+![[Pasted image 20231018150031.png]]
+
+![[Pasted image 20231018150212.png]]
