@@ -13,19 +13,21 @@
 	- capitulo 5 artificiales
 - Realizar análisis de la obra hasta el momento
 ###### Tareas
-- [ ] Ver 2 capítulos del curso https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
-- [ ] Leer Assis
-- [ ] Leer Castro
-- [ ] Ver Stiegler ()
+- [ ] Ver 4 capítulos del curso https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
+- [ ] Leer *Assis*
+- [ ] Leer *Castro*
+- [ ] Ver *Stiegler* ??
 - [x] Completar anotaciones de la obra *Resonando*
 - [ ] Realizar posible análisis de la obra hasta el momento (ver ejemplos repo)
 - [ ] Lenguaje musical Messiaen
 - [ ] investigar:
 - [ ] ![[Pasted image 20231010225524.png]]
-- [ ] Corregir audio: comienzo e intersección 
+- [ ] Corregir audio: comienzo e intersección (+ textura vib)
 
 ---
 #### 2da semana (17-10-2023)
+- [ ] Ler *Software for artists book*
+- [ ] Leer Essays and Papers
 ---
 #### 3ra semana (24-10-2023)
 ---

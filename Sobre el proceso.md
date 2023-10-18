@@ -1,4 +1,6 @@
 ![[Pasted image 20231010225420.png]]
+
+*'Para mí la composición es una especie de trabajo científico: cuando aparecen los problemas, hay que intentar solucionarlos. Pienso por ejemplo en los ámbitos de la matemática, como el de la optimización a través de operaciones combinatorias. (...) Se hacen intentos de acercamiento, como si se tratara de investigaciones geográfica en aquellos tiempos en los que todavía había terrenos inexplorados en el planeta. Una expedición para completar un mapa. '* (Ligeti - diálogo con Stahnke)
 ## Práctica artística
 
 ### Comienzo de la obra
@@ -68,7 +70,6 @@ https://www.youtube.com/watch?v=pIEUS0-DDcs&ab_channel=JuanPabloVitali
 ##### B
 - 18.03 hacer esperar más la entrada del acorde mas suave.
 - ver pizzicatos 18.38 piano (o que sean armónicos … ?)
-- 18.57 la flauta rara
 - 19.13 que tarde más?
 - 19.10 a 20 reveer armonía, no está mal pero muy planchada, tal vez que se haga más armónica luego, en contraste a 19.40
 - 19.42 ok el sul ponticello idem 19.49 etc en relación a vib

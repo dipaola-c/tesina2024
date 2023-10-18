@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "escrito/Resonando - txt.md",
+                "file": "Resonando - txt.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "escrito/Sobre el proceso.md",
+                "file": "0- Ideas obra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75b0c3bc6b5a7668",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b44640600ce1b087",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee8f3dca70a1004f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "escrito/txt/Artistic Research in Music – an Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9613bc6eb5662748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "escrito/txt/Software for artists book - 002 Untethering the web.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -82,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3319ad7f620eb724",
@@ -98,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "escrito/Sobre el proceso.md",
+                "file": "escrito/txt/Software for artists book - 002 Untethering the web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "escrito/Sobre el proceso.md",
+                "file": "escrito/txt/Software for artists book - 002 Untethering the web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "escrito/Sobre el proceso.md"
+                "file": "escrito/txt/Software for artists book - 002 Untethering the web.md"
               }
             }
           }
@@ -165,21 +205,39 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f292753864d8e233",
+  "active": "9613bc6eb5662748",
   "lastOpenFiles": [
-    "escrito/Correcciones y sugerencias audio.md",
-    "escrito/Sobre el proceso.md",
-    "Tesina - cronograma 2023.md",
-    "escrito/txt/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
-    "escrito/txt/El acento agudo.md",
-    "escrito/txt/Modulación tímbrica.md",
     "escrito/txt/Tiempo y forma.md",
-    "escrito/txt/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-    "escrito/img/Pasted image 20230410222301.png",
-    "escrito/txt/Tipos sonoros de la nueva música.md",
-    "escrito/img",
     "escrito/txt/Varios sobre Gerardo Gandini.md",
+    "escrito/txt/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "escrito/txt/Tipos sonoros de la nueva música.md",
+    "escrito/txt/Software for artists book - 002 Untethering the web.md",
+    "Pasted image 20231018102729.png",
+    "escrito/txt/Modulación tímbrica.md",
     "escrito/txt/La doble génesis del concepto de textura musical.md",
+    "escrito/txt/Experimental Systems and Artistic Research.md",
+    "escrito/txt/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "escrito/txt/El acento agudo.md",
+    "escrito/txt/Bandoneon ! (A Combine) (1966) - David Tudor.md",
+    "escrito/txt/Artistic Research in Music – an Introduction.md",
+    "escrito/txt/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
+    "plantilla-de-tesina-licMus-UNTREF-v1.pdf",
+    "Sobre el proceso.md",
+    "Resonando - txt.md",
+    "Tesina - cronograma 2023.md",
+    "1- Investigación.md",
+    "0- Ideas obra.md",
+    "to do list/2023-10-17.md",
+    "2023-10-16.md",
+    "to do list",
+    "2023-10-02.md",
+    "2023-10-03.md",
+    "escrito/Glosario.loom",
+    "Drawing 2023-10-16 22.36.00.excalidraw.md",
+    "Untitled.loom",
+    "escrito/Correcciones y sugerencias audio.md",
+    "escrito/img/Pasted image 20230410222301.png",
+    "escrito/img",
     "escrito/img/Pasted image 20230505004454.png",
     "escrito/img/Pasted image 20230505004437.png",
     "escrito/img/Pasted image 20230430115139.png",
@@ -188,20 +246,8 @@
     "escrito/img/Pasted image 20230425205131.png",
     "escrito/img/Pasted image 20230421165950.png",
     "escrito/img/Pasted image 20230420220005.png",
-    "escrito/img/Pasted image 20230416233727.png",
-    "plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "course_artistic_research.pdf",
-    "Bandoneon ! (A Combine) (1966) - David Tudor.md",
-    "Artistic Research in Music – an Introduction.md",
-    "escrito/Resonando - txt.md",
     "2- Gerardo Gandini.md",
-    "0- Ideas obra.md",
-    "escrito/Correcciones posibles.md",
-    "escrito/Glosario.loom",
-    "1- Investigación.md",
-    "1- Obras y análisis.md",
-    "Pasted image 20230930161859.png.md",
-    "prueba.md",
     "Icon\r",
     "plantilla-de-tesina-licMus-UNTREF-v1.docx"
   ]
