@@ -23,7 +23,18 @@ La tesis presenta un argumento específico sobre el tema/observación.
 
 SUBJECT/OBSERVATION ---> THESIS
 
-
+> [!info] timbre humano máquina ---> similitudes y diferencias entre ...
 
 #### Choosing a Research Paper Topic
 Aquí, en papers o preguntas tomar nota de los intereses.
+> [!info] lista de intereses
+> timbre, textura
+> instrumentos inventados
+> relación humano-maquínica
+
+### 2. Conduct a Thesis-Hunting Expedition
+1. find an interesting thesis that can be supported within the scope of the assignment
+2. minimize the time required to conduct this search
+
+> [!important] start general, then move one layer deep
+
