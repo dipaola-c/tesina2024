@@ -38,3 +38,12 @@ Teniendo en cuenta esto, vivir la vida dentro de la sociedad humana es reconocer
 ![[Pasted image 20231018150031.png]]
 
 ![[Pasted image 20231018150212.png]]
+
+En este sentido, con las *work related technologies* es más fácil *usarlas contra las paredes de la casa.*
+	*> Simple, sostenido en la mano, un ladrillo o una piedra no se detiene en el aire justo antes de romper una ventana*
+Caso contrario, con las *control related technologies*.
+![[Pasted image 20231018151321.png]]
+
+Aunque a veces, estas mismas escapan de su *propósito*. 
+	> *The postal service popularized zine culture. Acid house rose from a synthesizer shipped without a manual. Tool libraries lend, freeing tools from an individualist ethos. Do it yourself becomes do it together.*
+

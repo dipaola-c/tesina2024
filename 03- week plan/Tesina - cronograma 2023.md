@@ -26,7 +26,7 @@
 
 ---
 #### 2da semana (17-10-2023)
-- [ ] Ler *Software for artists book*
+- [x] Ler *Software for artists book*
 - [ ] Leer Essays and Papers
 ---
 #### 3ra semana (24-10-2023)

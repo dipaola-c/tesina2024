@@ -9,10 +9,10 @@ Resumen (abstract)
 
 Pregunta/problema de investigación (refleja intereses, resolución viable, vinculada con la práctica, se puede trabajar de inmediato, genera más preguntas coordinadas, permite ‘evaluarse’)
 
-- ¿Intención? ¿Búsqueda?
+- ¿Intención? ¿Búsqueda? ¿Por qué escribí como escribí?
 - ¿Qué instrumentación? ¿Por qué esos instrumentos? ¿Por qué de cámara?
 - ¿Para qué?
-
+- ¿Qué ideas o sobre qué indagaba al componer la obra? Sobre el tiempo, el ritmo, modulación, intensidad, direccionalidad, continuidad-no continuidad... métrica-no métrica, pulso, texturas...
 ### Objeto de estudio
 
 ### Marco teórico

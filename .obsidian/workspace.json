@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0- Ideas obra.md",
+                "file": "00- inicial/0- Ideas obra.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "escrito/txt/Artistic Research in Music – an Introduction.md",
+                "file": "01- txt/artistic research/Artistic Research in Music – an Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "escrito/txt/Software for artists book - 002 Untethering the web.md",
+                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "escrito/txt/Software for artists book - 002 Untethering the web.md",
+                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "escrito/txt/Software for artists book - 002 Untethering the web.md",
+                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "escrito/txt/Software for artists book - 002 Untethering the web.md"
+                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md"
               }
             }
           }
@@ -207,49 +207,50 @@
   },
   "active": "7f80322636974088",
   "lastOpenFiles": [
-    "escrito/img/Pasted image 20231018150212.png",
-    "escrito/img/Pasted image 20231018150031.png",
-    "escrito/img/Pasted image 20231018144032.png",
-    "escrito/txt/Artistic Research in Music – an Introduction.md",
-    "escrito/img/Pasted image 20231018142333.png",
-    "Pasted image 20231018102729.png",
-    "escrito/txt/Software for artists book - 002 Untethering the web.md",
-    "escrito/txt/Bandoneon ! (A Combine) (1966) - David Tudor.md",
-    "escrito/txt/El acento agudo.md",
-    "escrito/txt/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
-    "escrito/txt/Experimental Systems and Artistic Research.md",
-    "escrito/txt/Modulación tímbrica.md",
-    "escrito/txt/Tipos sonoros de la nueva música.md",
-    "escrito/txt/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "01- txt/instrumentos-herramientas/Bandoneon ! (A Combine) (1966) - David Tudor.md",
+    "01- txt/instrumentos-herramientas",
+    "01- txt/gandini/El acento agudo.md",
+    "01- txt/gandini",
+    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01- txt/gandini/Varios sobre Gerardo Gandini.md",
+    "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
+    "01- txt/tiempo/Tiempo y forma.md",
+    "01- txt/forma",
+    "01- txt/tiempo",
+    "01- txt/textura/La doble génesis del concepto de textura musical.md",
+    "01- txt/artistic research/Experimental Systems and Artistic Research.md",
+    "03- week plan/Tesina - cronograma 2023.md",
+    "01- txt/objetos sonoros",
+    "01- txt/textura",
+    "01- txt/timbre",
+    "01- txt/artistic research",
+    "00- inicial/Sobre el proceso.md",
     "Resonando - txt.md",
-    "escrito/txt/Tiempo y forma.md",
-    "escrito/txt/Varios sobre Gerardo Gandini.md",
-    "escrito/txt/La doble génesis del concepto de textura musical.md",
-    "escrito/txt/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
     "plantilla-de-tesina-licMus-UNTREF-v1.pdf",
-    "Sobre el proceso.md",
-    "Tesina - cronograma 2023.md",
-    "1- Investigación.md",
-    "0- Ideas obra.md",
-    "to do list/2023-10-17.md",
+    "01- txt/artistic research/course_artistic_research.pdf",
+    "00- inicial/Correcciones y sugerencias audio.md",
+    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "01- txt/artistic research/Artistic Research in Music – an Introduction.md",
+    "03- week plan/2023-10-17.md",
+    "00- inicial/0- Ideas obra.md",
+    "02- img/Pasted image 20231018151321.png",
+    "02- img/Pasted image 20231018150212.png",
+    "02- img/Pasted image 20231018150031.png",
+    "02- img/Pasted image 20231018144032.png",
+    "02- img/Pasted image 20231018142333.png",
+    "Pasted image 20231018102729.png",
+    "01- txt/timbre/Modulación tímbrica.md",
+    "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
+    "00- inicial/1- Investigación.md",
     "2023-10-16.md",
-    "to do list",
     "2023-10-02.md",
     "2023-10-03.md",
-    "escrito/Glosario.loom",
     "Drawing 2023-10-16 22.36.00.excalidraw.md",
-    "Untitled.loom",
-    "escrito/Correcciones y sugerencias audio.md",
-    "escrito/img/Pasted image 20230410222301.png",
-    "escrito/img",
-    "escrito/img/Pasted image 20230505004454.png",
-    "escrito/img/Pasted image 20230505004437.png",
-    "escrito/img/Pasted image 20230430115139.png",
-    "escrito/img/Pasted image 20230426005233.png",
-    "escrito/img/Pasted image 20230426003639.png",
-    "course_artistic_research.pdf",
-    "2- Gerardo Gandini.md",
-    "Icon\r",
-    "plantilla-de-tesina-licMus-UNTREF-v1.docx"
+    "02- img/Pasted image 20230410222301.png",
+    "02- img/Pasted image 20230505004454.png",
+    "02- img/Pasted image 20230505004437.png",
+    "02- img/Pasted image 20230430115139.png",
+    "00- inicial/2- Gerardo Gandini.md"
   ]
 }
