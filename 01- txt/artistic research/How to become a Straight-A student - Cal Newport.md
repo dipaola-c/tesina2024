@@ -1,3 +1,4 @@
+# Essays and Papers (part 3)
 Three separate components:
 1. Sifting through existing arguments (**research**)
 2. Forming your own argument (**argument construction**)
@@ -67,6 +68,24 @@ Para ello, lo importante es contar con un sistema que permite el desarrollo del 
 **The devil, of course, is in the details.**
 
 #### Find sources
+Hay dos tipos: generales y específicas (desde biografías/obra completa/libros hasta artículos sobre una idea específica). Hay dos estrategias para ello:
+-> como en el paso dos, ir de lo general a lo particular en profundidad
+-> la otra opción, es directamente ir a textos particulares (más difícil de encontrar), pero para ello hay cuatro tácticas:
+##### Search Tactic #1: break up your query into general chunks
+Dividir en fragmentos y consultar de forma general (tópicos más grandes).
+##### Search Tactic #2: Use journal databases
+Como JSTOR
+##### Search Tactic #3: When in Doubt, Google
+(no citar web sites, pero si extraer de ellas algunas referencias de libros)
+##### Search Tactic #4: Ask a Librarian
+
+###### Sobre las bibliotecas online
+- OpenAthens
+- ResearchGate
+- JSTOR
+- Library of congress https://catalog.loc.gov/
+
 #### Make personal copies of all sources
 #### Annotate the material
 #### Decide if you're done
+
