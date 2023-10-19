@@ -37,7 +37,6 @@ Aquí, en papers o preguntas tomar nota de los intereses.
 2. minimize the time required to conduct this search
 
 > [!important] start general, then move one layer deep
-
 #### Start general, then move one layer deep
 1. Una opción son los '*basic sources*' para empezar, teniendo en cuenta que allí no se encontrará la idea de tesis particular (por lo amplios que son).
 2. Examinar la lista de libros y artículos (bibliografía/referencias) citados en las secciones relevantes del paso 1.
@@ -50,5 +49,24 @@ Aquí, en papers o preguntas tomar nota de los intereses.
 ### 3. Seek a Second Option
 (ya teniendo el **tópico** y una idea de **tesis dirigida**)
 
-Se pueden cometer los siguientes errores: puede no haber demasiada evidencia que soporte al argumento de la tesis, o se puede encontrar una tesis que hable exactamente del mismo punto de la misma forma, o, muy frecuentemente, la tesis es demasiado **amplia** para ser argumentada de manera sucinta/concisa dentro del alcance de un trabajo en papel. 
+Se pueden cometer los siguientes errores: puede no haber demasiada evidencia que soporte al argumento de la tesis, o se puede encontrar una tesis que hable exactamente del mismo punto de la misma forma, o, muy frecuentemente, la tesis es demasiado **amplia** para ser argumentada de manera sucinta/concisa dentro del alcance de un trabajo en papel. Para tener en cuenta: ¿es apropiada la idea de la tesis y su tópico? ¿cubre demasiados aspectos o es muy extensa o inabarcable? ¿es demasiada simple o corta?
 
+1. Poder exponer el tema de tesis en 10/20 minutos ante quien corresponda y tener en cuenta las fuentes propuestas y las recomendadas posteriormente (consultar con una propuesta contundente aunque pueda ser modificable/enriquecida)
+### 4. Research like a Machine
+
+Aquí es importante que si la estrategia es al azar, el proceso se vuelve tedioso y frustrante y, a su vez, el resultado del escrito es débil. Un buen argumento requiere una sólida comprensión de la información relevante elegida (es necesario tener ordenadas las ideas, las fuentes, las referencias, a la mano, fácil de manipular...)
+
+Por otro lado, es riesgoso también pasar mucho tiempo en esta parte de investigación inicial (*research recursion syndrome*).
+
+Para ello, lo importante es contar con un sistema que permite el desarrollo del proceso:
+1. Find sources
+2. Make personal copies of all sources
+3. Annotate the material
+4. Decide if you're done (sino, volver al paso 1.)
+
+**The devil, of course, is in the details.**
+
+#### Find sources
+#### Make personal copies of all sources
+#### Annotate the material
+#### Decide if you're done
