@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music – an Introduction.md",
+                "file": "01- txt/artistic research/Artistic Research in Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music – an Introduction.md",
+                "file": "01- txt/artistic research/Artistic Research in Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music – an Introduction.md",
+                "file": "01- txt/artistic research/Artistic Research in Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music – an Introduction.md",
+                "file": "01- txt/artistic research/Artistic Research in Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music – an Introduction.md"
+                "file": "01- txt/artistic research/Artistic Research in Music.md"
               }
             }
           }
@@ -205,14 +205,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9613bc6eb5662748",
+  "active": "7f80322636974088",
   "lastOpenFiles": [
-    "03- week plan/Tesina - cronograma 2023.md",
-    "03- week plan/2023-10-17.md",
-    "01- txt/artistic research/Artistic Research in Music – an Introduction.md",
+    "01- txt/artistic research/Artistic Research in Music (complete).md",
+    "01- txt/artistic research/Artistic Research in Music.md",
     "01- txt/artistic research/How to become a Straight-A student.md",
     "01- txt/artistic research/Experimental Systems and Artistic Research.md",
     "01- txt/artistic research/course_artistic_research.pdf",
+    "03- week plan/Tesina - cronograma 2023.md",
+    "03- week plan/2023-10-17.md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
     "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
@@ -247,7 +248,6 @@
     "2023-10-16.md",
     "2023-10-02.md",
     "2023-10-03.md",
-    "Drawing 2023-10-16 22.36.00.excalidraw.md",
     "02- img/Pasted image 20230410222301.png",
     "02- img/Pasted image 20230505004454.png",
     "02- img/Pasted image 20230505004437.png",

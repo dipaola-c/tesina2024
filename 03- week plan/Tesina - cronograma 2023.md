@@ -1,6 +1,4 @@
 ### Octubre
-#### 1ra semana (10-10-2023)
-
 ###### Objetivos
 - Definir temática/s tentativa/s
 	- Moduladores instrumentales externos
@@ -12,6 +10,7 @@
 	- capitulo 4 humanos
 	- capitulo 5 artificiales
 - Realizar análisis de la obra hasta el momento
+#### 1ra semana (10-10-2023)
 ###### Tareas
 - [x] Ver 4 capítulos del curso https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
 - [ ] Leer *Assis*
