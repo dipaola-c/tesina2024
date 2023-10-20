@@ -86,6 +86,15 @@ Como JSTOR
 - Library of congress https://catalog.loc.gov/
 
 #### Make personal copies of all sources
+(teniendo en cuenta la forma de citar y las bibliografías dentro de cada texto para cruzar conceptos/datos)
 #### Annotate the material
+Leer rápidamente los textos generales, sacando sólo conceptos o ideas o capítulos específicos y trasladándolos al repo personal.
 #### Decide if you're done
+1. listar los tópicos (preguntas, facts) para la tesis
+2. listar los tópicos que podrían soportar la hipótesis personal 
+3. si se puede atribuir dos fuentes a cada uno de los tópicos del paso 1, y una buena fuente para la mayoría de los tópicos en paso 2, pasar al siguiente paso, de lo contrario, seguir en la búsqueda
+**(todo esto en un paso inicial, aún no está el argumento específico de la tesis, por ende es imposible saber aquí toda la bibliografía pertinente, la idea es una aproximación lo más certera posible)**
+
+**Podrían entonces dividirse en biblio muy útil, potencialmente útil, muy poco útil (se entiende que la cantidad de biblio muy útil es la imprescindible y por ello la de menor cantidad, lo contrario para la específica)**
+
 
