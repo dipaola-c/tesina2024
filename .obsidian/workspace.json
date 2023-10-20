@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music.md",
+                "file": "03- week plan/Tesina - cronograma 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music.md",
+                "file": "03- week plan/Tesina - cronograma 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music.md",
+                "file": "03- week plan/Tesina - cronograma 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music.md"
+                "file": "03- week plan/Tesina - cronograma 2023.md"
               }
             }
           }
@@ -207,8 +207,12 @@
   },
   "active": "9613bc6eb5662748",
   "lastOpenFiles": [
-    "01- txt/artistic research/Artistic Research in Music (all text).md",
     "01- txt/artistic research/Artistic Research in Music.md",
+    "main.pdf",
+    "main.aux",
+    "main.log",
+    "main.tex",
+    "01- txt/artistic research/Artistic Research in Music (all text).md",
     "01- txt/artistic research/How to become a Straight-A student.md",
     "01- txt/artistic research/Experimental Systems and Artistic Research.md",
     "01- txt/artistic research/course_artistic_research.pdf",
@@ -232,10 +236,6 @@
     "01- txt/gandini/Varios sobre Gerardo Gandini.md",
     "01- txt/forma",
     "01- txt/tiempo",
-    "01- txt/objetos sonoros",
-    "01- txt/textura",
-    "01- txt/timbre",
-    "01- txt/artistic research",
     "00- inicial/Correcciones y sugerencias audio.md",
     "00- inicial/0- Ideas obra.md",
     "02- img/Pasted image 20231018151321.png",

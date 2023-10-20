@@ -12,7 +12,7 @@
 - Realizar análisis de la obra hasta el momento
 #### 1ra semana (10-10-2023)
 ###### Tareas
-- [x] Ver 4 capítulos del curso https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
+- [x] Ver 1 capítulos del curso https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
 - [ ] Leer *Assis*
 - [ ] Leer *Castro*
 - [ ] Ver *Stiegler* ??
@@ -27,6 +27,7 @@
 #### 2da semana (17-10-2023)
 - [x] Ler *Software for artists book*
 - [x] Leer Essays and Papers
+- [ ] Ver Latex
 ---
 #### 3ra semana (24-10-2023)
 ---
