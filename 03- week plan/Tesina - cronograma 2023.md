@@ -13,7 +13,7 @@
 	- capitulo 5 artificiales
 - Realizar análisis de la obra hasta el momento
 ###### Tareas
-- [ ] Ver 4 capítulos del curso https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
+- [x] Ver 4 capítulos del curso https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
 - [ ] Leer *Assis*
 - [ ] Leer *Castro*
 - [ ] Ver *Stiegler* ??
@@ -27,7 +27,7 @@
 ---
 #### 2da semana (17-10-2023)
 - [x] Ler *Software for artists book*
-- [ ] Leer Essays and Papers
+- [x] Leer Essays and Papers
 ---
 #### 3ra semana (24-10-2023)
 ---
