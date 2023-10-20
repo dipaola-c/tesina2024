@@ -1,3 +1,12 @@
+---
+type: bib
+author: Cal Newport
+publish: 2006
+tags:
+  - research
+  - papers
+  - essays
+---
 # Essays and Papers (part 3)
 Three separate components:
 1. Sifting through existing arguments (**research**)
@@ -96,5 +105,7 @@ Leer rápidamente los textos generales, sacando sólo conceptos o ideas o capít
 **(todo esto en un paso inicial, aún no está el argumento específico de la tesis, por ende es imposible saber aquí toda la bibliografía pertinente, la idea es una aproximación lo más certera posible)**
 
 **Podrían entonces dividirse en biblio muy útil, potencialmente útil, muy poco útil (se entiende que la cantidad de biblio muy útil es la imprescindible y por ello la de menor cantidad, lo contrario para la específica)**
+
+---
 
 

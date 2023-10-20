@@ -3,6 +3,7 @@ type: bib
 author: Paulo de Assis
 publish: 2018
 tags:
+  - research
 ---
 ## Part 2 Experimental Systems in Music
 
