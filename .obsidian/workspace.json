@@ -63,9 +63,11 @@
             "id": "9613bc6eb5662748",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "main.pdf"
+                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -136,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.pdf",
+                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main.pdf",
+                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main.pdf"
+                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md"
               }
             }
           }
@@ -205,6 +207,10 @@
   },
   "active": "9613bc6eb5662748",
   "lastOpenFiles": [
+    "05- bib full/Willa Köerner_Tommy Martinez_The House That Technology Built.pdf",
+    "Resonando - txt.md",
+    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "main.pdf",
     "03- score/resonando_score_notes_v2.pdf",
     "05- bib full/Everest Pipkin_The House That Technology Built.pdf",
     "05- bib full/Newport Cal_How To Become A Straight-A Student.pdf",
@@ -214,8 +220,6 @@
     "05- bib full/LachenmannHelmut_SoundTypes.pdf",
     "05- bib full/InstitutoCarlosVega_Revista.pdf",
     "05- bib full/GarcíaAmezagaNekane_PensamientoyCritica_Adorno.pdf",
-    "05- bib full/GandiniGerardo_SeisTientos.pdf",
-    "05- bib full/GandiniGerardo_ObjetosEncontrados_RevistaLulu1991.pdf",
     "Tesina - cronograma 2023.md",
     "04- media/baquetas4.jpg",
     "04- media/baquetas3.jpg",
@@ -229,9 +233,7 @@
     "03- week plan/2023-10-17.md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
-    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
     "01- txt/timbre/Modulación tímbrica.md",
-    "Resonando - txt.md",
     "00- inicial/Sobre el proceso.md",
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
