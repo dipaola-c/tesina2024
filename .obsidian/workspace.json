@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resonando - txt.md",
+                "file": "Tesina - cronograma 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resonando - txt.md",
+                "file": "Tesina - cronograma 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resonando - txt.md",
+                "file": "Tesina - cronograma 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resonando - txt.md"
+                "file": "Tesina - cronograma 2023.md"
               }
             }
           }
@@ -179,25 +179,30 @@
   },
   "active": "ee8f3dca70a1004f",
   "lastOpenFiles": [
-    "main.pdf",
-    "Tesina - cronograma 2023.md",
-    "Resonando - txt.md",
-    "01- txt/artistic research/Artistic Research in Music.md",
-    "00- inicial/Glosario.loom",
-    "00- inicial/Tesina - cronograma 2023.md",
-    "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
-    "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.docx",
     "00- inicial/0- Ideas obra.md",
-    "03- score/resonando_score_notes_v2.pdf",
-    "04- media/vc_mute_tornillo.mp4",
-    "04- media/ricochet_vertical2.mp4",
-    "04- media/ricochet_vertical0.mp4",
-    "04- media/platillo_vib.mp4",
-    "04- media/piano_vib.mp4",
-    "04- media/baquetas5.jpeg",
-    "04- media/baquetas4.jpg",
-    "04- media/baquetas3.jpg",
+    "00- inicial/Sobre el proceso.md",
+    "00- inicial/Correcciones y sugerencias audio.md",
+    "00- inicial/2- Gerardo Gandini.md",
+    "00- inicial/1- Investigación.md",
     "04- media/baquetas2.jpg",
+    "04- media/ensayo2.mp4",
+    "04- media/ensayo.mp4",
+    "04- media/neo_ensayo3.wav",
+    "04- media/neo_ensayo2.wav",
+    "04- media/neo_ensayo1.wav",
+    "04- media/mapa.png",
+    "04- media/neo_concierto 2.m4v",
+    "04- media/neo_concierto 1.m4v",
+    "04- media/piano_vib.mp4",
+    "04- media/ricochet_vertical0.mp4",
+    "04- media/vc_mute_tornillo.mp4",
+    "04- media/baquetas4.jpg",
+    "04- media/baquetas5.jpeg",
+    "Resonando - txt.md",
+    "Tesina - cronograma 2023.md",
+    "01- txt/artistic research/Artistic Research in Music.md",
+    "00- inicial/Tesina - cronograma 2023.md",
+    "04- media/baquetas3.jpg",
     "04- media/baquetas.jpg",
     "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
@@ -208,20 +213,16 @@
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
     "01- txt/timbre/Modulación tímbrica.md",
-    "00- inicial/Sobre el proceso.md",
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
     "01- txt/tiempo/Tiempo y forma.md",
     "01- txt/instrumentos-herramientas/Bandoneon ! (A Combine) (1966) - David Tudor.md",
     "01- txt/gandini/El acento agudo.md",
     "01- txt/gandini/Varios sobre Gerardo Gandini.md",
-    "00- inicial/Correcciones y sugerencias audio.md",
     "02- img/Pasted image 20231018151321.png",
     "02- img/Pasted image 20231018150212.png",
     "02- img/Pasted image 20231018150031.png",
     "02- img/Pasted image 20231018144032.png",
-    "02- img/Pasted image 20231018142333.png",
-    "00- inicial/1- Investigación.md",
     "2023-10-16.md",
     "2023-10-02.md"
   ]
