@@ -63,11 +63,9 @@
             "id": "9613bc6eb5662748",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-                "mode": "source",
-                "source": false
+                "file": "03- score/resonando_score_notes_v2.pdf"
               }
             }
           }
@@ -138,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+                "file": "03- score/resonando_score_notes_v2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+                "file": "03- score/resonando_score_notes_v2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md"
+                "file": "03- score/resonando_score_notes_v2.pdf"
               }
             }
           }
@@ -205,27 +203,27 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9613bc6eb5662748",
+  "active": "7f80322636974088",
   "lastOpenFiles": [
-    "05- bib full/Willa Köerner_Tommy Martinez_The House That Technology Built.pdf",
-    "Resonando - txt.md",
-    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
-    "main.pdf",
-    "03- score/resonando_score_notes_v2.pdf",
-    "05- bib full/Everest Pipkin_The House That Technology Built.pdf",
-    "05- bib full/Newport Cal_How To Become A Straight-A Student.pdf",
-    "05- bib full/SparnaayHarry_ClarineteBajo.pdf",
-    "05- bib full/SadJorge_FormasSonoroSimbolicas.pdf",
-    "05- bib full/LluánClaudio_DataGabriel_AnalizaryComponerDesdeelGesto.pdf",
-    "05- bib full/LachenmannHelmut_SoundTypes.pdf",
-    "05- bib full/InstitutoCarlosVega_Revista.pdf",
-    "05- bib full/GarcíaAmezagaNekane_PensamientoyCritica_Adorno.pdf",
-    "Tesina - cronograma 2023.md",
+    "04- media/baquetas5.jpeg",
     "04- media/baquetas4.jpg",
     "04- media/baquetas3.jpg",
     "04- media/baquetas2.jpg",
     "04- media/baquetas.jpg",
-    "04- media/baquetas5.jpeg",
+    "04- media",
+    "03- score/resonando_score_notes.pdf",
+    "03- score/resonando_score.pdf",
+    "03- score/resonando_disposicion_material.pdf",
+    "05- bib full/CatalanSergio_PosibilidadesDeLaFlauta.pdf",
+    "05- bib full/InstitutoCarlosVega_Revista.pdf",
+    "05- bib full/CunninghamJuan_InfluenciadeLosSeisTientosParaGuitarradeGerardoGandinienLosSeisEstudiosParaGuitarraLibrodeFernandoMaglia.pdf",
+    "05- bib full/Etkin_Cancian_Mastropietro_Villanueva_CitaOrnamentacionenlaMusicadeGerardoGandini.pdf",
+    "05- bib full/GandiniGerardo_MusicaContemporaneaSecundaria.pdf",
+    "Resonando - txt.md",
+    "Tesina - cronograma 2023.md",
+    "Glosario.loom",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
     "01- txt/artistic research/Artistic Research in Music.md",
     "01- txt/artistic research/Artistic Research in Music (all text).md",
     "01- txt/artistic research/How to become a Straight-A student.md",
@@ -238,7 +236,6 @@
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
     "01- txt/tiempo/Tiempo y forma.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/instrumentos-herramientas/Bandoneon ! (A Combine) (1966) - David Tudor.md",
     "01- txt/gandini/El acento agudo.md",
     "01- txt/gandini/Varios sobre Gerardo Gandini.md",
