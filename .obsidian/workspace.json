@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music.md",
+                "file": "Tesina - cronograma 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music.md",
+                "file": "Tesina - cronograma 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music.md",
+                "file": "Tesina - cronograma 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/artistic research/Artistic Research in Music.md"
+                "file": "Tesina - cronograma 2023.md"
               }
             }
           }
@@ -180,9 +180,11 @@
   "active": "ee8f3dca70a1004f",
   "lastOpenFiles": [
     "01- txt/artistic research/Artistic Research in Music (all text).md",
-    "01- txt/artistic research/How to become a Straight-A student.md",
-    "01- txt/artistic research/Experimental Systems and Artistic Research.md",
     "01- txt/artistic research/Artistic Research in Music.md",
+    "01- txt/artistic research/Experimental Systems and Artistic Research.md",
+    "01- txt/artistic research/How to become a Straight-A student.md",
+    "05- bib full/CoessensKathleenDarlaCrispinAnne Douglas_Why artistic research matters.pdf",
+    "05- bib full/FraylingChristopher_Research in Art and Design.pdf",
     "Tesina - cronograma 2023.md",
     "00- inicial/0- Ideas obra.md",
     "00- inicial/Sobre el proceso.md",
@@ -199,8 +201,6 @@
     "04- media/neo_concierto 2.m4v",
     "04- media/neo_concierto 1.m4v",
     "04- media/piano_vib.mp4",
-    "04- media/ricochet_vertical0.mp4",
-    "04- media/vc_mute_tornillo.mp4",
     "04- media/baquetas4.jpg",
     "04- media/baquetas5.jpeg",
     "Resonando - txt.md",
@@ -223,7 +223,6 @@
     "02- img/Pasted image 20231018150212.png",
     "02- img/Pasted image 20231018150031.png",
     "02- img/Pasted image 20231018144032.png",
-    "2023-10-16.md",
-    "2023-10-02.md"
+    "2023-10-16.md"
   ]
 }

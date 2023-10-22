@@ -28,6 +28,10 @@
 - [x] Ler *Software for artists book*
 - [x] Leer Essays and Papers
 - [ ] Ver Latex
+- [ ] Leer 4 textos curso
+- [ ] Video+transcripción actividad curso
+- [ ] Análisis obra/obras
+- [ ] Step 1-4 artistic research
 ---
 #### 3ra semana (24-10-2023)
 ---
