@@ -1,0 +1,4 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Sección primera}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Subsección primera}{1}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Subsubsección primera}{1}{}%

@@ -31,7 +31,11 @@
 - [ ] Leer Estrategias de composición... timbre - Castro
 - [ ] Ver *Stiegler* ??
 ##### Otros / herramientas / ejercicios
-- [ ] Ver Latex
+- [x] Ver Latex
+	- [x] LyX
+	- [x] Overleaf
+	- [x] Paaperia
+- [ ] Ver Zotero
 - [ ] Video+transcripción **actividad** Curso Orpheus Institute in Ghent
 - [ ] Análisis obra/obras / intereses personales
 	- [ ] Análisis de *Resonando*
