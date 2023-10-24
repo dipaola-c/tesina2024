@@ -11,6 +11,7 @@
 			- capitulo 5 artificiales
 - Realizar análisis de la obra hasta el momento
 - Cambios tentativos de la obra
+Modo algo granular, de mosaico tímbrico, por eso es un posible tema, el timbre, podrias relacionarlo con la forma, que es el contenido en el que valverde hace hincapié, (forma tímbrica?, forma a partir del timbre?, ) o lo que ya hablamos de los moduladores, a eso sumar 1 (una sola, UNA no mas que una), herramienta novedosa de análisis, por ej  con flucoma podes analisar resultantes timbricas, teniendo los audios es facil y estas aportando al campo, es un contenido que podrias despues enseñar.
 ---
 #### 1ra semana (10-10-2023)
 ###### Tareas
@@ -24,7 +25,7 @@
 ##### Investigación
 - [x] Leer *Essays and Papers*
 - [ ] Leer *Experimental systems* (Assis)
-- [ ] Capítulo 1 - Curso Orpheus Institute in Ghent https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
+- [x] Capítulo 1 - Curso Orpheus Institute in Ghent https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
 ##### Temas posibles / intereses
 - [ ] Step 1-4 artistic research (*Essays and Papers*)
 - [x] Leer *Software for artists book*
