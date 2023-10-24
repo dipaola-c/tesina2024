@@ -24,7 +24,7 @@ Modo algo granular, de mosaico tímbrico, por eso es un posible tema, el timbre,
 
 ##### Investigación
 - [x] Leer *Essays and Papers*
-- [ ] Leer *Music 2.0* (Assis)
+- [x] Leer *Music 2.0* (Assis)
 - [x] Capítulo 1 - Curso Orpheus Institute in Ghent https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
 ##### Temas posibles / intereses
 - [ ] Step 1-4 artistic research (*Essays and Papers*)
@@ -38,7 +38,7 @@ Modo algo granular, de mosaico tímbrico, por eso es un posible tema, el timbre,
 	- [x] Paaperia
 - [x] Ver Zotero
 - [x] Video+transcripción **actividad** Curso Orpheus Institute in Ghent
-- [ ] Análisis obra/obras / intereses personales
+- [ ] Análisis obra / obras / intereses personales
 	- [ ] Análisis de *Resonando*
 ##### Obra
 - [ ] Corregir audio: comienzo, intersección, + textura vib, perfil sección A (direccionalidad)
