@@ -4,5 +4,9 @@
   "theme": "moonstone",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
-  "translucency": true
+  "translucency": true,
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "textFontFamily": "Helvetica Neue",
+  "interfaceFontFamily": "Helvetica"
 }
