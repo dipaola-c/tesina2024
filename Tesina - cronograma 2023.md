@@ -35,7 +35,7 @@
 	- [x] LyX
 	- [x] Overleaf
 	- [x] Paaperia
-- [ ] Ver Zotero
+- [x] Ver Zotero
 - [ ] Video+transcripción **actividad** Curso Orpheus Institute in Ghent
 - [ ] Análisis obra/obras / intereses personales
 	- [ ] Análisis de *Resonando*

@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00- inicial/0- Ideas obra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee8f3dca70a1004f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Tesina - cronograma 2023.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,25 +165,29 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ee8f3dca70a1004f",
+  "active": "7f80322636974088",
   "lastOpenFiles": [
     "Resonando - txt.md",
+    "06- output/main.pdf",
+    "06- output/main.bbl",
+    "06- output/main.blg",
     "Tesina - cronograma 2023.md",
-    "main.pdf",
-    "main.run.xml",
-    "main.toc",
-    "main.bcf",
-    "main.aux",
-    "main.log",
-    "ref.aux.bbl",
-    "ref.aux.blg",
-    "ref.bbl",
-    "ref.blg",
-    "01- txt/artistic research/Artistic Research in Music.md",
-    "01- txt/artistic research/Artistic Research in Music (all text).md",
-    "01- txt/artistic research/Experimental Systems and Artistic Research.md",
     "01- txt/artistic research/How to become a Straight-A student.md",
+    "01- txt/artistic research/Artistic Research in Music (all text).md",
+    "01- txt/artistic research/Artistic Research in Music.md",
     "00- inicial/0- Ideas obra.md",
+    "06- output2",
+    "06- output/main.run.xml",
+    "06- output/main.ilg",
+    "06- output/main.ind",
+    "06- output/main.lol",
+    "06- output/main.lot",
+    "06- output/main.lof",
+    "06- output/images/seaside.jpeg",
+    "06- output/images/monalisa.jpg",
+    "06- output/MANIFEST.md",
+    "06- output/README.md",
+    "01- txt/artistic research/Experimental Systems and Artistic Research.md",
     "00- inicial/Sobre el proceso.md",
     "00- inicial/Correcciones y sugerencias audio.md",
     "00- inicial/2- Gerardo Gandini.md",
@@ -218,11 +210,7 @@
     "01- txt/tiempo/Tiempo y forma.md",
     "01- txt/instrumentos-herramientas/Bandoneon ! (A Combine) (1966) - David Tudor.md",
     "01- txt/gandini/El acento agudo.md",
-    "01- txt/gandini/Varios sobre Gerardo Gandini.md",
     "02- img/Pasted image 20231018151321.png",
-    "02- img/Pasted image 20231018150212.png",
-    "02- img/Pasted image 20231018150031.png",
-    "02- img/Pasted image 20231018144032.png",
-    "2023-10-16.md"
+    "02- img/Pasted image 20231018150212.png"
   ]
 }
