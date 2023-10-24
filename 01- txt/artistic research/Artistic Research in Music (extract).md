@@ -24,9 +24,10 @@ Relación artista <--> obra/proyecto y a su vez como ésta aporta al conocimient
 
 **"Ideally it will evolve in a feedback relationship with your research – this, surely, is the prime motivation."**
 
-- [ ] HACER VIDEO - A qué te dedicas, ¿en términos prácticos? ¿Por qué? ¿En qué campo trabajas? ¿Tu tema? ¿Cuáles son los problemas? ¿Afrontas en tu práctica como artista? Aquí es importante pensar más allá de lo técnico. o desafíos personales. ¿Qué redes o prácticas musicales, culturales o profesionales tienes? mudarse o relacionarse con? ¿Y qué otras áreas de pensamiento o práctica te interesan? ¿En o has encontrado algo que pueda ser relevante para tu trabajo como artista?
-- [ ] TRANSCRIBIR
+- [x] HACER VIDEO - A qué te dedicas, ¿en términos prácticos? ¿Por qué? ¿En qué campo trabajas? ¿Tu tema? ¿Cuáles son los problemas? ¿Afrontas en tu práctica como artista? Aquí es importante pensar más allá de lo técnico. o desafíos personales. ¿Qué redes o prácticas musicales, culturales o profesionales tienes? mudarse o relacionarse con? ¿Y qué otras áreas de pensamiento o práctica te interesan? ¿En o has encontrado algo que pueda ser relevante para tu trabajo como artista?
+- [x] TRANSCRIBIR
 - [x] Leer cuatro textos
+
 
 ## 2. Finding focus: articulating questions, topics and objectives
     
