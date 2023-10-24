@@ -1,4 +1,8 @@
 {
-  "accentColor": "",
-  "cssTheme": "Reverie"
+  "accentColor": "#6a8a7a",
+  "cssTheme": "Dayspring",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "translucency": true
 }
