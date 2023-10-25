@@ -9,19 +9,17 @@ timbres fluctuantes
 glissando timbrico
 
 ~~en relación a gandini, la explotación del piano hacia el ensamble ??, el ensamble como un gran piano~~
-==En vez de citar... una 're-armonización' en el sentido de Ives, de alguna obra de Gandini (armonización textural - masa sonora)==
-~~Ostinato tímbrico??~~
+~~==En vez de citar... una 're-armonización' en el sentido de Ives, de alguna obra de Gandini (armonización textural - masa sonora)==~~
+Ostinato tímbrico??
 ~~Gandini como ostinato?? (pasos en la nieve)~~
 
 Relevo de texturas/sonoridades/timbres
 ==Heterofonías que se unan por dif parámetros (unión tímbrica), unión armónica, unión rítmica...==
 ==Dos procesos en simultaneo (si hay un bloque de unisono, q se vayan sumando como el ej de mastropietro ? se suman notas al acorde en lo vertical)==
 
-Entonces si, tomando la revista de Lulu el escrito de Gandini, prolifera los obj encontrados, que pasa si se prolifera un objeto pero timbricamente, tomando en cuenta a Schaeffer.
+~~Entonces si, tomando la revista de Lulu el escrito de Gandini, prolifera los obj encontrados, que pasa si se prolifera un objeto pero timbricamente, tomando en cuenta a Schaeffer.~~
 
 entonces todo el SI de la VI está en la obra siempre relevandose entre instrumentos ? como elemento de continuidad
-
-
 
 ## Idea musical/formal
 ### Micro forma, nivel medio y macro forma
@@ -93,13 +91,10 @@ empieza como algo q se deshace ?
 - el ruido de la caña del clari...
 
 sonido puro ebow piano
-pian com wbow y acercarle algun clip etc
+pian com ebow y acercarle algun clip etc
 tamb puedo modular el ebow mantenido articulando modulando el pedal de sustain (siempre manteniendo la tecla baja de la cuerda del ebow)
 
 ==Ver amplificación SOLO para amplificar el volumen==
-
-
-![[Pasted image 20230404214845.png]]
 
 
 Flauta

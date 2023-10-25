@@ -73,6 +73,11 @@ Sobre el título
 - Sobre las alturas (campo armónico)
     
 - Sobre los contrastes/partes/forma (campo temporal)
+
+Fausto Romitelli, en el año 2001, expresaba: “En el centro de mis com- posiciones está la idea de considerar el sonido como una materia en la que sumergirse para forjar sus características físicas y perceptivas: textura, espe- sor, porosidad, luminosidad, densidad, elasticidad. Así nace la escultura de so- nido, síntesis instrumental, anamorfosis, trasformación de la morfología espec- tral, una derivación constante hacia densidades insostenibles, distorsión, inter- ferencias [...] Cada vez es mayor la importancia que se le da a la sonoridad que no deriva del academicismo, al sonido sucio y violento”. Il compositore come virus del propio Romitelli, Milano Música
+
+Sparrow Ayub, sostiene la división de la creación musical en dos apar- tados: el primero, hace hincapié en la construcción secuencial de los materiales (modalidad objeto); el segundo, más pertinente a lo que nos compete, hace énfasis en lo irreversible, música percibida como textura de elementos sonoros de dirección “aparentemente” improbable (modalidad evolutiva). Extraído de: “Creación musical al interior de la materia sonora”, Perspectiva Interdisciplinaria de Música.
+
 ### Sobre los comportamientos específicos
 - Reflexionar sobre las categorías ruido/sonido
     
@@ -87,7 +92,7 @@ Sobre el título
 - Murail
     
 - Romitelli
-
+“Fremdkörper II” (Prins, Stefan), “Skip a beat” (Wertmue- ller, Michael) y “Oxide” (María Sánchez-Verdú, José)
 ## Bibliografía
 ```dataview
 Table author as author, publish as "año", tags as tags

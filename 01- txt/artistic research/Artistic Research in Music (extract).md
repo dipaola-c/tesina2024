@@ -20,7 +20,7 @@ Relación artista <--> obra/proyecto y a su vez como ésta aporta al conocimient
 
 *==(...) knowledge exists in the context of a discourse, an exchange: sufficient consensus for differences of opinion to make sense. We might think of these as knowledge economies. Economies have their own terms, values and dynamics, so it’s not surprising that the knowledge economy in one country – one system of funding and learning – has different ways of expressing and evaluating this kind of work to that in another, and makes different demands on artist researchers. Just like science, artistic research cannot entirely separate itself from the institutional context within which it takes place. Just as in science, there is often a dynamic tension between institution or discipline and the individual. But the negotiation of this tension is an essential part of the production of knowledge, of discourse and of community.==*
 
-> [!info] Estamos hablando de proyectos donde el artist impulsa la investigación, donde su práctica no sólo es central sino indispensable para ello. En este sentido, “pregunta” es un concepto útil, plástico y maleable, como veremos. Abarca desde problemas muy específicos hasta la investigación, la especulación, el experimento mental o el salto de la imaginación.
+> [!info] Estamos hablando de proyectos donde el artista impulsa la investigación, donde su práctica no sólo es central sino indispensable para ello. En este sentido, “pregunta” es un concepto útil, plástico y maleable, como veremos. Abarca desde problemas muy específicos hasta la investigación, la especulación, el experimento mental o el salto de la imaginación.
 
 **"Ideally it will evolve in a feedback relationship with your research – this, surely, is the prime motivation."**
 

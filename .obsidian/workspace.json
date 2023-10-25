@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesina - cronograma 2023.md",
+                "file": "01- txt/artistic research/Music 2.0 and artistic research.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 200
   },
   "right": {
     "id": "3319ad7f620eb724",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesina - cronograma 2023.md",
+                "file": "01- txt/artistic research/Music 2.0 and artistic research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tesina - cronograma 2023.md",
+                "file": "01- txt/artistic research/Music 2.0 and artistic research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tesina - cronograma 2023.md"
+                "file": "01- txt/artistic research/Music 2.0 and artistic research.md"
               }
             }
           }
@@ -167,50 +167,50 @@
   },
   "active": "f292753864d8e233",
   "lastOpenFiles": [
-    "01- txt/artistic research/Music 2.0 and artistic research.md",
-    "05- bib full/Assis_Music_2_0_and_Artistic_Research_Beyond_a.pdf",
-    "01- txt/artistic research/Artistic Research in Music (all text).md",
-    "01- txt/artistic research/Artistic Research in Music (extract).md",
     "01- txt/artistic research/How to become a Straight-A student.md",
-    "02- img/Pasted image 20231024170841.png",
-    "01- txt/artistic research/Research in art and design.md",
+    "01- txt/artistic research/Artistic Research in Music (extract).md",
+    "01- txt/artistic research/Artistic Research in Music (all text).md",
     "06- output/main.pdf",
-    "01- txt/artistic research/The Artistic Turn.md",
-    "01- txt/artistic research/course_artistic_research.pdf",
-    "05- bib full/Assis_2018_Experimental Systems and Artistic Research.pdf",
-    "05- bib full/AresGaston_Delgado.pdf",
     "Tesina - cronograma 2023.md",
     "Resonando - txt.md",
-    "01- txt/timbre/Modulación tímbrica.md",
-    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
-    "03- score/resonando_score_notes.pdf",
-    "05- bib full/LluánClaudio_DataGabriel_AnalizaryComponerDesdeelGesto.pdf",
-    "05- bib full/GandiniGerardo_ObjetosEncontrados_RevistaLulu1991.pdf",
-    "05- bib full/CunninghamJuan_InfluenciadeLosSeisTientosParaGuitarradeGerardoGandinienLosSeisEstudiosParaGuitarraLibrodeFernandoMaglia.pdf",
-    "05- bib full/SchwabMichael-Experimental Systems. Future Knowledge in Artistic Research.pdf",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "01- txt/instrumentos-herramientas/Bandoneon ! (A Combine) (1966) - David Tudor.md",
-    "00- inicial/0- Ideas obra.md",
+    "06- output copy/main.pdf",
     "06- output/images/seaside.jpeg",
     "06- output/images/monalisa.jpg",
-    "06- output/MANIFEST.md",
-    "06- output/README.md",
+    "06- output/chapters/textnotes.tex",
+    "06- output/chapters/references.tex",
+    "06- output/chapters/preface.tex",
+    "06- output/chapters/options.tex",
+    "06- output/chapters/mathematics.tex",
+    "06- output/chapters/layout.tex",
+    "06- output/chapters/introduction.tex",
+    "06- output/chapters/figsntabs.tex",
+    "06- output borrador/images/seaside.jpeg",
+    "06- output borrador/images/monalisa.jpg",
+    "06- output copy/images/seaside.jpeg",
+    "06- output copy/images/monalisa.jpg",
     "00- inicial/Sobre el proceso.md",
     "00- inicial/Correcciones y sugerencias audio.md",
     "00- inicial/2- Gerardo Gandini.md",
+    "00- inicial/1- Obras y análisis.md",
     "00- inicial/1- Investigación.md",
+    "00- inicial/0- Ideas obra.md",
+    "Pasted image 20230404214845.png.md",
+    "01- txt/artistic research/Music 2.0 and artistic research.md",
+    "02- img/Pasted image 20231024170841.png",
+    "01- txt/artistic research/Research in art and design.md",
+    "01- txt/artistic research/The Artistic Turn.md",
+    "01- txt/timbre/Modulación tímbrica.md",
+    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01- txt/instrumentos-herramientas/Bandoneon ! (A Combine) (1966) - David Tudor.md",
+    "06- output/MANIFEST.md",
+    "06- output/README.md",
     "04- media/baquetas2.jpg",
     "04- media/mapa.png",
     "04- media/baquetas4.jpg",
-    "04- media/baquetas5.jpeg",
     "00- inicial/Tesina - cronograma 2023.md",
-    "04- media/baquetas3.jpg",
-    "04- media/baquetas.jpg",
     "03- week plan/2023-10-17.md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-    "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
-    "01- txt/textura/La doble génesis del concepto de textura musical.md",
-    "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
-    "02- img/Pasted image 20231018151321.png"
+    "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md"
   ]
 }
