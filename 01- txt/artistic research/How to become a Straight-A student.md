@@ -88,7 +88,7 @@ Como JSTOR
 (no citar web sites, pero si extraer de ellas algunas referencias de libros)
 ##### Search Tactic #4: Ask a Librarian
 
-###### Sobre las bibliotecas online
+##### Sobre las bibliotecas online
 - OpenAthens
 - ResearchGate
 - JSTOR
