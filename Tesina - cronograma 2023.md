@@ -49,27 +49,27 @@ gantt
 dateFormat  DD-MM
 title       GANNT
 
-section tarea1
-w1   :done, w1, 28-10, 29-10
-w1   :done, w2, after w1, 2d
-w3  :done, w3, after w2, 29-10
-m1 :milestone, m1, 29-10 , 0d
-w4 :active, w4, after w2, 29-10
-w5 :w5, after w4, 3d
-w6 :w6, after w5, 2d
+section morning
+tags   :done, w1, 28-10, 29-10
+bandoneon   :done, w2, after w1, 2d
+obra  :done, w3, after w2, 29-10
+kagel :milestone, m1, 29-10 , 0d
+obra :active, w4, after w2, 29-10
+david tudor :w5, after w4, 3d
+web :w6, after w5, 2d
 
-section tarea2
-c1   :c1, 29-10, 02-11
+section break
+estética benjamin   :c1, 29-10, 02-11
 
-section tarea3
-dp1   :active, dp1, 29-10, 03-11
-dp2   :dp2, after w6 dp1, 03-11
-dp3   :dp3, 04-11, 06-11
+section afternoon
+reminded by instruments   :active, dp1, 29-10, 03-11
+mapeo   :dp2, after w6 dp1, 03-11
+make web   :dp3, 04-11, 06-11
 m2    :milestone, m2, 05-11, 0d
-dp4   :active, dp4, 05-11, 06-11
+fluCoMa   :active, dp4, 05-11, 06-11
 
-section tarea4
-md1  :md1, 28-10, 02-11
+section night
+pipkin  :md1, 28-10, 30-10
 ```
 ---
 #### 4ta semana (31-10-2023 al 06-11-2023)
