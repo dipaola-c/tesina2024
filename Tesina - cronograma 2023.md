@@ -43,7 +43,7 @@ Modo algo granular, de mosaico tímbrico, por eso es un posible tema, el timbre,
 ##### Obra
 - [ ] Corregir audio: comienzo, intersección, + textura vib, perfil sección A (direccionalidad)
 ---
-#### 3ra semana (24-10-2023)
+#### 3ra semana y 4ta semana (al 06-11-2023)
 ```mermaid
 gantt
 dateFormat  DD-MM
@@ -71,8 +71,6 @@ fluCoMa   :active, dp4, 05-11, 06-11
 section night
 pipkin  :md1, 28-10, 30-10
 ```
----
-#### 4ta semana (31-10-2023 al 06-11-2023)
 ---
 ### Noviembre
 ---

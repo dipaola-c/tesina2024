@@ -1,12 +1,6 @@
 ![[Pasted image 20231010225420.png]]
 
 *'Para mí la composición es una especie de trabajo científico: cuando aparecen los problemas, hay que intentar solucionarlos. Pienso por ejemplo en los ámbitos de la matemática, como el de la optimización a través de operaciones combinatorias. (...) Se hacen intentos de acercamiento, como si se tratara de investigaciones geográfica en aquellos tiempos en los que todavía había terrenos inexplorados en el planeta. Una expedición para completar un mapa. '* (Ligeti - diálogo con Stahnke)
-## Práctica artística
-
-### Comienzo de la obra
-
-*Resonando* surge como ...
-
 ### Material de escucha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6bh3bWP5lc?si=1jxLBEmIKGZFwLTD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -70,6 +64,43 @@ https://www.youtube.com/watch?v=pIEUS0-DDcs&ab_channel=JuanPabloVitali
 ##### B
 - 18.03 hacer esperar más la entrada del acorde mas suave.
 - ver pizzicatos 18.38 piano (o que sean armónicos … ?)
+- 19.13 que tarde más?
+- 19.10 a 20 reveer armonía, no está mal pero muy planchada, tal vez que se haga más armónica luego, en contraste a 19.40
+- 19.42 ok el sul ponticello idem 19.49 etc en relación a vib
+
+##### Final ?
+- a partir de 20 reveer, le falta maduración para poder llegar a ese punto
+- 20.28 explorar timbre
+- ok final ebow, ver corte prolijo. Pero ¿cómo llegar hasta allí?
+
+- ver comienzo armonía
+- ver armonía en general
+- funcionalidad de nivel medio
+- sensación temporal y espacial
+- transición formal entre A -> B
+- darle entidad al vib
+- explotar 20.30
+- visión/escucha 'lupa' de esa iteración con el vibrador (por dentro del sonido), relación ricochet, materiales iterados (timbre imaginario ?)
+==- ver piano en general==
+
+==PENDIENTE==
+- El sonido se traslada (cada línea con su particularidad)
+- Misma nota, diferente comportamiento
+- Notas con perfil determinado (cambian entre instrumentos)
+
+
+
+
+### Correcciones puntuales
+
+##### A
+- 16.30 sonido cuasi bandoneón ??? explotar? (en relación a la parte calmax). 
+- silencio de 17.56?? (más acumulación parte A)
+
+##### B
+- 18.03 hacer esperar más la entrada del acorde mas suave.
+- ver pizzicatos 18.38 piano (o que sean armónicos … ?)
+- 18.57 la flauta rara
 - 19.13 que tarde más?
 - 19.10 a 20 reveer armonía, no está mal pero muy planchada, tal vez que se haga más armónica luego, en contraste a 19.40
 - 19.42 ok el sul ponticello idem 19.49 etc en relación a vib

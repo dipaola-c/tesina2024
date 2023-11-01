@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resonando - txt.md",
+                "file": "00- inicial/Resonando - txt.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesina - cronograma 2023.md",
+                "file": "01- txt/El grado cero retórico y la neorretórica. La lectura tropológica.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesina - cronograma 2023.md",
+                "file": "01- txt/El grado cero retórico y la neorretórica. La lectura tropológica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tesina - cronograma 2023.md",
+                "file": "01- txt/El grado cero retórico y la neorretórica. La lectura tropológica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tesina - cronograma 2023.md"
+                "file": "01- txt/El grado cero retórico y la neorretórica. La lectura tropológica.md"
               }
             }
           }
@@ -167,7 +167,17 @@
   },
   "active": "f292753864d8e233",
   "lastOpenFiles": [
-    "Resonando - txt.md",
+    "01- txt/gandini/Varios sobre Gerardo Gandini.md",
+    "01- txt/El grado cero retórico y la neorretórica. La lectura tropológica.md",
+    "00- inicial/Audio correcciones e ideas.md",
+    "00- inicial/0- Ideas obra.md",
+    "00- inicial/Resonando - txt.md",
+    "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
+    "00- inicial/Glosario.loom",
+    "00- inicial/1- Investigación.md",
+    "00- inicial/1- Obras y análisis.md",
+    "00- inicial/2- Gerardo Gandini.md",
+    "00- inicial/Correcciones y sugerencias audio.md",
     "Tesina - cronograma 2023.md",
     "06- output/main.pdf",
     "05- bib full/CatalanSergio_PosibilidadesDeLaFlauta.pdf",
@@ -185,18 +195,10 @@
     "06- output copy/main.pdf",
     "06- output/images/seaside.jpeg",
     "06- output/images/monalisa.jpg",
-    "06- output/chapters/textnotes.tex",
-    "06- output/chapters/references.tex",
     "06- output borrador/images/seaside.jpeg",
     "06- output borrador/images/monalisa.jpg",
     "06- output copy/images/seaside.jpeg",
     "06- output copy/images/monalisa.jpg",
-    "00- inicial/Sobre el proceso.md",
-    "00- inicial/Correcciones y sugerencias audio.md",
-    "00- inicial/2- Gerardo Gandini.md",
-    "00- inicial/1- Obras y análisis.md",
-    "00- inicial/1- Investigación.md",
-    "00- inicial/0- Ideas obra.md",
     "Pasted image 20230404214845.png.md",
     "02- img/Pasted image 20231024170841.png",
     "01- txt/timbre/Modulación tímbrica.md",
@@ -210,7 +212,6 @@
     "04- media/baquetas4.jpg",
     "00- inicial/Tesina - cronograma 2023.md",
     "03- week plan/2023-10-17.md",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-    "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md"
+    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md"
   ]
 }
