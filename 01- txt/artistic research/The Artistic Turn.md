@@ -6,6 +6,7 @@ tags:
   - research
   - historyOfArt
   - internetCulture
+bib: read
 ---
 ## VI. Why artistic research matters
 

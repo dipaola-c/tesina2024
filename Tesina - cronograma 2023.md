@@ -1,5 +1,5 @@
 ### Octubre
-###### Objetivos
+#### Objetivos
 - Definir temática/s tentativa/s
 	- Moduladores instrumentales externos
 	- Similitud tímbrica entre moduladores humanos y artificiales

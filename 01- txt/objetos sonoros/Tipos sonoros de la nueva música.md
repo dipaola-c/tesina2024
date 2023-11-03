@@ -1,8 +1,10 @@
 ---
 type: bib
 author: Helmut Lachenmann
-tags: music
-publish:
+tags:
+  - music
+publish: 
+bib: read
 ---
 *==Sound as state and sound as process, or, sound with undefined length (which is determined in its duration only from outside), and sound with a duration intrinsically defined by a characteristic shape.==*
 

@@ -1,8 +1,10 @@
 ---
 type: bib
 author: Carlos Mastropietro
-tags: music
+tags:
+  - music
 publish: 2007
+bib: read
 ---
 *"Pienso que el sonido se manifiesta por medio del timbre y que la obra es una dimensión del timbre mismo"* (Scönberg - 1979)
 ## Fenómeno tímbrico

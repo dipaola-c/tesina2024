@@ -1,8 +1,10 @@
 ---
 type: bib
 author: Pablo Fessel
-tags: music
+tags:
+  - music
 publish: 2006
+bib: read
 ---
 
 Fessel expone dos génesis distintas del concepto *textura* entendiendo sus momentos históricos y distintas lenguas.

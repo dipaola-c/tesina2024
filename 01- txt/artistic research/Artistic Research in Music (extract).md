@@ -3,6 +3,7 @@ type: course
 place: Orpheus Institute in Ghent
 tags:
   - research
+bib: read
 ---
 ## 1. Introduction to Artistic Research
 

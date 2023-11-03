@@ -6,6 +6,7 @@ tags:
   - research
   - papers
   - essays
+bib: read
 ---
 # Essays and Papers (part 3)
 Three separate components:

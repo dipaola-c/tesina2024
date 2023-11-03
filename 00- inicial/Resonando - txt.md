@@ -96,7 +96,7 @@ Sparrow Ayub, sostiene la división de la creación musical en dos apartados: 
 ## Bibliografía
 ```dataview
 Table author as author, publish as "año", tags as tags
-WHERE contains(type,"bib")
+WHERE contains(bib,"read")
 SORT Status DESC
 ```
     

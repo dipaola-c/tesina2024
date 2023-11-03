@@ -7,6 +7,7 @@ tags:
   - neorretórica
   - metáfora
 place: Universitat de València
+bib: read
 ---
 **Abstract**
 *Este artículo pretende abordar la problemática retórica desde el punto de vista de lo que se llamó neorretóricas. Para ello haremos un breve recorrido desde las influencias más notables encontradas en el formalismo ruso hasta la lectura crítica, de los trabajos sobre todo de Roman Jakobson, Jean Cohen y el Grupo µ. A estos paradigmas teóricos contrapondremos las lecturas retóricas de Paul de Man y sobre todo lo que podríamos aplicar al grado cero retórico. Veremos entonces que los efectos políticos de esta operación afectan al posicionamiento ético ante la lectura y sobre todo ante la posibilidad de leer, ante la imposibilidad de no leer políticamente un texto.*

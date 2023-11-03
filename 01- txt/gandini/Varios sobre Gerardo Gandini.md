@@ -1,8 +1,10 @@
 ---
 type: bib
 author: Varios
-tags: music
+tags:
+  - music
 publish: 
+bib: read
 ---
 ### Tesis de posgrado entre Maglia y Gandini
 Por un lado, un tiento es un ensayo que suelen hacer los músicos antes de dar principio a una obra que pretende interpretar, recorriendo las cuerdas del instrumento por todas las consonancias para afirmar que el instrumento se encuentre bien templado. Además, se puede tratar de una composición instrumental con series de exposiciones sobre diversos temas que fue cultivada entre los siglos XVI y XVIII (RAE, 2018). ==??????==

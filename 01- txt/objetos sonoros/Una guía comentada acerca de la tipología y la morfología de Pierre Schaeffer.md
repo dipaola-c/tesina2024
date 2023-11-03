@@ -1,8 +1,10 @@
 ---
 type: bib
 author: Claudio Eiriz
-tags: music
-publish:
+tags:
+  - music
+publish: 
+bib: read
 ---
 
 #### Sobre la escucha de Schaeffer

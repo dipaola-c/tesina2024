@@ -4,6 +4,7 @@ author: Paulo de Assis
 publish: 2023
 tags:
   - research
+bib: read
 ---
 ## Beyond a thousand years of Western art music
 

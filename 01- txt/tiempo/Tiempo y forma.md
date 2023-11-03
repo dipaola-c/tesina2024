@@ -3,7 +3,8 @@ type: bib
 author: Santiago Santero - Ligeti
 tags:
   - music
-publish:
+publish: 
+bib: read
 ---
 ## Ligeti
 De una definición clásica de forma musical como 'la relación que detentan las partes tanto en relación a un todo como entre sí' hacia una propuesta de '*abstracción de la actracción*' (tiempo y espacio)

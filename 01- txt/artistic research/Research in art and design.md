@@ -4,6 +4,7 @@ author: Christopher Frayling
 publish: 1993
 tags:
   - research
+bib: read
 ---
 ## Re-search (entre la búsqueda de lo ya conocido y la innovación)
 
