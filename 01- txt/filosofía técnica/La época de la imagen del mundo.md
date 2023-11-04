@@ -12,7 +12,7 @@ Pero no se debe caer en el error de considerar que esta última es una mera apli
 
 Uno de los fenómenos esenciales de la Edad Moderna es su ciencia y la técnica mecanizada (más tarde computarizada) que exigen el uso de la ciencia **matemática**. 
 Otro fenómeno de la era moderna es la **desdivinización** o pérdida de dioses. La pérdida de dioses es la responsable de que la relación con los dioses se transforme en una (imaginería).
-Otro, el procso que introduce al **arte** en el horizonte de la estética.
+Otro, el proceso que introduce al **arte** en el horizonte de la estética.
 Otro, el obrar humano se interpreta y realiza como **cultura**.
 
 Si conseguimos alcanzar el fundamento metafísico que fundamenta la ciencia también será posible reconocer a partir de él la esencia de la era moderna en general.
