@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/filosofía técnica/La pregunta por la técnica.md",
+                "file": "01- txt/filosofía técnica/La época de la imagen del mundo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/filosofía técnica/La pregunta por la técnica.md",
+                "file": "01- txt/filosofía técnica/La época de la imagen del mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/filosofía técnica/La pregunta por la técnica.md",
+                "file": "01- txt/filosofía técnica/La época de la imagen del mundo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/filosofía técnica/La pregunta por la técnica.md"
+                "file": "01- txt/filosofía técnica/La época de la imagen del mundo.md"
               }
             }
           }
@@ -167,8 +167,9 @@
   },
   "active": "f292753864d8e233",
   "lastOpenFiles": [
-    "01- txt/filosofía técnica/Lenguaje tradicional y lenguaje técnico.md",
     "01- txt/filosofía técnica/La pregunta por la técnica.md",
+    "01- txt/filosofía técnica/La época de la imagen del mundo.md",
+    "01- txt/filosofía técnica/Lenguaje tradicional y lenguaje técnico.md",
     "01- txt/timbre/Modulación tímbrica.md",
     "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
     "01- txt/tiempo/Tiempo y forma.md",
