@@ -15,7 +15,7 @@ Sobre una teoría unificada del pensamiento de la tecnología. Por un lado, *wor
 La primera, la que 'hace que el trabajo sea más sencillo *to do*' (una pala, una máquina de escribir, un cuchillo...), que frecuentemente tienen una relación más *artesanal* con las herramientas. La segunda, 'hace que el trabajo sea más fácil de *controlar*' (un termómetro, un contador de palabras, el método Pomodoro...)
 
 Una tecnología 'holística' se define por las habilidades de los trabajadores para controlar el proceso desde el inicio hasta el final, sobre las decisiones de 'el grosor de la olla, o la forma del filo del cuchillo, o el punto de cocción del asado' (durante estos procesos puntuales).
-Sobre las preescriptivas, en oposición a las holísticas, son sistemas basados en pasos predeterminados a raíz de la mano del trabajador (fordismo, etc), separando tareas específicas del trabajo en general asginadas a grupos particulares.
+Sobre las preescriptivas, en oposición a las holísticas, son sistemas basados en pasos predeterminados a raíz de la mano del trabajador (fordismo, etc), separando tareas específicas del trabajo en general asignadas a grupos particulares.
 
 Aquí, Franklin, considera las herramientas y la tecnología no sólo como una extensión del humano en el mundo, sino como los sistemas de trabajo, control, filosofía, política, ciencia, fe y la razón, y esos sistemas vuelven a influir a los 'trabajadores' que proceden a través de ellos.
 
