@@ -21,14 +21,13 @@ Aquí, Franklin, considera las herramientas y la tecnología no sólo como una e
 
 La autora retomando a Franklin considera a las herramientas como significantes de identidad (en cuanto a clase, género, raza, nacionalidad...) y como condicionan dentro y fuera de los grupos/comunidad??
 
-**En paralelo, con la motosierra analiza su agenciamiento para el correcto funcionamiento y cómo separando de la misma la cadena, por ejemplo, no se reconoce como la herramienta completa. Para ella, evidente como este tipo de herramientas se prestan a la práctica de tecnologías holísticas o artesanales, y además como se convierten en símbolos distintivos (como banderas...)**
+**En paralelo, con la motosierra analiza su agenciamiento para el correcto funcionamiento y cómo separando de la misma la cadena, por ejemplo, no se reconoce como la herramienta completa. Para ella, es evidente como este tipo de herramientas se prestan a la práctica de tecnologías holísticas o artesanales, y además como se convierten en símbolos distintivos (como banderas...)**
 
 #### Whole Earth Catalog (1968-1974)
 https://en.wikipedia.org/wiki/Whole_Earth_Catalog
 
 #### Silicon Valley
 ![[Pasted image 20231018142333.png]]
-
 
 En definitiva, cómo las compañías han estado construyendo *control related technologies* aparentando *work related technologies* (email, social media, word processor). **Esto funciona como un símbolo y también como una promesa, donde acceder a la herramienta correcta aumenta la eficiencia del trabajo.** (la autora expone que siendo vistas todas estas herramientas como *work-related* todas son *good-right*).
 

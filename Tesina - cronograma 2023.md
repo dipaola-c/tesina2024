@@ -30,7 +30,7 @@ Modo algo granular, de mosaico tímbrico, por eso es un posible tema, el timbre,
 - [x] Step 1-4 artistic research (*Essays and Papers*)
 - [x] Leer *Software for artists book*
 - [ ] Leer Estrategias de composición... timbre - Castro
-- [ ] Ver *Stiegler* ??
+- [x] Ver *Stiegler* ??
 ##### Otros / herramientas / ejercicios
 - [x] Ver Latex
 	- [x] LyX

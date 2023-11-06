@@ -72,4 +72,4 @@ En ella el hombre lucha por alcanzar la posición en que puede llegar a ser aque
 La ciencia como investigación es una forma imprescindible de este instalarse a sí mismo en el mundo, es una de las vías por las que la edad moderna corre en dirección al cumplimiento de su esencia a una velocidad insospechada por los implicados en ella
 Pero, en cuanto lo gigantesco de la planificación (del proyecto), el cálculo, la disposición y el aseguramiento dan un salto desde lo cuantitativo a una cualidad propia (es decir, se independizan), lo gigantesco y aquello que aparentemente siempre se puede calcular por completo se convierten (en su representación), precisamente por eso, en lo incalculable.
 ==**Lo incalculable pasa a ser la sombra invisible proyectada siempre alrededor de todas las cosas (Tras lo calculado aparece un fantasma, una “sombra”: el espectro de lo incalculable).
-Esta sombra señala hacia otra cosa que nos está vedado saber a nosotros.
+Esta sombra señala hacia otra cosa que nos está vedado saber a nosotros.**==
