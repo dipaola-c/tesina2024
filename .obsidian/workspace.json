@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
+                "file": "01- txt/filosofía técnica/Espectografías.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
+                "file": "01- txt/filosofía técnica/Espectografías.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
+                "file": "01- txt/filosofía técnica/Espectografías.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md"
+                "file": "01- txt/filosofía técnica/Espectografías.md"
               }
             }
           }
@@ -165,15 +165,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "7f80322636974088",
+  "active": "f292753864d8e233",
   "lastOpenFiles": [
+    "01- txt/filosofía técnica/La pregunta por la técnica.md",
+    "01- txt/filosofía técnica/La época de la imagen del mundo.md",
+    "01- txt/filosofía técnica/Espectografías.md",
+    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
+    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
     "02- img/Pasted image 20231107144200.png",
     "01- txt/timbre/Modulación tímbrica.md",
-    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
     "Tesina - cronograma 2023.md",
     "Biblio y obras.md",
-    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
-    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
     "01- txt/obras/Pandora box.md",
     "01- txt/obras/Bandoneon ! (A Combine) (1966).md",
     "02- img/Pasted image 20231107092509.png",
@@ -186,9 +189,6 @@
     "01- txt/gandini/El acento agudo.md",
     "01- txt/gandini/Varios sobre Gerardo Gandini.md",
     "01- txt/filosofía técnica/Lenguaje tradicional y lenguaje técnico.md",
-    "01- txt/filosofía técnica/La pregunta por la técnica.md",
-    "01- txt/filosofía técnica/Espectografías.md",
-    "01- txt/filosofía técnica/La época de la imagen del mundo.md",
     "01- txt/artistic research/The Artistic Turn.md",
     "01- txt/artistic research/Research in art and design.md",
     "01- txt/artistic research/Music 2.0 and artistic research.md",
@@ -211,7 +211,6 @@
     "06- output/images/seaside.jpeg",
     "06- output/images/monalisa.jpg",
     "06- output borrador/images/seaside.jpeg",
-    "06- output borrador/images/monalisa.jpg",
-    "06- output copy/images/seaside.jpeg"
+    "06- output borrador/images/monalisa.jpg"
   ]
 }
