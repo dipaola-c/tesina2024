@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
+                "file": "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
+                "file": "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
+                "file": "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/timbre/El espacio tímbrico como estructura de control musical.md"
+                "file": "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md"
               }
             }
           }
@@ -165,20 +165,22 @@
       "templates:Insert template": false
     }
   },
-  "active": "f292753864d8e233",
+  "active": "7f80322636974088",
   "lastOpenFiles": [
-    "02- img/Pasted image 20231107092509.png",
-    "01- txt/obras/Pandora box.md",
+    "02- img/Pasted image 20231107144200.png",
+    "01- txt/timbre/Modulación tímbrica.md",
     "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
     "Tesina - cronograma 2023.md",
     "Biblio y obras.md",
+    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
     "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
-    "01- txt/timbre/Modulación tímbrica.md",
+    "01- txt/obras/Pandora box.md",
+    "01- txt/obras/Bandoneon ! (A Combine) (1966).md",
+    "02- img/Pasted image 20231107092509.png",
     "01- txt/tiempo/Tiempo y forma.md",
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
     "01- txt/semiótica/El grado cero retórico y la neorretórica. La lectura tropológica.md",
-    "01- txt/obras/Bandoneon ! (A Combine) (1966).md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
     "01- txt/gandini/El acento agudo.md",
@@ -193,7 +195,6 @@
     "01- txt/artistic research/How to become a Straight-A student.md",
     "01- txt/artistic research/course_artistic_research.pdf",
     "01- txt/artistic research/Artistic Research in Music (extract).md",
-    "01- txt/artistic research/Artistic Research in Music (all text).md",
     "01- txt/obras",
     "05- bib full/SchwabMichael-Experimental Systems. Future Knowledge in Artistic Research.pdf",
     "05- bib full/FesselPablo_Hablaelpoeta_gandini.pdf",
@@ -211,7 +212,6 @@
     "06- output/images/monalisa.jpg",
     "06- output borrador/images/seaside.jpeg",
     "06- output borrador/images/monalisa.jpg",
-    "06- output copy/images/seaside.jpeg",
-    "06- output copy/images/monalisa.jpg"
+    "06- output copy/images/seaside.jpeg"
   ]
 }
