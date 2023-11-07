@@ -1,3 +1,10 @@
+---
+type: obra
+author: David Tudor
+publish: 1966
+place: 
+tags:
+---
 David Tudor (1926–1996)
 
 En 1966, artistas, ingenieros y científicos de Bell Telephone Laboratories colaboraron en una serie de representaciones innovadoras de danza, música y teatro **9 Evenings: Theatre & Engineering**, en la ciudad de Nueva York (John Cage, Lucinda Childs, Öyvind Fahlström, Alex Hay, Deborah Hay, Steve Paxton, Yvonne Rainer, Robert Rauschenberg, David Tudor y Robert Whitman) 

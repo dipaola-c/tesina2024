@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+                "file": "Biblio y obras.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+                "file": "Biblio y obras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+                "file": "Biblio y obras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md"
+                "file": "Biblio y obras.md"
               }
             }
           }
@@ -165,34 +165,24 @@
       "templates:Insert template": false
     }
   },
-  "active": "7f80322636974088",
+  "active": "f292753864d8e233",
   "lastOpenFiles": [
-    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
-    "01- txt/filosofía técnica/Espectografías.md",
-    "01- txt/filosofía técnica/La época de la imagen del mundo.md",
-    "01- txt/filosofía técnica/La pregunta por la técnica.md",
-    "01- txt/filosofía técnica/Lenguaje tradicional y lenguaje técnico.md",
-    "05- bib full/SchwabMichael-Experimental Systems. Future Knowledge in Artistic Research.pdf",
-    "05- bib full/FesselPablo_Hablaelpoeta_gandini.pdf",
-    "02- img/Pasted image 20231105222222.png",
-    "02- img/Pasted image 20231105222248.png",
-    "02- img/Pasted image 20231105222238.png",
-    "05- bib full/Willa Köerner_Tommy Martinez_The House That Technology Built.pdf",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "Tesina - cronograma 2023.md",
-    "02- img/Pasted image 20231105141703.png",
-    "Pasted image 20231105133116.png.md",
-    "01- txt/timbre/Modulación tímbrica.md",
     "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "01- txt/timbre/Modulación tímbrica.md",
     "01- txt/tiempo/Tiempo y forma.md",
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
     "01- txt/semiótica/El grado cero retórico y la neorretórica. La lectura tropológica.md",
+    "01- txt/obras/Pandora box.md",
+    "01- txt/obras/Bandoneon ! (A Combine) (1966).md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
-    "01- txt/instrumentos-herramientas/Bandoneon ! (A Combine) (1966) - David Tudor.md",
-    "01- txt/gandini/Varios sobre Gerardo Gandini.md",
     "01- txt/gandini/El acento agudo.md",
+    "01- txt/gandini/Varios sobre Gerardo Gandini.md",
+    "01- txt/filosofía técnica/Lenguaje tradicional y lenguaje técnico.md",
+    "01- txt/filosofía técnica/La pregunta por la técnica.md",
+    "01- txt/filosofía técnica/Espectografías.md",
+    "01- txt/filosofía técnica/La época de la imagen del mundo.md",
     "01- txt/artistic research/The Artistic Turn.md",
     "01- txt/artistic research/Research in art and design.md",
     "01- txt/artistic research/Music 2.0 and artistic research.md",
@@ -200,12 +190,23 @@
     "01- txt/artistic research/course_artistic_research.pdf",
     "01- txt/artistic research/Artistic Research in Music (extract).md",
     "01- txt/artistic research/Artistic Research in Music (all text).md",
+    "Biblio y obras.md",
+    "Tesina - cronograma 2023.md",
+    "00- inicial/Resonando - txt.md",
+    "01- txt/obras",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "05- bib full/SchwabMichael-Experimental Systems. Future Knowledge in Artistic Research.pdf",
+    "05- bib full/FesselPablo_Hablaelpoeta_gandini.pdf",
+    "02- img/Pasted image 20231105222222.png",
+    "02- img/Pasted image 20231105222248.png",
+    "02- img/Pasted image 20231105222238.png",
+    "05- bib full/Willa Köerner_Tommy Martinez_The House That Technology Built.pdf",
+    "02- img/Pasted image 20231105141703.png",
     "01- txt/filosofía técnica",
     "01- txt/semiótica",
     "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "00- inicial/Glosario.loom",
     "06- output/main.pdf",
-    "05- bib full/CatalanSergio_PosibilidadesDeLaFlauta.pdf",
     "06- output/images/seaside.jpeg",
     "06- output/images/monalisa.jpg",
     "06- output borrador/images/seaside.jpeg",

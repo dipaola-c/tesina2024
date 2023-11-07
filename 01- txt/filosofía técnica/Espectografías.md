@@ -3,7 +3,8 @@ type: book
 author: Derrida - Stiegler
 publish: 
 tags: 
-place:
+place: 
+bib: read
 ---
 (temática del fantasma y el espectro)
 Roland Barthes escribía en La cámara lúcida: "Llamo 'referente fotográfico', no a la cosa opcionalment real a la que remiten una imagen o un signo, sino a la cosa necesariamente real que ha sido colocada frente al objetivo, sin la cual no había fotografía. La pintura, por su parte, pued simular la realidad sin haberla visto". Un poco más adelante agrega: "en la fotografía, nunca puedo negar que la cosa ha estado allí. Hay una doble posición conjunta de pasado y realidad... La foto es literalmente una emanación del referente".
