@@ -81,6 +81,8 @@ pipkin  :md1, 28-10, 30-10
 	- [ ] Recital Hall of Cruelty: Antonin Artaud, David Tudor, and the 1950s Avant-Garde
 	- [ ] The Buttons on Pandora’s Box: David Tudor and the Bandoneon
 	- [ ] David Tudor and the Performance of American Experimental Music **(no lo encontré!)**
+	- [ ] David Tudor’s Rainforest: An Evolving Exploration of Resonance
+	- [ ] IDEA AND COMMUNITY: THE GROWTH OF DAVID TUDOR'S RAINFOREST, 1965-2006 - Matthew R. Rogalsky
 - [ ] Espacio tímbrico - Wessel
 - [ ] Estudios tímbricos - Riera
 - [ ] Robotic musicianship - Gil Weinberg, Mason Bretan, Guy Hoffman, Scott Driscoll
@@ -90,6 +92,9 @@ pipkin  :md1, 28-10, 30-10
 1. listar los tópicos (preguntas, facts) para la tesis
 2. listar los tópicos que podrían soportar la hipótesis personal 
 3. si se puede atribuir dos fuentes a cada uno de los tópicos del paso 1, y una buena fuente para la mayoría de los tópicos en paso 2, pasar al siguiente paso, de lo contrario, seguir en la búsqueda
+
+https://www.getty.edu/research/tools/guides_bibliographies/david_tudor/resources.html (más biblio específica sobre Tudor)
+
 ---
 #### 6ta semana (14-11-2023 al 20-11-2023)
 ---
