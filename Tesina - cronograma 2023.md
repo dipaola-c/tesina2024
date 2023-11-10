@@ -78,6 +78,9 @@ pipkin  :md1, 28-10, 30-10
 ##### Objetivos
 
 - [ ] Reminded by the instruments
+	- [ ] Recital Hall of Cruelty: Antonin Artaud, David Tudor, and the 1950s Avant-Garde
+	- [ ] The Buttons on Pandora’s Box: David Tudor and the Bandoneon
+	- [ ] David Tudor and the Performance of American Experimental Music **(no lo encontré!)**
 - [ ] Espacio tímbrico - Wessel
 - [ ] Estudios tímbricos - Riera
 - [ ] Robotic musicianship - Gil Weinberg, Mason Bretan, Guy Hoffman, Scott Driscoll
