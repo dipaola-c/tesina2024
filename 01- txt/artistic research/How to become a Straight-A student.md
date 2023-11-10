@@ -34,14 +34,15 @@ La tesis presenta un argumento específico sobre el tema/observación.
 
 SUBJECT/OBSERVATION ---> THESIS
 
-> [!info] timbre humano máquina ---> similitudes y diferencias entre ...
+> [!done] timbre humano máquina ---> similitudes y diferencias entre ...
 
 #### Choosing a Research Paper Topic
 Aquí, en papers o preguntas tomar nota de los intereses.
-> [!info] lista de intereses
+> [!done] lista de intereses
 > timbre, textura
 > instrumentos inventados
 > relación humano-maquínica
+> ¿puede distinguirse el timbre desde la clasificación humano - máquina? ¿por qué algo lo reconocemos con el tag 'maquínico'?
 
 ### 2. Conduct a Thesis-Hunting Expedition
 1. find an interesting thesis that can be supported within the scope of the assignment
@@ -53,6 +54,11 @@ Aquí, en papers o preguntas tomar nota de los intereses.
 2. Examinar la lista de libros y artículos (bibliografía/referencias) citados en las secciones relevantes del paso 1.
 3. Leer/investigar sobre los items de la lista que parezcan más atractivos/interesantes.
 4. Aquí se trazan conceptos/ideas cruzadas entre los diferentes textos, que pueden tener distinto grado de relación. **Tener en consideración, que cada pequeño detalle o cruce, puede convertirse algo interesante de discutir.** Aquí, es importante no huirle a la ambigüedad, las dudas y los problemas aún no resueltos o preguntas sin responder, pueden ser de interés más tarde.
+
+> [!done] Reminded by the instruments
+> Espacio tímbrico - Wessel
+> Estudios tímbricos - Riera
+> Robotic musicianship - Gil Weinberg, Mason Bretan, Guy Hoffman, Scott Driscoll
 
 **Una buena tesis tiene cuatro cualidades: provocativa, sutil/detallista, directa e inclusiva; debería mostrar una clara comprensión de las complejidades de un tema.**
 
