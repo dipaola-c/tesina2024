@@ -3,7 +3,8 @@ type: book
 author: Paul Valéry
 tags: 
 publish: 1999
-place:
+place: 
+bib: read
 ---
 ![[Pasted image 20231105222222.png]]
 ![[Pasted image 20231105222238.png]]

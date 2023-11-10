@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/filosofía técnica/Espectografías.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/filosofía técnica/Espectografías.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/filosofía técnica/Espectografías.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/filosofía técnica/Espectografías.md"
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
               }
             }
           }
@@ -167,18 +167,22 @@
   },
   "active": "f292753864d8e233",
   "lastOpenFiles": [
+    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+    "01- txt/obras/Pandora box.md",
+    "01- txt/obras/Bandoneon ! (A Combine) (1966).md",
+    "Biblio y obras.md",
+    "Tesina - cronograma 2023.md",
+    "01- txt/filosofía técnica/Espectografías.md",
     "01- txt/filosofía técnica/La pregunta por la técnica.md",
     "01- txt/filosofía técnica/La época de la imagen del mundo.md",
-    "01- txt/filosofía técnica/Espectografías.md",
     "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
     "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
     "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
     "02- img/Pasted image 20231107144200.png",
     "01- txt/timbre/Modulación tímbrica.md",
-    "Tesina - cronograma 2023.md",
-    "Biblio y obras.md",
-    "01- txt/obras/Pandora box.md",
-    "01- txt/obras/Bandoneon ! (A Combine) (1966).md",
     "02- img/Pasted image 20231107092509.png",
     "01- txt/tiempo/Tiempo y forma.md",
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
@@ -191,10 +195,7 @@
     "01- txt/filosofía técnica/Lenguaje tradicional y lenguaje técnico.md",
     "01- txt/artistic research/The Artistic Turn.md",
     "01- txt/artistic research/Research in art and design.md",
-    "01- txt/artistic research/Music 2.0 and artistic research.md",
-    "01- txt/artistic research/How to become a Straight-A student.md",
     "01- txt/artistic research/course_artistic_research.pdf",
-    "01- txt/artistic research/Artistic Research in Music (extract).md",
     "01- txt/obras",
     "05- bib full/SchwabMichael-Experimental Systems. Future Knowledge in Artistic Research.pdf",
     "05- bib full/FesselPablo_Hablaelpoeta_gandini.pdf",
