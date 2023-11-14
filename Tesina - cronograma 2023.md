@@ -74,7 +74,6 @@ pipkin  :md1, 28-10, 30-10
 ---
 ### Noviembre
 ---
-#### 5ta semana (07-11-2023 al 13-11-2023)
 ##### Objetivos
 
 - [ ] Reminded by the instruments
@@ -97,6 +96,3 @@ pipkin  :md1, 28-10, 30-10
 https://www.getty.edu/research/tools/guides_bibliographies/david_tudor/resources.html (más biblio específica sobre Tudor)
 
 ---
-#### 6ta semana (14-11-2023 al 20-11-2023)
----
-#### 7ma semana (21-11-2023 al 22-11-2023)
