@@ -41,7 +41,7 @@ Modo algo granular, de mosaico tímbrico, por eso es un posible tema, el timbre,
 - [x] Análisis obra / obras / intereses personales
 	- [ ] Análisis de *Resonando*
 ##### Obra
-- [ ] Corregir audio: comienzo, intersección, + textura vib, perfil sección A (direccionalidad)
+- [x] Corregir audio: comienzo, intersección, + textura vib, perfil sección A (direccionalidad)
 ---
 #### 3ra semana y 4ta semana (al 06-11-2023)
 ```mermaid

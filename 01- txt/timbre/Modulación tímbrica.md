@@ -6,7 +6,7 @@ tags:
 publish: 2007
 bib: read
 ---
-*"Pienso que el sonido se manifiesta por medio del timbre y que la obra es una dimensión del timbre mismo"* (Scönberg - 1979)
+*"Pienso que el sonido se manifiesta por medio del timbre y que la obra es una dimensión del timbre mismo"* (Schönberg - 1979)
 ## Fenómeno tímbrico
 Manifestaciones sonoras relacionadas con el timbre (2)
 - no requieren de tiempo necesario (combinaciones de instrumentos)
