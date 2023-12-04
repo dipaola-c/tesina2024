@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/hombre-máquina.md",
+                "file": "Tesina - cronograma 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/hombre-máquina.md",
+                "file": "Tesina - cronograma 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/hombre-máquina.md",
+                "file": "Tesina - cronograma 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/hombre-máquina.md"
+                "file": "Tesina - cronograma 2023.md"
               }
             }
           }
@@ -179,11 +179,11 @@
   },
   "active": "d47cd682e9cff44c",
   "lastOpenFiles": [
-    "Pasted image 20231204041818.png",
-    "Pasted image 20231204041714.png",
-    "Pasted image 20231204033842.png",
-    "00- inicial/Audio correcciones e ideas.md",
     "01- txt/hombre-máquina.md",
+    "02- img/Pasted image 20231204041818.png",
+    "02- img/Pasted image 20231204041714.png",
+    "02- img/Pasted image 20231204033842.png",
+    "00- inicial/Audio correcciones e ideas.md",
     "03- score/resonando_score_notes_v2.pdf",
     "03- score/resonando_score.pdf",
     "03- score/resonando_score_notes.pdf",
@@ -223,7 +223,6 @@
     "02- img/Pasted image 20231105222248.png",
     "02- img/Pasted image 20231105222238.png",
     "02- img/Pasted image 20231105141703.png",
-    "06- output/images/seaside.jpeg",
-    "06- output/images/monalisa.jpg"
+    "06- output/images/seaside.jpeg"
   ]
 }
