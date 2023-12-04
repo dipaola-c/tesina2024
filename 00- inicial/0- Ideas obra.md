@@ -38,7 +38,7 @@ entonces todo el SI de la VI está en la obra siempre relevandose entre instrume
 ### Elementos gráficos
 ### Elementos partitura
 (título - año - al ensamble Neo)
-- Pequeña nota de programa (gandini, timbre, guitarra, prolifracion, re-pensar la historia) Homenaje ??
+- Pequeña nota de programa (gandini, timbre, guitarra, proliferacion, re-pensar la historia) Homenaje ??
 - ARMAR VIDEOS SI ES NECESARIO PARA LOS MUSICOS
 - Instrumentación + elementos
 - Indicaciones generales (líneas, dinámicas, repeticiones ?)

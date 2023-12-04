@@ -71,6 +71,19 @@ fluCoMa   :active, dp4, 05-11, 06-11
 section night
 pipkin  :md1, 28-10, 30-10
 ```
+
+```mermaid
+gantt
+    title A Gantt Diagram
+    dateFormat YYYY-MM-DD
+    section abril 
+        diseño de algoritmos         :a1, 2023-09-27, 30d
+        rider de audio    :after a1, 20d
+    section mayo 
+        Task in Another :2014-01-12, 12d
+        another task    :24d
+    
+```
 ---
 ### Noviembre
 ---
