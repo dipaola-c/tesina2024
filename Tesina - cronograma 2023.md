@@ -83,7 +83,7 @@ pipkin  :md1, 28-10, 30-10
 
 ##### Seminario
 - [ ] Análisis Resonando (similitud y diferencia entre las partes, de allí alguna conclusión)
-- [ ] Corrección audio
+- [x] Corrección audio
 - [ ] Corrección partitura
 - [ ] Breve texto para entrega del final (timbre - moduladores - estados - Tudor - Kagel - futurismo - Grisey - análisis propio) ¿Qué me lleva a pasar por estos conceptos en relación a mi obra? ¿Cómo la construye? Luego de analizarla, ¿mi obra por dónde va?
 ---
@@ -94,22 +94,24 @@ pipkin  :md1, 28-10, 30-10
 - [ ] Binomio humano-máquina
 - [ ] James Tenney
 ---
-- [ ] Web estados maquínicos
+- [x] Web estados maquínicos
 - [ ] Completar cuadro estados maquínicos (ver tabla Ruviario)
 - [ ] Estudiar Tudor
 	- [ ] Analizar Tudor
 - [ ] Analizar Kagel
 	- [ ] The Buttons on Pandora’s Box: David Tudor and the Bandoneon
+- [ ] Experimenting the human - Douglas Barett (n3 - 456)
+- [ ] Espacio tímbrico - Wessel
+- [ ] Estudios tímbricos - Riera
+- [ ] Robotic musicianship - Gil Weinberg, Mason Bretan, Guy Hoffman, Scott Driscoll
+- [ ] Curtis Roads - Microsound
 - [ ] Reminded by the instruments - Nakai
 	- [ ] Open Sources: Words, Circuits, and the Notation/Realization Relation in the Music of David Tudor
 	- [ ] Recital Hall of Cruelty: Antonin Artaud, David Tudor, and the 1950s Avant-Garde
 	- [ ] David Tudor and the Performance of American Experimental Music **(no lo encontré!)**
 	- [ ] David Tudor’s Rainforest: An Evolving Exploration of Resonance
 	- [ ] IDEA AND COMMUNITY: THE GROWTH OF DAVID TUDOR'S RAINFOREST, 1965-2006 - Matthew R. Rogalsky
-- [ ] Espacio tímbrico - Wessel
-- [ ] Estudios tímbricos - Riera
-- [ ] Robotic musicianship - Gil Weinberg, Mason Bretan, Guy Hoffman, Scott Driscoll
-- [ ] Curtis Roads - Microsound
+
 
 https://www.getty.edu/research/tools/guides_bibliographies/david_tudor/resources.html (más biblio específica sobre Tudor)
 
