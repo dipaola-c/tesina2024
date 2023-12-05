@@ -109,3 +109,9 @@ gantt
 https://www.getty.edu/research/tools/guides_bibliographies/david_tudor/resources.html (más biblio específica sobre Tudor)
 
 ---
+
+- [ ] Web estados maquínicos
+- [ ] Completar cuadro estados maquínicos
+- [ ] Estudiar Tudor
+	- [ ] Analizar Tudor
+	- [ ] Texto Kulikov sobre el tiempo
