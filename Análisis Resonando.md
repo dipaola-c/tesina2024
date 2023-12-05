@@ -2,8 +2,12 @@ A
 B
 C modificar??? (máxima hibridación metamáquina??)
 
-Resonando (2023) es una obra para ensamble (fl en sol, clari..) de una duración aproximada de ... surgida en el contexto de conmemoración al compositor argentino Gerardo Gandini a los 10 años de su fallecimiento.
+Intersecciones entre secciones
+Transición
+Corte
+Proceso
 
+Resonando (2023) es una obra para ensamble (fl en sol, clari..) de una duración aproximada de ... surgida en el contexto de conmemoración al compositor argentino Gerardo Gandini a los 10 años de su fallecimiento.
 
 - ¿Intención? ¿Búsqueda? ¿Por qué escribí como escribí?
 - ¿Qué instrumentación? ¿Por qué esos instrumentos? ¿Por qué de cámara?

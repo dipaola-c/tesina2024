@@ -85,13 +85,14 @@ pipkin  :md1, 28-10, 30-10
 - [ ] Análisis Resonando (similitud y diferencia entre las partes, de allí alguna conclusión)
 - [ ] Corrección audio
 - [ ] Corrección partitura
-- [ ] Breve texto para entrega del final (timbre - moduladores - estados - Tudor - Kagel - futurismo - análisis propio) ¿Qué me lleva a pasar por estos conceptos en relación a mi obra? ¿Cómo la construye? Luego de analizarla, ¿mi obra por dónde va?
+- [ ] Breve texto para entrega del final (timbre - moduladores - estados - Tudor - Kagel - futurismo - Grisey - análisis propio) ¿Qué me lleva a pasar por estos conceptos en relación a mi obra? ¿Cómo la construye? Luego de analizarla, ¿mi obra por dónde va?
 ---
 ##### Tutoría
 - [ ] Processus (definir)
 - [ ] Principio de excitación separada y modelización de la resonancia - resonadores
 - [ ] Estado tímbrico (definición)
 - [ ] Binomio humano-máquina
+- [ ] James Tenney
 ---
 - [ ] Web estados maquínicos
 - [ ] Completar cuadro estados maquínicos (ver tabla Ruviario)
