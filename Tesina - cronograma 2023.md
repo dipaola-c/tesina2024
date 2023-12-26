@@ -103,6 +103,7 @@ pipkin  :md1, 28-10, 30-10
 - [ ] Experimenting the human - Douglas Barett (n3 - 456)
 - [ ] Espacio tímbrico - Wessel
 - [ ] Estudios tímbricos - Riera
+- [ ] Castro
 - [ ] Robotic musicianship - Gil Weinberg, Mason Bretan, Guy Hoffman, Scott Driscoll
 - [ ] Curtis Roads - Microsound
 - [ ] Reminded by the instruments - Nakai
@@ -111,7 +112,8 @@ pipkin  :md1, 28-10, 30-10
 	- [ ] David Tudor and the Performance of American Experimental Music **(no lo encontré!)**
 	- [ ] David Tudor’s Rainforest: An Evolving Exploration of Resonance
 	- [ ] IDEA AND COMMUNITY: THE GROWTH OF DAVID TUDOR'S RAINFOREST, 1965-2006 - Matthew R. Rogalsky
-
+- Teodorescu-Ciocanea, L. (2022). Poetics of Hypertimbralism in music. Proceedings of the European Academy of Sciences & Arts, Vol. 1, No 1, pp. 1-20
+- Herold, N. (2012). Timbre et analyse musicale : les possibilités d’intégration du timbre dans l’analyse formelle des œuvres pour piano du dix-neuvième siècle.
 
 https://www.getty.edu/research/tools/guides_bibliographies/david_tudor/resources.html (más biblio específica sobre Tudor)
 
