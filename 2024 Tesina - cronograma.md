@@ -1,5 +1,16 @@
-### Abril
-#### Objetivos
+## Abril
+### 1ra semana - 2da semana
+
+#### Research
+- [ ] Essays and Papers
+- [ ] Music 2.0 (Assis)
+- [ ] Curso Orpheus Institute in Ghent https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
+- [ ] The Artistic Turn
+- [ ] Research in art and design
+
+#### Modelo / texto
+
+#### Tema
 - Definir temática/s tentativa/s
 	- Moduladores instrumentales externos
 	- Similitud tímbrica entre moduladores humanos y artificiales
@@ -12,24 +23,11 @@
 - Realizar análisis de la obra hasta el momento
 - Cambios tentativos de la obra
 Modo algo granular, de mosaico tímbrico, por eso es un posible tema, el timbre, podrias relacionarlo con la forma, que es el contenido en el que valverde hace hincapié, (forma tímbrica?, forma a partir del timbre?, ) o lo que ya hablamos de los moduladores, a eso sumar 1 (una sola, UNA no mas que una), herramienta novedosa de análisis, por ej  con flucoma podes analisar resultantes timbricas, teniendo los audios es facil y estas aportando al campo, es un contenido que podrias despues enseñar.
----
-#### 1ra semana (10-10-2023)
 ###### Tareas
-- [x] Completar anotaciones de la obra *Resonando*
-- [ ] Lenguaje musical Messiaen
-- [ ] investigar:
-- [ ] ![[Pasted image 20231010225524.png]]
+- [ ] investigar: ![[Pasted image 20231010225524.png]]
 ---
 #### 2da semana (17-10-2023)
 
-##### Investigación
-- [x] Leer *Essays and Papers*
-- [x] Leer *Music 2.0* (Assis)
-- [x] Capítulo 1 - Curso Orpheus Institute in Ghent https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
-##### Temas posibles / intereses
-- [x] Step 1-4 artistic research (*Essays and Papers*)
-- [x] Leer *Software for artists book*
-- [x] Ver *Stiegler* ??
 ##### Otros / herramientas / ejercicios
 - [x] Ver Latex
 	- [x] LyX
@@ -38,8 +36,7 @@ Modo algo granular, de mosaico tímbrico, por eso es un posible tema, el timbre,
 - [x] Ver Zotero
 - [x] Video+transcripción **actividad** Curso Orpheus Institute in Ghent
 - [x] Análisis obra / obras / intereses personales
-##### Obra
-- [x] Corregir audio: comienzo, intersección, + textura vib, perfil sección A (direccionalidad)
+
 ---
 #### 3ra semana y 4ta semana (al 06-11-2023)
 ```mermaid
@@ -81,10 +78,7 @@ pipkin  :md1, 28-10, 30-10
 ---
 #### ==Tareas 1era semana diciembre==
 
-##### Seminario
-- [ ] Análisis Resonando (similitud y diferencia entre las partes, de allí alguna conclusión)
-- [x] Corrección audio
-- [ ] Corrección partitura
+
 - [ ] Breve texto para entrega del final (timbre - moduladores - estados - Tudor - Kagel - futurismo - Grisey - análisis propio) ¿Qué me lleva a pasar por estos conceptos en relación a mi obra? ¿Cómo la construye? Luego de analizarla, ¿mi obra por dónde va?
 ---
 ##### Tutoría
@@ -164,3 +158,7 @@ https://www.getty.edu/research/tools/guides_bibliographies/david_tudor/resources
 [https://mitpress.mit.edu/9780262193191/machine-models-of-music/](https://mitpress.mit.edu/9780262193191/machine-models-of-music/) (CHEQUEAR!!!)
 
 [https://www.google.com/search?q=%5B19%5D+Balter%2C+Michael.+Oldest+Art+%E2%80%93+From+a+Modern+Human%E2%80%99s+Brow+-+or+Doodling.+Science%2C+Vol.+295+pp+247-249.&oq=%5B19%5D+Balter%2C+Michael.+Oldest+Art+%E2%80%93+From+a+Modern+Human%E2%80%99s+Brow+-+or+Doodling.+Science%2C+Vol.+295+pp+247-249.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=%5B19%5D+Balter%2C+Michael.+Oldest+Art+%E2%80%93+From+a+Modern+Human%E2%80%99s+Brow+-+or+Doodling.+Science%2C+Vol.+295+pp+247-249.&oq=%5B19%5D+Balter%2C+Michael.+Oldest+Art+%E2%80%93+From+a+Modern+Human%E2%80%99s+Brow+-+or+Doodling.+Science%2C+Vol.+295+pp+247-249.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8) (VER SOBRE HUMANO MODERNO)
+
+
+- Teodorescu-Ciocanea, L. (2022). Poetics of Hypertimbralism in music. Proceedings of the European Academy of Sciences & Arts, Vol. 1, No 1, pp. 1-20
+- Herold, N. (2012). Timbre et analyse musicale : les possibilités d’intégration du timbre dans l’analyse formelle des œuvres pour piano du dix-neuvième siècle.
