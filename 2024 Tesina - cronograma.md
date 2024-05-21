@@ -1,5 +1,4 @@
-## Abril
-### 1ra semana - 2da semana
+## Mayo
 
 #### Research
 - [ ] Essays and Papers
@@ -7,8 +6,21 @@
 - [ ] Curso Orpheus Institute in Ghent https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
 - [ ] The Artistic Turn
 - [ ] Research in art and design
+- [ ] Method, methodology and research design in artistic research - Húbner
 
+##### Objetivos
+1. Poder exponer el tema de tesis en 10/20 minutos ante quien corresponda y tener en cuenta las fuentes propuestas y las recomendadas posteriormente (consultar con una propuesta contundente aunque pueda ser modificable/enriquecida)
+###### Decide if you're done
+1. listar los tópicos (preguntas, facts) para la tesis
+2. listar los tópicos que podrían soportar la hipótesis personal 
+3. si se puede atribuir dos fuentes a cada uno de los tópicos del paso 1, y una buena fuente para la mayoría de los tópicos en paso 2, pasar al siguiente paso, de lo contrario, seguir en la búsqueda
 #### Modelo / texto
+- [ ] Latex
+- [ ] Editor online?
+	- [x] LyX
+	- [x] Overleaf
+	- [x] Paaperia
+- [x] Ver Zotero
 
 #### Tema
 - Definir temática/s tentativa/s
@@ -22,23 +34,10 @@
 			- capitulo 5 artificiales
 - Realizar análisis de la obra hasta el momento
 - Cambios tentativos de la obra
-Modo algo granular, de mosaico tímbrico, por eso es un posible tema, el timbre, podrias relacionarlo con la forma, que es el contenido en el que valverde hace hincapié, (forma tímbrica?, forma a partir del timbre?, ) o lo que ya hablamos de los moduladores, a eso sumar 1 (una sola, UNA no mas que una), herramienta novedosa de análisis, por ej  con flucoma podes analisar resultantes timbricas, teniendo los audios es facil y estas aportando al campo, es un contenido que podrias despues enseñar.
+- Granular, mosaico tímbrico, timbre y forma, forma tímbrica
+	- Herramienta de análisis (flucoma)
 ###### Tareas
 - [ ] investigar: ![[Pasted image 20231010225524.png]]
----
-#### 2da semana (17-10-2023)
-
-##### Otros / herramientas / ejercicios
-- [x] Ver Latex
-	- [x] LyX
-	- [x] Overleaf
-	- [x] Paaperia
-- [x] Ver Zotero
-- [x] Video+transcripción **actividad** Curso Orpheus Institute in Ghent
-- [x] Análisis obra / obras / intereses personales
-
----
-#### 3ra semana y 4ta semana (al 06-11-2023)
 ```mermaid
 gantt
 dateFormat  DD-MM
@@ -66,20 +65,6 @@ fluCoMa   :active, dp4, 05-11, 06-11
 section night
 pipkin  :md1, 28-10, 30-10
 ```
----
-### Mayo
----
-##### Objetivos
-1. Poder exponer el tema de tesis en 10/20 minutos ante quien corresponda y tener en cuenta las fuentes propuestas y las recomendadas posteriormente (consultar con una propuesta contundente aunque pueda ser modificable/enriquecida)
-###### Decide if you're done
-1. listar los tópicos (preguntas, facts) para la tesis
-2. listar los tópicos que podrían soportar la hipótesis personal 
-3. si se puede atribuir dos fuentes a cada uno de los tópicos del paso 1, y una buena fuente para la mayoría de los tópicos en paso 2, pasar al siguiente paso, de lo contrario, seguir en la búsqueda
----
-#### ==Tareas 1era semana diciembre==
-
-
-- [ ] Breve texto para entrega del final (timbre - moduladores - estados - Tudor - Kagel - futurismo - Grisey - análisis propio) ¿Qué me lleva a pasar por estos conceptos en relación a mi obra? ¿Cómo la construye? Luego de analizarla, ¿mi obra por dónde va?
 ---
 ##### Tutoría
 - [ ] Processus (definir)

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00- inicial/Resonando - txt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f292753864d8e233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Tesina - cronograma.md",
+                "file": "01- txt/artistic research/How to become a Straight-A student.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Tesina - cronograma.md",
+                "file": "01- txt/artistic research/How to become a Straight-A student.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Tesina - cronograma.md",
+                "file": "01- txt/artistic research/How to become a Straight-A student.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Tesina - cronograma.md"
+                "file": "01- txt/artistic research/How to become a Straight-A student.md"
               }
             }
           }
@@ -165,53 +152,53 @@
       "templates:Insert template": false
     }
   },
-  "active": "f292753864d8e233",
+  "active": "45faab207523ae8b",
   "lastOpenFiles": [
-    "Biblio y obras.md",
     "2024 Tesina - cronograma.md",
-    "Análisis Resonando.md",
-    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
-    "01- txt/artistic research/Research in art and design.md",
-    "01- txt/artistic research/Music 2.0 and artistic research.md",
-    "01- txt/artistic research/Artistic Research in Music (extract).md",
-    "01- txt/artistic research/The Artistic Turn.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "2023 Tesina - cronograma.md",
-    "00- inicial/Audio correcciones e ideas.md",
-    "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
-    "06- output/main.pdf",
-    "00- inicial/Resonando - txt.md",
+    "01- txt/artistic research/How to become a Straight-A student.md",
+    "01- txt/textura/ifm 2024.md",
     "01- txt/hombre-máquina.md",
-    "01- txt/timbre/Modulación tímbrica.md",
-    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
-    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
-    "01- txt/textura/La doble génesis del concepto de textura musical.md",
-    "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
-    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
-    "00- inicial/Glosario.loom",
-    "00- inicial/2- Gerardo Gandini.md",
-    "00- inicial/1- Obras y análisis.md",
-    "00- inicial/0- Ideas obra.md",
-    "01- txt/gandini/Varios sobre Gerardo Gandini.md",
-    "01- txt/gandini/El acento agudo.md",
-    "03- score/resonando_score_notes_v2.pdf.sb-5c64cce6-H4G9iU",
+    "01- txt/textura/La doble génesis del concepto de textura musical.md",
+    "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
+    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
+    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
+    "01- txt/timbre/Modulación tímbrica.md",
+    "00- inicial/Resonando - txt.md",
+    "00- inicial/1- Investigación.md",
+    "01- txt/artistic research/The Artistic Turn.md",
+    "01- txt/artistic research/Research in art and design.md",
+    "01- txt/artistic research/Music 2.0 and artistic research.md",
+    "01- txt/artistic research/course_artistic_research.pdf",
+    "01- txt/artistic research/Artistic Research in Music (extract).md",
+    "01- txt/artistic research/Artistic Research in Music (all text).md",
+    "05- bib full/05- bib full.md",
+    "00- inicial/manual_de_estilo_2022.pdf",
+    "05- bib full/research.bib",
+    "2023 Tesina - cronograma.md",
+    "06- output/main.pdf",
+    "07- templates/Zotero Template.md",
+    "05- bib full/Causa_2014_Invasión Generativa.pdf",
+    "05- bib full/Downey-wdowney-PhD-Architecture-2022-thesis.pdf",
+    "05- bib full/TreschDolan_TowardaneworganologyInstrumentsofmusicandscience.pdf",
+    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
+    "05- bib full/Indianapolis_AmericanMusicologicalSociety.pdf",
+    "05- bib full/Untitled.md",
+    "02- img/02- img.md",
+    "Análisis Resonando.md",
+    "02- img/Pasted image 20231018142333.png",
+    "02- img/Pasted image 20231018150212.png",
+    "02- img/Pasted image 20231105222238.png",
+    "Biblio y obras.md",
     "02- img/Pasted image 20231204041818.png",
     "02- img/Pasted image 20231204041714.png",
     "02- img/Pasted image 20231204033842.png",
-    "03- score/resonando_score_notes_v2.pdf",
-    "03- score/resonando_score.pdf",
-    "03- score/resonando_score_notes.pdf",
-    "03- score/resonando_disposicion_material.pdf",
-    "04- media/resonando_concierto.mp3",
     "02- img/Pasted image 20231107144200.png",
     "02- img/Pasted image 20231107092509.png",
-    "01- txt/artistic research/course_artistic_research.pdf",
     "02- img/Pasted image 20231105222222.png",
-    "02- img/Pasted image 20231105222248.png",
-    "02- img/Pasted image 20231105222238.png",
-    "02- img/Pasted image 20231105141703.png",
-    "06- output/images/seaside.jpeg"
+    "02- img/Pasted image 20231105222248.png"
   ]
 }
