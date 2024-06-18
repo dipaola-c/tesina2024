@@ -1,12 +1,13 @@
-## Mayo
+## Mayo - Junio
 
 #### Research
-- [ ] Essays and Papers
+- [x] Essays and Papers
 - [ ] Music 2.0 (Assis)
 - [ ] Curso Orpheus Institute in Ghent https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
 - [ ] The Artistic Turn
 - [ ] Research in art and design
-- [ ] Method, methodology and research design in artistic research - Húbner
+- [x] Method, methodology and research design in artistic research - Húbner
+- [ ] Índice tentativo
 
 ##### Objetivos
 1. Poder exponer el tema de tesis en 10/20 minutos ante quien corresponda y tener en cuenta las fuentes propuestas y las recomendadas posteriormente (consultar con una propuesta contundente aunque pueda ser modificable/enriquecida)
@@ -14,14 +15,6 @@
 1. listar los tópicos (preguntas, facts) para la tesis
 2. listar los tópicos que podrían soportar la hipótesis personal 
 3. si se puede atribuir dos fuentes a cada uno de los tópicos del paso 1, y una buena fuente para la mayoría de los tópicos en paso 2, pasar al siguiente paso, de lo contrario, seguir en la búsqueda
-#### Modelo / texto
-- [ ] Latex
-- [ ] Editor online?
-	- [x] LyX
-	- [x] Overleaf
-	- [x] Paaperia
-- [x] Ver Zotero
-
 #### Tema
 - Definir temática/s tentativa/s
 	- Moduladores instrumentales externos

@@ -119,7 +119,7 @@ Como JSTOR (para artículos específicos, no generales)
 #### Make personal copies of all sources
 (teniendo en cuenta la forma de citar y las bibliografías dentro de cada texto para cruzar conceptos/datos)
 #### Annotate the material
-Leer **rápidamente** los textos generales, sacando sólo conceptos o ideas o capítulos específicos y trasladándolos al repo personal.
+Leer **rápidamente** los textos generales, sacando sólo conceptos o ideas o capítulos específicos y trasladándolos al repo personal (PASO IMPORTANTE!)
 #### Decide if you're done
 1. listar los tópicos (preguntas, facts) para la tesis
 2. listar los tópicos que podrían soportar la hipótesis personal 
@@ -127,6 +127,81 @@ Leer **rápidamente** los textos generales, sacando sólo conceptos o ideas o ca
 **(todo esto en un paso inicial, aún no está el argumento específico de la tesis, por ende es imposible saber aquí toda la bibliografía pertinente, la idea es una aproximación lo más certera posible)**
 
 **Podrían entonces dividirse en biblio muy útil, potencialmente útil, muy poco útil (se entiende que la cantidad de biblio muy útil es la imprescindible y por ello la de menor cantidad, lo contrario para la específica)**
+
+### 5. Craft a Powerful Story
+
+*Para escribir un gran artículo, realmente necesita hacer conexiones que otras personas no han hecho, y la única forma de hacerlo es pensar.*
+
+En general, un buen argumento a nivel universitario debería lograr lo siguiente:
+1. Dibuje del trabajo anterior sobre el mismo tema para definir el contexto para la discusión. **(contexto y estado del arte)**
+2. Introducir una tesis y explicar cuidadosamente cómo se relaciona con el trabajo existente en problemas similares. **(argumento)**
+3. Apoye la tesis con un razonamiento cuidadoso y las referencias a los argumentos existentes, la evidencia y las fuentes primarias. **(fundamento)**
+4. Introducir algunos pronósticos finales sobre extender el argumento y su impacto potencial en el campo en su conjunto. **(conclusión)**
+
+==VER INDICES DE OTROS PAPERS==
+#### Tips
+#1 Ponerse en la mentalidad correcta (inspirarse con lecturas interesantes, entrevistas, documentales...)
+#2 Releer y estudiar las anotaciones del paso anterior (research)
+#3 Descansar y pensar en el argumento en determinados momentos de inactividad
+
+#### Definir esqueleto / índice
+Aquí, tener cuidado con no ser demasiado amplio ni demasiado específico.
+
+| Tema                                                                            | Tema propio                                                                                     |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| • Nuestra tesis sobre el Eiger y la identidad cultural suiza                    | ----------------------------------------------------------------------------------------------- |
+| • La tesis de Macmillan sobre los Alpes y la identidad europea                  |                                                                                                 |
+| • Menciones del Eiger en folletos turísticos suizos de principios del siglo XXI |                                                                                                 |
+| • Menciones del Eiger en la cultura popular de principios del siglo XXI         |                                                                                                 |
+| • Cuentas de prensa contemporánea de los intentos de la cumbre de Eiger         |                                                                                                 |
+| • Cuentas escritas tempranas del Eiger                                          |                                                                                                 |
+
+| Posible esqueleto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Posible esqueleto                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1. Menciones del Eiger en folletos de turistas suizos de principios del siglo XXI<br>2. La tesis de Macmillan sobre los Alpes y la identidad europea<br>3. Nuestra tesis sobre el Eiger y la identidad cultural suiza<br>4. Cuentas escritas tempranas del Eiger    5. El primer ascenso del Eiger<br>6. Cuentas de prensa contemporánea de los intentos de la cumbre de Eiger<br>7. Menciones del Eiger en la cultura popular de principios del siglo XXI<br>8. La relación entre nuestra tesis y el argumento de Macmillan<br>9. Pensamientos finales sobre nuestra tesis: implicaciones y trabajo futuro | --------------------------------------------------------------------------------------------- |
+##### **Aquí, es importante reveer si tengo las fuentes correctas para cada uno de los puntos de mi índice (2 por cada uno aprox), de modo contrario, volver a pasos anteriores y rastrearlas**
+
+### 6. Elegir y trabajar con un panel profesional / tutor
+### 7. 'Escribir sin agonía'
+
+- Separar el **research** de la **escritura** y de la **revisión** (no mezclar esas tres tareas en el día)
+- Proponerse un esquema de trabajo 
+	- Research durante dos semanas (mayo)
+	- Para la escritura (escribir dos hojas por día, a partir de junio)
+	- Revisar la escritura hecha una vez por semana (sábados)
+- Localizar los momentos de más energía del día para escribir
+### 8. Revisión pero no en exceso
+
+No más de 3 revisiones generales.
+#### La primera
+- Revisar el argumento general
+- Sacar lo repetido
+- Explayar lo necesario
+- Agregar transiciones de ser necesario
+- Modificar el índice si es necesario
+- Ordenar y chequear orden de los contenidos
+#### La segunda
+- Imprimir archivo
+- Leer en voz alta todo el documento (dividido en secciones por día si es necesario)
+- Marcar errores gramaticales, etc.
+- Posterior a marcar todo, corregirlos en el documento
+#### La tercera
+- Revisión general y rápida antes de la entrega
+
+### Caso de estudio
+#### Cronograma
+(Proceso de 1 mes - 35 a 50 páginas)
+##### 1er semana
+- Lunes 1 --> Tema de interés/intuición
+- Miércoles 3 --> Búsqueda de material (lecturas rápidas, y sobre todo de los índices y las citas/bibliografías)
+- Viernes 5 --> Releer las anotaciones del material e intentar extraer/armar un argumento/idea de tesis - Consulta 2da opinión
+- Domingo 7 --> Búsqueda de biblio específica (sobre todo la sugerida por el tutor)
+##### 2da semana
+- Research like a machine (ya con un argumento de tesis y una posible que la respalde)
+##### 3era semana
+- Índice + escritura tentativa
+##### 4ta semana
+- Escritura + revisión final
 
 ---
 

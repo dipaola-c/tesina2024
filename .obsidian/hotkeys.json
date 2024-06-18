@@ -1,1 +1,10 @@
-{}
+{
+  "pdf-plus:copy-link-to-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}
