@@ -6,6 +6,7 @@
       {
         "id": "f57ceefdd3384add",
         "type": "tabs",
+        "dimension": 41.49377593360996,
         "children": [
           {
             "id": "8b71c0912472313b",
@@ -15,9 +16,9 @@
               "state": {
                 "file": "00- inicial/manual_de_estilo_2022.pdf",
                 "page": 1,
-                "left": -22,
-                "top": 846,
-                "zoom": 0.6790972114429015
+                "left": -35,
+                "top": 508,
+                "zoom": 0.43215277091820997
               }
             }
           }
@@ -26,6 +27,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
+        "dimension": 58.50622406639005,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
@@ -57,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilities.md",
+                "file": "08- utilities/SuperCollider.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities.md",
+                "file": "08- utilities/SuperCollider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities.md",
+                "file": "08- utilities/SuperCollider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities.md"
+                "file": "08- utilities/SuperCollider.md"
               }
             }
           }
@@ -202,8 +204,15 @@
   },
   "active": "f9b0a489d91efc5e",
   "lastOpenFiles": [
+    "08- utilities/guia_sc.pdf",
+    "08- utilities/0-gral.md",
+    "08- utilities/FluCoMa.md",
+    "guia_sc.pdf",
+    "08- utilities/SuperCollider.md",
+    "08- utilities",
+    "07- templates/Zotero Template.md",
+    "01- txt/hombre-máquina.md",
     "00- inicial/manual_de_estilo_2022.pdf",
-    "Utilities.md",
     "2024 Tesina - cronograma.md",
     "06- output/main.synctex(busy)",
     "06- output/graficos2.aux",
@@ -211,14 +220,10 @@
     "06- output/graficos.aux",
     "06- output/graficos.tex",
     "06- output/main.toc",
-    "06- output/introduccion.aux",
-    "06- output/portada.aux",
-    "06- output/introduccion.tex",
     "06- output/kao/images/seaside.jpeg",
     "06- output/kao/images/monalisa.jpg",
     "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
     "01- txt/timbre/Modulación tímbrica.md",
-    "01- txt/hombre-máquina.md",
     "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
     "01- txt/artistic research/Artistic Research in Music (all text).md",
     "01- txt/artistic research/Artistic Research in Music (extract).md",
@@ -243,9 +248,6 @@
     "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
     "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
-    "Análisis Resonando.md",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-    "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md"
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
   ]
 }
