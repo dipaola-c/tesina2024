@@ -16,9 +16,9 @@
               "state": {
                 "file": "00- inicial/manual_de_estilo_2022.pdf",
                 "page": 1,
-                "left": -35,
-                "top": 508,
-                "zoom": 0.43215277091820997
+                "left": -28,
+                "top": 550,
+                "zoom": 0.5556249911805557
               }
             }
           }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08- utilities/SuperCollider.md",
+                "file": "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08- utilities/SuperCollider.md",
+                "file": "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08- utilities/SuperCollider.md",
+                "file": "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08- utilities/SuperCollider.md"
+                "file": "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md"
               }
             }
           }
@@ -204,22 +204,28 @@
   },
   "active": "f9b0a489d91efc5e",
   "lastOpenFiles": [
+    "01- txt/artistic research/Music 2.0 and artistic research.md",
+    "01- txt/artistic research/Research in art and design.md",
+    "01- txt/artistic research/The Artistic Turn.md",
+    "01- txt/Retórica persuasión - Mapa.pdf",
+    "00- inicial/manual_de_estilo_2022.pdf",
+    "08- utilities/SuperCollider.md",
+    "2024 Tesina - cronograma.md",
+    "Biblio y obras.md",
+    "Análisis Resonando.md",
+    "2023 Tesina - cronograma.md",
+    "08- utilities/FluCoMa.md",
     "08- utilities/guia_sc.pdf",
     "08- utilities/0-gral.md",
-    "08- utilities/FluCoMa.md",
     "guia_sc.pdf",
-    "08- utilities/SuperCollider.md",
     "08- utilities",
     "07- templates/Zotero Template.md",
     "01- txt/hombre-máquina.md",
-    "00- inicial/manual_de_estilo_2022.pdf",
-    "2024 Tesina - cronograma.md",
     "06- output/main.synctex(busy)",
     "06- output/graficos2.aux",
     "06- output/graficos2.tex",
     "06- output/graficos.aux",
     "06- output/graficos.tex",
-    "06- output/main.toc",
     "06- output/kao/images/seaside.jpeg",
     "06- output/kao/images/monalisa.jpg",
     "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
@@ -228,9 +234,6 @@
     "01- txt/artistic research/Artistic Research in Music (all text).md",
     "01- txt/artistic research/Artistic Research in Music (extract).md",
     "01- txt/artistic research/How to become a Straight-A student.md",
-    "01- txt/artistic research/Music 2.0 and artistic research.md",
-    "01- txt/artistic research/Research in art and design.md",
-    "01- txt/artistic research/The Artistic Turn.md",
     "02- img/Pasted image 20240530113827.png",
     "02- img/Pasted image 20240530111651.png",
     "02- img/Pasted image 20240525153636.png",
@@ -241,13 +244,10 @@
     "Pasted image 20240530111651.png",
     "02- img/02- img.md",
     "01- txt/artistic research/How to become a Straight-A student 1.md",
-    "Biblio y obras.md",
     "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
     "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
     "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
     "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md"
   ]
 }

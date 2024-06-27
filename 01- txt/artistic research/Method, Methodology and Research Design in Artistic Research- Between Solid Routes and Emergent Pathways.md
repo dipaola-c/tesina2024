@@ -37,10 +37,10 @@ El modelo desplegado por Assis implica la creación de un entorno experimental e
 **Research Design Canvas and IDEO Method Cards**
 ![[Pasted image 20240525152530.png]]
 ![[Pasted image 20240525153636.png]]
-
+(y en definitiva se pueden usar en el momento de la investigación propiamente dicha, o posteriormente en trabajos ya terminados, como análisis).
 
 ---
-Tanto la **no jerarquía como la emergencia** son aspectos clave que se desarrollarán en todo el libro.
+Tanto la **no jerarquía como la emergencia** son aspectos clave que se desarrollarán en todo el libro. *"Este es uno de los puntos clave del modelo: la **tensión** necesaria entre diseñar y exponer adecuadamente el proceso de investigación con antelación y permanecer consciente de los aspectos emergentes."*
 *"Una fuerza central con la que estoy trabajando es, de hecho, la emergencia y **cómo la emergencia tiene un lugar en el diseño y el proceso general de la investigación, que equivale a lo que yo llamo la "tensión metodológica básica"**. Esa emergencia ocurre, o que los resultados y los procesos inesperados juegan un papel durante un proyecto de investigación, no es una nueva visión en sí misma. (...) En realidad, abordar la emergencia en toda su complejidad significa más que solo el conocimiento y la norma implícitos de que **"sucede, pero en realidad no lo escribimos en las propuestas"***.
 
 ---

@@ -120,7 +120,7 @@ r.play
 https://github.com/crucialfelix/supercolliderjs/
 (cliente js)
 
-https://www.sciss.de/temp/scalacollider.js/
-https://www.sciss.de/temp/scsynth.wasm/
+https://www.sciss.de/temp/scalacollider.js/ (sc online??)
+https://www.sciss.de/temp/scsynth.wasm/ (sc online??)
 
 
