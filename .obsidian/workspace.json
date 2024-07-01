@@ -6,7 +6,7 @@
       {
         "id": "f57ceefdd3384add",
         "type": "tabs",
-        "dimension": 41.49377593360996,
+        "dimension": 17.226528854435834,
         "children": [
           {
             "id": "8b71c0912472313b",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "00- inicial/manual_de_estilo_2022.pdf",
-                "page": 1,
-                "left": -28,
-                "top": 550,
-                "zoom": 0.5556249911805557
+                "page": 2,
+                "left": -38,
+                "top": 635,
+                "zoom": 0.39057539062578744
               }
             }
           }
@@ -27,7 +27,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 58.50622406639005,
+        "dimension": 82.77347114556417,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
@@ -204,11 +204,20 @@
   },
   "active": "f9b0a489d91efc5e",
   "lastOpenFiles": [
-    "01- txt/artistic research/Music 2.0 and artistic research.md",
-    "01- txt/artistic research/Research in art and design.md",
-    "01- txt/artistic research/The Artistic Turn.md",
-    "01- txt/Retórica persuasión - Mapa.pdf",
     "00- inicial/manual_de_estilo_2022.pdf",
+    "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
+    "Pasted image 20240630191423.png",
+    "Pasted image 20240630175448.png",
+    "Pasted image 20240630174800.png",
+    "01- txt/artistic research/How to become a Straight-A student.md",
+    "01- txt/artistic research/The Artistic Turn.md",
+    "01- txt/artistic research/Research in art and design.md",
+    "01- txt/artistic research/Music 2.0 and artistic research.md",
+    "Pasted image 20240627113230.png",
+    "01- txt/hombre-máquina.md",
+    "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
+    "01- txt/textura/La doble génesis del concepto de textura musical.md",
+    "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
     "08- utilities/SuperCollider.md",
     "2024 Tesina - cronograma.md",
     "Biblio y obras.md",
@@ -220,7 +229,6 @@
     "guia_sc.pdf",
     "08- utilities",
     "07- templates/Zotero Template.md",
-    "01- txt/hombre-máquina.md",
     "06- output/main.synctex(busy)",
     "06- output/graficos2.aux",
     "06- output/graficos2.tex",
@@ -230,24 +238,16 @@
     "06- output/kao/images/monalisa.jpg",
     "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
     "01- txt/timbre/Modulación tímbrica.md",
-    "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
     "01- txt/artistic research/Artistic Research in Music (all text).md",
     "01- txt/artistic research/Artistic Research in Music (extract).md",
-    "01- txt/artistic research/How to become a Straight-A student.md",
     "02- img/Pasted image 20240530113827.png",
     "02- img/Pasted image 20240530111651.png",
     "02- img/Pasted image 20240525153636.png",
     "02- img/Pasted image 20240525152530.png",
-    "02- img/Pasted image 20240525145626.png",
-    "02- img/Pasted image 20240525145613.png",
-    "Pasted image 20240530113827.png",
-    "Pasted image 20240530111651.png",
     "02- img/02- img.md",
     "01- txt/artistic research/How to become a Straight-A student 1.md",
     "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
     "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
-    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
-    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md"
+    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md"
   ]
 }
