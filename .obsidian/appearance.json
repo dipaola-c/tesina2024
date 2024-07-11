@@ -2,7 +2,7 @@
   "accentColor": "#6a8a7a",
   "cssTheme": "Zenburn",
   "theme": "system",
-  "baseFontSize": 18,
+  "baseFontSize": 23,
   "baseFontSizeAction": true,
   "translucency": true,
   "nativeMenus": true,

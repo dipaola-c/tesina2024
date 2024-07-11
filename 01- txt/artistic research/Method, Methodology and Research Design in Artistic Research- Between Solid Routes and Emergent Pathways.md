@@ -81,7 +81,7 @@ Es el conjunto de supuestos subyacentes (conceptuales-filosóficos), puntos de v
 Para resumir, la metodología puede entenderse más como una **"teoría de los métodos"**, una perspectiva reflexiva sobre los métodos. De la misma manera, ==una estrategia de investigación proporciona una organización general de los métodos, la metodología proporciona una perspectiva general sobre la estrategia de investigación (y los métodos también)==. En este sentido, los enfoques de investigación más amplios, como la investigación de métodos cuantitativos, cualitativos, performativos y mixtos, pueden verse emergiendo de las tradiciones metodológicas, con sus propios paradigmas y opiniones del mundo, que funcionan con diferentes tipos de y visiones en, ==Datos: por ejemplo, principalmente numéricos, no numéricos (como texto y lenguaje), o simbólico (ni texto ni numérico)==. Sin embargo, esto no implica una jerarquía estricta, inmutable o inflexible, ya que los tres niveles pueden influir constantemente e informarse entre sí durante el proceso de diseño e investigación.
 
 ![[Pasted image 20240627113230.png]]
-Mientras que el método y la estrategia son dos términos que están constantemente en juego en el proceso práctico y concreto de llevar a cabo el proyecto de investigación de uno, esto es algo menos cierto para la metodología: uno realmente no puede "hacer" la metodología de la misma manera que el método o la estrategia pueden ser " hecho".
+Mientras que el método y la estrategia son dos términos que están constantemente en juego en el proceso práctico y concreto de llevar a cabo el proyecto de investigación de uno, esto es algo menos cierto para la metodología: uno realmente no puede "hacer" la metodología de la misma manera que el método o la estrategia pueden ser "hecho".
 ### Estrategia de investigación
 Es la planificación y ==la ruta concreta, que incluye un conjunto y estructura diseñada de métodos==, que se establece en para trabajar en o con la investigación de uno.
 ==La estrategia de investigación sirve como un vínculo entre las actividades de investigación concretas (métodos) y sus bases filosóficas (metodología).==
@@ -102,3 +102,14 @@ Un ejemplo de cómo se puede dibujar una colección. La pregunta de investigaci�
 ![[Pasted image 20240630191423.png]]
 Documentation of brainstorming collections of methods, coming from two distinct student projects for research in music. The first project inquired into different forms of group teaching, while the second one aimed to explore the historical development of the recorder in Spain. ==HACER==
 
+La **estructura** conduce hacia un cierto orden de la recopilación en lo que yo llamo un "flujo de datos":  ¿Qué es lo primero, un experimento práctico en una ubicación o conversaciones elegidas con otros profesionales que también trabajan en un contexto similar? ¿Qué pasos vienen (es decir, qué métodos deben llevarse a cabo) antes o después de otros pasos? ¿Las diversas actividades tienen un flujo lineal, una tras otra? ¿Hay alguna cadena paralela o métodos paralelos que deben probarse antes de dar un paso posterior para sincronizarlos? ¿Hay alguna iteración o bucles de retroalimentación involucrados?
+![[Pasted image 20240701001402.png]]
+==HACER==
+![[Pasted image 20240701002512.png]]
+Comparison of research design structures (Flick 2018b, 21).
+
+La categoría de **tiempo** enfatiza pensar no sólo en cuánto tiempo cuesta algo sino también en qué actividades, métodos, personas u otras entidades el investigador-practicante realmente quiere o necesita dedicar su tiempo y de qué manera, algo a lo que me refiero como calidad del tiempo. ¿Qué métodos, entre todas las opciones posibles de la colección, son los más importantes, necesarios o prometedores?
+![[Pasted image 20240701195511.png]]==HACER==
+
+![[Pasted image 20240701201315.png]]
+Ariane Trümper’s “table of intensities” in which she sketches the different amounts of time necessary for the parallel or integrated activities of reading, making work, learning, “hanging out” with space, and conversations.

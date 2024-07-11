@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md"
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md"
               }
             }
           }
@@ -204,8 +204,22 @@
   },
   "active": "f9b0a489d91efc5e",
   "lastOpenFiles": [
-    "00- inicial/manual_de_estilo_2022.pdf",
+    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
+    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01- txt/hombre-máquina.md",
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01- txt/tiempo/Tiempo y forma.md",
+    "08- utilities/FluCoMa.md",
+    "08- utilities/SuperCollider.md",
+    "08- utilities/guia_sc.pdf",
     "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
+    "Pasted image 20240701201315.png",
+    "00- inicial/manual_de_estilo_2022.pdf",
+    "Pasted image 20240701195511.png",
+    "Pasted image 20240701002512.png",
+    "Pasted image 20240701001402.png",
     "Pasted image 20240630191423.png",
     "Pasted image 20240630175448.png",
     "Pasted image 20240630174800.png",
@@ -214,17 +228,13 @@
     "01- txt/artistic research/Research in art and design.md",
     "01- txt/artistic research/Music 2.0 and artistic research.md",
     "Pasted image 20240627113230.png",
-    "01- txt/hombre-máquina.md",
     "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
-    "08- utilities/SuperCollider.md",
     "2024 Tesina - cronograma.md",
     "Biblio y obras.md",
     "Análisis Resonando.md",
     "2023 Tesina - cronograma.md",
-    "08- utilities/FluCoMa.md",
-    "08- utilities/guia_sc.pdf",
     "08- utilities/0-gral.md",
     "guia_sc.pdf",
     "08- utilities",
@@ -239,15 +249,6 @@
     "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
     "01- txt/timbre/Modulación tímbrica.md",
     "01- txt/artistic research/Artistic Research in Music (all text).md",
-    "01- txt/artistic research/Artistic Research in Music (extract).md",
-    "02- img/Pasted image 20240530113827.png",
-    "02- img/Pasted image 20240530111651.png",
-    "02- img/Pasted image 20240525153636.png",
-    "02- img/Pasted image 20240525152530.png",
-    "02- img/02- img.md",
-    "01- txt/artistic research/How to become a Straight-A student 1.md",
-    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
-    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
-    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md"
+    "01- txt/artistic research/Artistic Research in Music (extract).md"
   ]
 }
