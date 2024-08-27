@@ -2,12 +2,12 @@
 
 #### Research
 - [x] Essays and Papers
-- [ ] Music 2.0 (Assis)
-- [ ] Curso Orpheus Institute in Ghent https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
-- [ ] The Artistic Turn
-- [ ] Research in art and design
+- [x] Music 2.0 (Assis)
+- [x] Curso Orpheus Institute in Ghent https://www.edx.org/learn/music-arts/ku-leuven-artistic-research-in-music-an-introduction
+- [x] The Artistic Turn
+- [x] Research in art and design
 - [x] Method, methodology and research design in artistic research - Húbner
-- [ ] Índice tentativo
+- [x] Índice tentativo
 
 ##### Objetivos
 1. Poder exponer el tema de tesis en 10/20 minutos ante quien corresponda y tener en cuenta las fuentes propuestas y las recomendadas posteriormente (consultar con una propuesta contundente aunque pueda ser modificable/enriquecida)

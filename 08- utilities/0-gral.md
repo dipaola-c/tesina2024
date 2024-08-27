@@ -16,7 +16,18 @@
 
 #### Graphics
  - [ ] TikZ
- - [ ] 
+
+#### Esquemas
+- [ ] https://app.diagrams.net
+- [ ] 
+
+#### Bibliotecas online
+- [ ] OpenAthens
+- [ ] ResearchGate
+- [ ] JSTOR
+- [ ] Library of congress https://catalog.loc.gov/
+- [ ] https://researchrabbitapp.com/home
+
 #### Notation (in latex)
 - [ ] MusiXTeX - https://tug.ctan.org/info/latex4musicians/latex4musicians.pdf - https://texdoc.org/serve/musixtex/0
 - [ ] LuaLaTeX with the `lyluatex` package

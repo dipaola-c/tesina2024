@@ -15,10 +15,8 @@
               "type": "pdf",
               "state": {
                 "file": "00- inicial/manual_de_estilo_2022.pdf",
-                "page": 2,
-                "left": -38,
-                "top": 654,
-                "zoom": 0.39057539062578744
+                "page": 1,
+                "zoom": 1
               }
             }
           }
@@ -116,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3319ad7f620eb724",
@@ -205,13 +202,25 @@
   },
   "active": "f9b0a489d91efc5e",
   "lastOpenFiles": [
+    "08- utilities/0-gral.md",
+    "01- txt/artistic research/How to become a Straight-A student.md",
+    "2024 Tesina - cronograma.md",
     "00- inicial/manual_de_estilo_2022.pdf",
+    "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "02- img/Pasted image 20240701201315.png",
+    "02- img/Pasted image 20240701195511.png",
+    "02- img/Pasted image 20240701002512.png",
+    "02- img/Pasted image 20240701001402.png",
+    "02- img/Pasted image 20240630191423.png",
+    "02- img/Pasted image 20240630175448.png",
+    "02- img/Pasted image 20240630174800.png",
+    "02- img/Pasted image 20240627113230.png",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
     "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
     "01- txt/hombre-máquina.md",
     "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01- txt/tiempo/Tiempo y forma.md",
     "08- utilities/FluCoMa.md",
@@ -219,24 +228,15 @@
     "08- utilities/guia_sc.pdf",
     "Pasted image 20240701201315.png",
     "Pasted image 20240701195511.png",
-    "Pasted image 20240701002512.png",
-    "Pasted image 20240701001402.png",
-    "Pasted image 20240630191423.png",
-    "Pasted image 20240630175448.png",
-    "Pasted image 20240630174800.png",
-    "01- txt/artistic research/How to become a Straight-A student.md",
     "01- txt/artistic research/The Artistic Turn.md",
     "01- txt/artistic research/Research in art and design.md",
     "01- txt/artistic research/Music 2.0 and artistic research.md",
-    "Pasted image 20240627113230.png",
     "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
-    "2024 Tesina - cronograma.md",
     "Biblio y obras.md",
     "Análisis Resonando.md",
     "2023 Tesina - cronograma.md",
-    "08- utilities/0-gral.md",
     "guia_sc.pdf",
     "08- utilities",
     "07- templates/Zotero Template.md",
@@ -244,9 +244,6 @@
     "06- output/graficos2.aux",
     "06- output/graficos2.tex",
     "06- output/graficos.aux",
-    "06- output/graficos.tex",
-    "06- output/kao/images/seaside.jpeg",
-    "06- output/kao/images/monalisa.jpg",
     "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
     "01- txt/timbre/Modulación tímbrica.md",
     "01- txt/artistic research/Artistic Research in Music (all text).md"
