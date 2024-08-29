@@ -1,0 +1,28 @@
+\documentclass[10pt,a4paper,oneside,openany]{book}
+\usepackage[T1]{fontenc}
+\usepackage[left=25mm, right=25mm, top=30mm, bottom=30mm]{geometry}
+\usepackage{graphicx}
+\usepackage{nameref}
+\usepackage{hyperref}
+\usepackage{tikz}
+\graphicspath{{img/}}
+
+\renewcommand{\contentsname}{Contenido}
+\renewcommand{\partname}{Parte}
+\renewcommand{\appendixname}{Apéndice}
+\renewcommand{\figurename}{Figura}
+\renewcommand{\tablename}{Tabla}
+\renewcommand{\bibname}{Bibliografía}
+\renewcommand{\chaptername}{Capítulo} %sacar? y que directamente diga el nombre del capítulo?
+
+
+\begin{document}
+
+\include{portada}
+\include{datos}
+\tableofcontents
+
+\include{introduccion}
+
+
+\end{document}
