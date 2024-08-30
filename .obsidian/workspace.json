@@ -6,7 +6,7 @@
       {
         "id": "f57ceefdd3384add",
         "type": "tabs",
-        "dimension": 64.8228176318064,
+        "dimension": 49.91166077738516,
         "children": [
           {
             "id": "8b71c0912472313b",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
-                "mode": "source",
+                "file": "01- txt/timbre/Modulación tímbrica.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 35.177182368193606,
+        "dimension": 50.08833922261484,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "01- txt/timbre/Modulación tímbrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "01- txt/timbre/Modulación tímbrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
+                "file": "01- txt/timbre/Modulación tímbrica.md"
               }
             }
           }
@@ -190,9 +190,18 @@
   },
   "active": "8b71c0912472313b",
   "lastOpenFiles": [
-    "01- txt/timbre/Modulación tímbrica.md",
-    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
     "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01- txt/timbre/Modulación tímbrica.md",
+    "2024 Tesina - cronograma.md",
+    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
+    "2023 Tesina - cronograma.md",
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+    "Biblio y obras.md",
+    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
     "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
     "00- inicial/manual_de_estilo_2022.pdf",
     "06- output/prueba1/main.synctex(busy)",
@@ -214,16 +223,10 @@
     "06- output/prueba1/logo_untref.png",
     "06- output/prueba1/2.jpg",
     "06- output/prueba1/IMG_20221102_143723224.jpg",
-    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
     "08- utilities/0-gral.md",
     "01- txt/artistic research/How to become a Straight-A student.md",
-    "2024 Tesina - cronograma.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
-    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
     "01- txt/hombre-máquina.md",
-    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01- txt/tiempo/Tiempo y forma.md",
     "08- utilities/FluCoMa.md",
     "08- utilities/SuperCollider.md",
@@ -232,9 +235,6 @@
     "01- txt/artistic research/Music 2.0 and artistic research.md",
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
-    "Biblio y obras.md",
-    "Análisis Resonando.md",
-    "2023 Tesina - cronograma.md",
-    "07- templates/Zotero Template.md"
+    "Análisis Resonando.md"
   ]
 }
