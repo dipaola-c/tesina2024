@@ -13,7 +13,7 @@
 - [ ] NatbibLatex
 ![[Pasted image 20240521175723.png]]
 - [ ] Bibcitation - https://www.bibcitation.com/
-
+![[Pasted image 20240831163339.png]]
 #### Graphics
  - [ ] TikZ
 
