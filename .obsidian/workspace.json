@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/timbre/Timbre and Harmony.md",
+                "file": "05- bib full/05- bib full.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/timbre/Timbre and Harmony.md",
+                "file": "05- bib full/05- bib full.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/timbre/Timbre and Harmony.md",
+                "file": "05- bib full/05- bib full.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/timbre/Timbre and Harmony.md"
+                "file": "05- bib full/05- bib full.md"
               }
             }
           }
@@ -190,8 +190,11 @@
   },
   "active": "e782500ecaaf0229",
   "lastOpenFiles": [
-    "2024 Tesina - cronograma.md",
     "01- txt/timbre/Timbre and Harmony.md",
+    "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
+    "05- bib full/Patteson_InstrumentsforNewMusicSoundTechnologyandModernism.pdf",
+    "05- bib full/Assis_Music_2_0_and_Artistic_Research_Beyond_a.pdf",
+    "2024 Tesina - cronograma.md",
     "Biblio paper.md",
     "Biblio y obras general.md",
     "Análisis Resonando.md",
@@ -221,14 +224,10 @@
     "02- img/Pasted image 20240910173252.png",
     "08- utilities/FluCoMa.md",
     "08- utilities/guia_sc.pdf",
-    "08- utilities/SuperCollider.md",
     "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "00- inicial/manual_de_estilo_2022.pdf",
     "00- inicial/Glosario.loom",
     "02- img/Pasted image 20240831163339.png",
-    "06- output/prueba1/main.synctex(busy)",
-    "06- output/prueba1/portada2.aux",
-    "06- output/prueba1/portada2.log",
     "06- output/27_08/img/logo_untref.png",
     "06- output/27_08/img/1.jpeg",
     "06- output/prueba1 copy/img/logo_untref.png",
