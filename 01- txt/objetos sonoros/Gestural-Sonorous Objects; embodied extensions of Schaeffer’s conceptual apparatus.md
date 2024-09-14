@@ -27,3 +27,7 @@ Además, **esta recodificación se concibe como un proceso bidireccional, es dec
 Profundizando un poco más en este tema, argumentaré que el uso que hace Schaeffer de conceptos y metáforas gestuales puede relacionarse con la idea de la llamada cognición corporizada, **lo que significa que prácticamente todos los dominios de la percepción y el pensamiento humanos, incluso los dominios aparentemente abstractos, están relacionados con imágenes de movimiento (Gallese y Lakoff 2005).**
 
 ![[Pasted image 20240910173252.png]]
+
+
+
+SONIDOS ---> https://usoproject.blogspot.com/2008/05/solfge-de-lobjet-sonore-schaeffer-1967.html
