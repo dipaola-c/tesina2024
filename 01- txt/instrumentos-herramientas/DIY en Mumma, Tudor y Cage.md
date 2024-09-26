@@ -4,8 +4,18 @@ author: Lindsey Elizabeth Hartman
 place: LSU Scholarly Repository
 publish: 2019
 tags: 
-bib: read
+bib: forreading
 ---
+
+> [!info] Hartman, Lindsey Elizabeth, "DIY in Early Live Electroacoustic Music: John Cage, Gordon Mumma, David Tudor, and the Migration of Live Electronics from the Studio to Performance" (2019). LSU Doctoral Dissertations. 4794. https://repository.lsu.edu/gradschool_dissertations/4794
+
+> [!important] Leído entero, sobre todo capítulo de David Tudor, ok para tener un resumen de su obra
+
+> [!PDF|yellow] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=5&color=yellow|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.5]]
+> > well as to adapt, electronics for performance and the underlying DIY aesthetic of electroacoustic systems can be credited as far back as the instruments and systems build for live performance in the late 1960s and 1970s (known as live electronics), which was a period of transition of electronics from the studio to live performance. The efforts of Mumma, Tudor, and Cage remain influential on composers and performers today v and it is important to recognize how the concept of DIY existed in their works as well as push forward a new area of research into the significance of DIY in music and technology
+> 
+> Do it yourself llevado a la música de los años '50 de la escuela estadounidense (Cafe-Mumma-Tudor)
+
 ## Gordon Mumma
 
 Las primeras obras electrónicas en vivo de Gordon Mumma, David Tudor y John Cage, tres influyentes compositores de música experimental estadounidenses que diseñaron, construyeron y ==recontextualizaron== la electrónica para la interpretación en vivo, y la estética del "hazlo tú mismo" (==DIY==) encarnada por sus instrumentos y las composiciones escritas para ellos.

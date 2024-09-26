@@ -10,7 +10,7 @@ bib: forreading
 > [!info] To cite this Article Saariaho, Kaija(1987)'Timbre and harmony: Interpolations of timbral structures',Contemporary Music Review,2:1,93 — 133
 To link to this Article: DOI: 10.1080/07494468708567055 URL: http://dx.doi.org/10.1080/07494468708567055
 
-> [!important] Leer, habla del timbre llevado a la forma, de envolventes de tensión, y de binomios. Se podría relacionar con alguna idea de 'estados tímbricos'
+> [!important] Leer, habla del timbre llevado a la forma, de envolventes de tensión, y de binomios. Se podría relacionar con alguna idea de 'estados tímbricos' ---> el estado tímbrico después del timbre
 
 > [!PDF|yellow] [[Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf#page=1&selection=17,17,22,11&color=yellow|Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures, p.1]]
 > > I discuss the use of musical timbre and harmony, and their relations, taking examples from my own works. I discuss also the use of the computer in composition and musical research. Speaking of timbre, I introduce the sound/noise axis, which I use to create musical tension and to replace the dynamic function of harmony. Along this axis, generally speaking, "noise" replaces the concept of dissonance and "sound" that of consonance.

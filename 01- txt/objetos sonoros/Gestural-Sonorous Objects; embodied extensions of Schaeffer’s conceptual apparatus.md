@@ -3,16 +3,20 @@ type: article
 author: Rolf Godoy
 publish: 2006
 place: 
-tags: 
-bib: read
+tags:
+  - objetos
+bib: forreading
 ---
 
 
->>> **A partir de los cambios 'tímbricos' que produce la máquina en la música/sonido etc, cuáles son ls nuevos parámetros de análisis, o formas de analizar 'al objeto sonoro'?**
+>>> **A partir de los cambios 'tímbricos' que produce la máquina en la música/sonido etc, cuáles son los nuevos parámetros de análisis, o formas de analizar 'al objeto sonoro'?**
 
+>[!important] categorización de sonidos, no estoy del todo segura. Habla mucho de lo gestual. No lo descartaría, tal vez para usar algún que otro término.
 
-### Abstract
-*'Se nos anima a practicar lo que Schaeffer llamó "escucha reducida", es decir, ignorar el contexto original del sonido, incluida su fuente y significación, y en cambio centrar nuestra escucha en las características sonoras' ... Sin embargo, se puede argumentar que este principio de “escucha reducida” no está en conflicto con principios más fundamentales de cognición corporizada, y que los criterios para la constitución y las diversas calificaciones de características de los objetos sonoros pueden vincularse a imágenes gestuales. Además, existen varias similitudes entre el estudio del sonido y los gestos desde una perspectiva fenomenológica, y **se sugiere que los conceptos teóricos de Schaeffer pueden extenderse a lo que se llama objetos gestuales-sonoros**.* (con Shaeffer, cambio del aparato conceptual que permitió analizar características desde otra perspectiva, y además, universal independientemente de la fuente, estilo y/o cultura).
+> [!PDF|yellow] [[Godoy_GesturalSonorousObjects.pdf#page=1&selection=19,18,32,33&color=yellow|Godoy_GesturalSonorousObjects, p.1]]
+> > we are encouraged to practise what Schaeffer called ‘reduced listening’, meaning disregarding the original context of the sound, including its source and signification, and instead focus our listening on the sonorous features. However, it can be argued that this principle of ‘reduced listening’ is not in conflict with more fundamental principles of embodied cognition, and that the criteria for the constitution, and the various feature qualifications, of sonorous objects can be linked to gestural images. Also, there are several similarities between studying sound and gestures from a phenomenological perspective, and it is suggested that Schaeffer’s theoretical concepts may be extended to what is called gestural-sonorous objects.
+> 
+> *'Se nos anima a practicar lo que Schaeffer llamó "escucha reducida", es decir, ignorar el contexto original del sonido, incluida su fuente y significación, y en cambio centrar nuestra escucha en las características sonoras' ... Sin embargo, se puede argumentar que este principio de “escucha reducida” no está en conflicto con principios más fundamentales de cognición corporizada, y que los criterios para la constitución y las diversas calificaciones de características de los objetos sonoros pueden vincularse a imágenes gestuales. Además, existen varias similitudes entre el estudio del sonido y los gestos desde una perspectiva fenomenológica, y **se sugiere que los conceptos teóricos de Schaeffer pueden extenderse a lo que se llama objetos gestuales-sonoros**.* (con Shaeffer, cambio del aparato conceptual que permitió analizar características desde otra perspectiva, y además, universal independientemente de la fuente, estilo y/o cultura).
 
 ---
 
