@@ -1,4 +1,3 @@
-#hidden_from_graph
 # Esquema de tesina
 
 ## Introducción

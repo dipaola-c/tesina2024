@@ -4,19 +4,48 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#instruments  ",
+      "color": {
+        "a": 1,
+        "rgb": 1287190
+      }
+    },
+    {
+      "query": "tag:#hombre-maquina  ",
+      "color": {
+        "a": 1,
+        "rgb": 16385334
+      }
+    },
+    {
+      "query": "tag:#timbre  ",
+      "color": {
+        "a": 1,
+        "rgb": 13524182
+      }
+    },
+    {
+      "query": "tag:#objetos  ",
+      "color": {
+        "a": 1,
+        "rgb": 14998535
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 0.968505859375,
+  "lineSizeMultiplier": 0.727852376302083,
   "collapse-forces": false,
   "centerStrength": 0.453938802083333,
   "repelStrength": 8.05419921875,
   "linkStrength": 0.9776611328125,
   "linkDistance": 283,
-  "scale": 0.7542921741542178,
+  "scale": 0.7296232286962734,
   "close": true
 }

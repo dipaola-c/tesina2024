@@ -1,4 +1,3 @@
-#hidden_from_graph
 year: {{date | format ("YYYY")}}
 tags: research
 authors: {{authors}}

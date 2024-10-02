@@ -1,4 +1,3 @@
-#hidden_from_graph
 ### Octubre
 #### Objetivos
 - Definir temática/s tentativa/s

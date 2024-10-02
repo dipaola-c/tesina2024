@@ -1,4 +1,3 @@
-#hidden_from_graph
 ## Conceptos/ideas
 La cita desde lo tímbrico ('Colorear' lo citado)
 Materiales reformulados tímbricamente

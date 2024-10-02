@@ -1,4 +1,3 @@
-#hidden_from_graph
 > [!important] 
 > 1. Composición de la obra
 > 2. Un tema de tesina en relación a alguna problemática ejemplificada en la obra compuesta

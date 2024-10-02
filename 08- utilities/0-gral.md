@@ -1,4 +1,3 @@
-#hidden_from_graph
 #### Anotadores
 - [ ] Obsidian
 	- [ ] PDF ++
