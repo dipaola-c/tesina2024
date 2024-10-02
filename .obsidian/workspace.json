@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 53.98075240594926,
+        "dimension": 44.61942257217848,
         "children": [
           {
             "id": "d17f190ecad152d9",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/timbre/La condición romántica del arte.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 46.019247594050746,
+        "dimension": 55.38057742782152,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
@@ -45,11 +45,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "05- bib full/Guzmán_2016_La condición romántica del arte.pdf",
-                "page": 503,
-                "left": -18,
-                "top": 565,
-                "zoom": 0.8688335462710475
+                "file": "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
+                "page": 48,
+                "left": 42,
+                "top": 550,
+                "zoom": 0.86
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/timbre/La condición romántica del arte.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/timbre/La condición romántica del arte.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/timbre/La condición romántica del arte.md"
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md"
               }
             }
           }
@@ -192,19 +192,22 @@
   },
   "active": "d17f190ecad152d9",
   "lastOpenFiles": [
-    "05- bib full/Guzmán_2016_La condición romántica del arte.pdf",
     "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
-    "01- txt/timbre/La condición romántica del arte.md",
     "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01- txt/timbre/La condición romántica del arte.md",
+    "05- bib full/Guzmán_2016_La condición romántica del arte.pdf",
     "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+    "08- utilities/0-gral.md",
+    "Biblio paper.md",
+    "2023 Tesina - cronograma.md",
+    "2024 Tesina - cronograma.md",
+    "Biblio y obras general.md",
     "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
     "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
     "06- output/prueba1/img/Asset 1.png",
     "05- bib full/Open_Sources_Words_Circuits_and_the_Nota.pdf",
     "01- txt/objetos sonoros/Spectromorphological Analysis of Sound Objects An adaptation of Pierre Schaeffer’s Typomorphology..md",
-    "Biblio paper.md",
     "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
-    "Biblio y obras general.md",
     "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
     "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
     "05- bib full/Thoresen_2004_Spectromorphological Analysis of Sound Objects.pdf",
@@ -215,14 +218,11 @@
     "05- bib full/Riera_EstudiosTimbricos_tesis.pdf",
     "05- bib full/SchwabMichael-Experimental SystemsFuture Knowledge in Artistic Research.pdf",
     "05- bib full/05- bib full.md",
-    "2024 Tesina - cronograma.md",
     "Análisis Resonando.md",
     "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
     "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
     "01- txt/hombre-máquina.md",
     "02- img/Pasted image 20240911122117.png",
-    "2023 Tesina - cronograma.md",
-    "08- utilities/0-gral.md",
     "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
     "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
