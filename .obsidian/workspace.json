@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 61.06736657917761,
+        "dimension": 41.38232720909886,
         "children": [
           {
             "id": "d6bbc18159d6bf76",
@@ -25,18 +25,14 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 38.9326334208224,
+        "dimension": 58.61767279090113,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Tesina - cronograma.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -68,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hidden_from_graph",
+                "query": "tag:#forma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biblio y obras general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biblio y obras general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biblio y obras general.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,11 +170,12 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "d6bbc18159d6bf76",
+  "active": "8f9a9b142a8451c0",
   "lastOpenFiles": [
+    "2024 Tesina - cronograma.md",
+    "Biblio y obras general.md",
     "Biblio paper.md",
     "Análisis Resonando.md",
-    "2024 Tesina - cronograma.md",
     "2023 Tesina - cronograma.md",
     "08- utilities/SuperCollider.md",
     "07- templates/Zotero Template.md",
@@ -205,7 +199,6 @@
     "01- txt/semiótica/El grado cero retórico y la neorretórica. La lectura tropológica.md",
     "01- txt/obras/Pandora box.md",
     "01- txt/obras/Bandoneon ! (A Combine) (1966).md",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/artistic research/course_artistic_research.pdf",
     "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "00- inicial/manual_de_estilo_2022.pdf",
