@@ -2,7 +2,7 @@
 type: bib
 author: Helmut Lachenmann
 tags:
-  - music
+  - objetos
 publish: 
 bib: read
 ---

@@ -2,7 +2,7 @@
 type: bib
 author: Pablo Fessel
 tags:
-  - music
+  - textura
 publish: 2006
 bib: read
 ---

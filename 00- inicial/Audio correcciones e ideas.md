@@ -1,3 +1,4 @@
+#hidden_from_graph
 ![[Pasted image 20231010225420.png]]
 
 *'Para mí la composición es una especie de trabajo científico: cuando aparecen los problemas, hay que intentar solucionarlos. Pienso por ejemplo en los ámbitos de la matemática, como el de la optimización a través de operaciones combinatorias. (...) Se hacen intentos de acercamiento, como si se tratara de investigaciones geográfica en aquellos tiempos en los que todavía había terrenos inexplorados en el planeta. Una expedición para completar un mapa. '* (Ligeti - diálogo con Stahnke)

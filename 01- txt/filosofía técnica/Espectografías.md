@@ -2,7 +2,8 @@
 type: book
 author: Derrida - Stiegler
 publish: 
-tags: 
+tags:
+  - filosofía
 place: 
 bib: read
 ---

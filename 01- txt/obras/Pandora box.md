@@ -4,6 +4,7 @@ author: Mauricio Kagel
 place: 
 publish: 1960
 tags:
+  - obra
 ---
 Mauricio Kagel (1931-2008)
 

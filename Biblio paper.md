@@ -1,4 +1,4 @@
-
+#hidden_from_graph
 ### Por leer
 
 ```dataview

@@ -3,7 +3,10 @@ type: tesis
 author: Lindsey Elizabeth Hartman
 place: LSU Scholarly Repository
 publish: 2019
-tags: 
+tags:
+  - instruments
+  - tudor
+  - mumma
 bib: forreading
 ---
 

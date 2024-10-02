@@ -1,7 +1,8 @@
 ---
 type: book
 author: Paul Valéry
-tags: 
+tags:
+  - filosofía
 publish: 1999
 place: 
 bib: read

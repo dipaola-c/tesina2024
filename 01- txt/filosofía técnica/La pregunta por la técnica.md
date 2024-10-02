@@ -4,6 +4,9 @@ place: Academia Bávara de Bellas Artes
 publish: 1953
 author: Martin Heidegger
 bib: read
+tags:
+  - filosofía
+  - técnica
 ---
 I.- De la concepción habitual a la concepción metafísica de la técnica. 
 	I.1 - En camino hacia la esencia de la técnica. 

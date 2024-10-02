@@ -4,6 +4,7 @@ author: David Tudor
 publish: 1966
 place: 
 tags:
+  - obra
 ---
 David Tudor (1926–1996)
 

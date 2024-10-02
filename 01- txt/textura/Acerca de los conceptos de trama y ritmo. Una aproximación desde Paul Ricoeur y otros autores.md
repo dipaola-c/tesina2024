@@ -2,7 +2,7 @@
 type: bib
 author: Cristián Guerra
 tags:
-  - music
+  - textura
 publish: 2009
 bib: read
 ---

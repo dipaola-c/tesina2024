@@ -2,7 +2,7 @@
 type: bib
 author: Santiago Santero - Ligeti
 tags:
-  - music
+  - forma
 publish: 
 bib: read
 ---

@@ -1,3 +1,4 @@
+#hidden_from_graph
 ## Breve bio
 Pianista, compositor y director (Buenos Aires, 1936 - Buenos Aires, 2013). Estudió composición con Petrassi y Ginastera y piano con Caamaño, Sebastiani y Loriod.
 Fue docente en el Di Tella, UCA, conservatorio Gilardi y Bellas Artes de La Plata, y estuvo a cargo de talleres de la Fundación Antorchas y el Instituto Goethe. Fue director de la Filarmónica de Bs As, director en el Colón (también compositor residente) y director-fundador del Centro de Experimentación. Integró como pianista el último sexteto de Astor Piazzolla.

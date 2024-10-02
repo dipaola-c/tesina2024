@@ -2,7 +2,7 @@
 type: bib
 author: Claudio Eiriz
 tags:
-  - music
+  - objetos
 publish: 
 bib: read
 ---

@@ -3,7 +3,8 @@ type: book
 author: Gerardo Guzmán
 publish: 2016
 place: Universidad de La Plata
-tags: 
+tags:
+  - timbre
 bib:
 ---
 > [!info] Guzmán, Gerardo La condición romántica del arte : música, pensamiento y persistencias / Gerardo Guzmán. - 1a ed . - La Plata : EDULP, 2016. Libro digital, PDF Archivo Digital: descarga y online ISBN 978-987-1985-86-9 1. Historia. I. Título. CDD 709

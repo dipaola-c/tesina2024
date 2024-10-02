@@ -1,3 +1,4 @@
+#hidden_from_graph
 ### Obras
 - Romitelli - An Index of Metals
 ==- Farben - Schönberg==

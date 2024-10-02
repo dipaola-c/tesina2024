@@ -2,7 +2,7 @@
 type: bib
 author: Varios
 tags:
-  - music
+  - "#hidden_from_graph"
 publish: 
 bib: read
 ---

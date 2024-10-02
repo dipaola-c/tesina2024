@@ -3,7 +3,8 @@ type: bib
 author: Leah Reid
 place: 
 publish: 
-tags: 
+tags:
+  - timbre
 bib:
 ---
 > [!PDF|] [[Reid_compositiontimbre.pdf#page=1&selection=23,39,27,39|Reid_compositiontimbre, p.337]]

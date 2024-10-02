@@ -3,7 +3,8 @@ type: bib
 author: David Wessel
 publish: 2009
 place: UCA
-tags: 
+tags:
+  - timbre
 bib: read
 ---
 **Abstract**: La investigación sobre el timbre musical busca, en general, obtener representaciones de la estructura perceptual de un conjunto de sonidos, que tenga implicancias en el control expresivo sonoro, tanto para la composición como para la interpretación. En este artículo describiremos un sistema para la medición del contraste perceptual entre objetos sonoros y el uso de estos datos en programas de computación. Programas que usan algoritmos de escalamiento multidimensionales para generar representaciones geométricas de los datos. En los espacios tímbricos que resultan de los programas de escalamiento, los sonidos son representados como puntos, y a partir de sus distancias es posible buscar relaciones estadísticas interesantes y establecer juicios sobre el contraste de los distintos tonos. La representación espacial nos brinda una interpretación psicoacústica, relacionando sus dimensiones con las propiedades acústicas de los sonidos. Luego, estas propiedades pueden ser directamente controladas en la síntesis. Los esquemas de control que vamos a describir sirven para síntesis aditiva y permiten la manipulación de la distribución de la energía espectral y diversas características temporales de los sonidos. Los esquemas de control han sido probados en contextos musicales. Se dará aquí un particular énfasis en la construcción de líneas melódicas en las cuales el timbre es manipulado nota por nota. También se discutirá el diseño de interfaces de control adaptadas al ser humano y de software para sintetizadores digitales en tiempo real.

@@ -3,7 +3,9 @@ type: book
 place: 
 author: You Nakai
 publish: 2021
-tags: 
+tags:
+  - instruments
+  - tudor
 bib: read
 ---
 (como un cuento...)

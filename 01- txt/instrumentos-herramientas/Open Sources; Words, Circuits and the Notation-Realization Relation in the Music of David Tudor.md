@@ -3,7 +3,9 @@ type: article
 place: 
 author: Ron Kuivila
 publish: 
-tags: 
+tags:
+  - tudor
+  - instruments
 bib:
 ---
 > [!PDF|note] [[Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf#page=1&selection=27,0,37,17&color=note|Kuivila_Open_Sources_Words_Circuits_and_the_Nota, p.17]]

@@ -2,7 +2,7 @@
 type: bib
 author: Carlos Mastropietro
 tags:
-  - music
+  - timbre
 publish: 2007
 bib: read
 ---

@@ -2,7 +2,9 @@
 type: bib
 author: Willa Köerner y Tommy Martinez
 publish: 2022
-tags: 
+tags:
+  - instruments
+  - filosofía
 bib: read
 ---
 ## The House That Technology Built - Everest Pipkin (pp 50-61)

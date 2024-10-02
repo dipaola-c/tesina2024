@@ -2,7 +2,9 @@
 type: book
 author: Stiegler
 place: 
-tags: 
+tags:
+  - filosofía
+  - técnica
 publish: 
 bib:
 ---

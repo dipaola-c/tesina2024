@@ -3,8 +3,11 @@ type: book
 author: Falk Hübner
 place: 
 publish: 2024
-tags: 
-bib:
+tags:
+  - research
+  - papers
+  - essays
+bib: read
 ---
 As art theorist and historian Elke Bippus puts it, quoting Herbert Molderings, who himself goes back to Marcel Duchamp to develop his ideas: *“The artist is no longer understood to be a ‘creator of paintings,’ but rather to be an inventor ‘of experimental setups in which ‘images’ are both the instruments and the results of an experiment’”* (Bippus 2013, 124, quoting Molderings 2010).
 

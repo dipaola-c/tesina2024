@@ -1,3 +1,4 @@
+#hidden_from_graph
 cmd b (server)
 cmd enter (linea)
 cmd . (stop todo)

@@ -1,3 +1,4 @@
+#hidden_from_graph
 #### Anotadores
 - [ ] Obsidian
 	- [ ] PDF ++
@@ -22,11 +23,18 @@
 - [ ] 
 
 #### Bibliotecas online
-- [ ] OpenAthens
+- [ ] OpenAthens https://my.openathens.net/?passiveLogin=false
 - [ ] ResearchGate
-- [ ] JSTOR
+- [ ] JSTOR https://www.jstor.org/
 - [ ] Library of congress https://catalog.loc.gov/
 - [ ] https://researchrabbitapp.com/home
+
+https://libgen.is/
+https://es.z-library.se/
+https://es.zlib-articles.se/
+
+Sobre Zotero --->
+https://www.youtube.com/watch?v=CcwGNyQwO0I&ab_channel=OLIVERMARTINMARTIN
 
 #### Notation (in latex)
 - [ ] MusiXTeX - https://tug.ctan.org/info/latex4musicians/latex4musicians.pdf - https://texdoc.org/serve/musixtex/0
