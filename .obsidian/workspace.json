@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 45.391304347826086,
+        "dimension": 48.69565217391305,
         "children": [
           {
             "id": "d6bbc18159d6bf76",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/obras/Rainforest.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 54.608695652173914,
+        "dimension": 51.30434782608696,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
@@ -34,14 +34,29 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
-                "page": 57,
-                "left": -22,
-                "top": 191,
-                "zoom": 0.7205882352941176
+                "page": 10,
+                "left": -19,
+                "top": 767,
+                "zoom": 0.8492647058823529
+              }
+            }
+          },
+          {
+            "id": "efd2bbdab6f6566e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
+                "page": 53,
+                "left": -4,
+                "top": 659,
+                "zoom": 0.8
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/obras/Rainforest.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/obras/Rainforest.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/obras/Rainforest.md"
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md"
               }
             }
           }
@@ -181,30 +196,30 @@
   "lastOpenFiles": [
     "01- txt/obras/Bandoneon ! (A Combine).md",
     "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
-    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
-    "01- txt/obras/Mesa.md",
+    "Ideas random octubre 2024.md",
+    "01- txt/obras/Rainforest.md",
     "01- txt/obras/Fluorescent Sound.md",
+    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
+    "01- txt/obras/Variations II.md",
+    "01- txt/obras/Pandora box.md",
+    "01- txt/obras/Mesa.md",
+    "01- txt/obras/Medium size mograph.md",
+    "01- txt/obras/Megaton para WM.md",
+    "01- txt/obras/Hornpipe.md",
+    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
+    "01- txt/obras/Burroughs.md",
     "Biblio paper.md",
     "Biblio y obras general.md",
-    "01- txt/obras/Variations II.md",
-    "01- txt/obras/Rainforest.md",
-    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
     "01- txt/obras/Untitled.md",
-    "01- txt/obras/Burroughs.md",
-    "01- txt/obras/Pandora box.md",
-    "01- txt/obras/Megaton para WM.md",
-    "01- txt/obras/Medium size mograph.md",
-    "01- txt/obras/Hornpipe.md",
     "00- inicial/Resonando - txt.md",
     "00- inicial/Audio correcciones e ideas.md",
     "00- inicial/2- Gerardo Gandini.md",
     "00- inicial/1- Obras y análisis.md",
-    "00- inicial/1- Investigación.md",
-    "00- inicial/0- Ideas obra.md",
-    "01- txt/hombre-máquina.md",
-    "07- templates/Zotero Template.md",
-    "08- utilities/0-gral.md",
-    "08- utilities/SuperCollider.md",
     "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
     "01- txt/artistic research/course_artistic_research.pdf",
     "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
