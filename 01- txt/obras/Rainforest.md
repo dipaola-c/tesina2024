@@ -82,3 +82,13 @@ Rainforest es un ejemplo de modificación acústica del sonido generado electró
 > [!PDF|yellow] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=52&selection=94,16,118,38&color=yellow|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.52]]
 > > Tudor took a single concept: re-thinking the loudspeaker, and applied it towards the exploration of resonant qualities of different materials. Essentially, Rainforest was a DIY study in building acoustic filters using the same transducers as did Bandoneon!, and the nature of the music was determined by the performers’ selection of found objects.
 
+> [!PDF|important] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=57&selection=70,2,82,17&color=important|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.57]]
+> > Another version, Rainforest V, was premiered in 2009, thirteen years after the passing of David Tudor. It was the first installed version, described as “a self-running sound environment conceived by the late David Tudor and realized by the group Composers Inside Electronics. Each composer designs and
+> 
+> > [!PDF|important] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=58&selection=0,2,29,6&color=important|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.58]]
+> > 52 constructs a set of sculptures which functions as instrumental loudspeakers, and each independently produces sound material to display their sculpture’s resonant characteristics.”103 With the creation of Rainforest V, Composers Inside Electronics remained true to the tradition of Tudor’s Rainforest series as an experimental investigation into the resonances of acoustic materials (found objects) when audio signals are applied via electronics (transducers)—which Gordon Mumma succinctly defined as “acoustic modification of electronically generated sound.
+> > > [!PDF|important] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=58&selection=88,0,93,3&color=important|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.58]]
+> > Mumma, “David Tudor the Composer,” in Cybersonic Arts, 154
+> 
+> 
+> 

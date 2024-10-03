@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+                "file": "01- txt/obras/Rainforest.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,29 +34,14 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
-                "page": 10,
-                "left": -19,
-                "top": 767,
-                "zoom": 0.8492647058823529
-              }
-            }
-          },
-          {
-            "id": "efd2bbdab6f6566e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
-                "page": 53,
-                "left": -4,
-                "top": 659,
-                "zoom": 0.8
+                "page": 57,
+                "left": -23,
+                "top": 11,
+                "zoom": 0.6740196078431372
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+                "file": "01- txt/obras/Rainforest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+                "file": "01- txt/obras/Rainforest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md"
+                "file": "01- txt/obras/Rainforest.md"
               }
             }
           }
@@ -194,12 +179,13 @@
   },
   "active": "d6bbc18159d6bf76",
   "lastOpenFiles": [
-    "01- txt/obras/Bandoneon ! (A Combine).md",
     "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
-    "Ideas random octubre 2024.md",
     "01- txt/obras/Rainforest.md",
-    "01- txt/obras/Fluorescent Sound.md",
     "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "02- img/Pasted image 20241003130409.png",
+    "01- txt/obras/Bandoneon ! (A Combine).md",
+    "Ideas random octubre 2024.md",
+    "01- txt/obras/Fluorescent Sound.md",
     "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
     "01- txt/obras/Variations II.md",
     "01- txt/obras/Pandora box.md",
@@ -237,7 +223,6 @@
     "06- output/27_08/img/1.jpeg",
     "06- output/prueba1 copy/img/logo_untref.png",
     "06- output/prueba1 copy/img/1.jpeg",
-    "06- output/prueba1/2.jpeg",
-    "06- output/prueba1/1.png"
+    "06- output/prueba1/2.jpeg"
   ]
 }

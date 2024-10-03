@@ -197,3 +197,20 @@ El dispositivo en sí era una unidad de control que consistía en una pequeña c
 > Para la configuración de la realización de Tudor de Variations II se utilizaron micrófonos estándar, micrófonos de contacto y cartuchos fonográficos. Para los sonidos de piano alterados, se colocaron micrófonos de contacto tanto en el piano como en resortes de alambre rígido de automóvil llamados ==“rascadores de aceras”, que se usaban en las cuerdas del piano. Se usaron cartuchos fonográficos de una manera similar a Cartridge Music, donde se insertaron objetos en ellos y luego se colocaron en contacto con las cuerdas del piano. Luego se mezclaron y amplificaron todas las señales de audio. Como se mencionó anteriormente, “la configuración total se consideraría como el instrumento”.==
 
 ### Pepsi Pavilion
+![[Pasted image 20241003130409.png]]
+> [!PDF|yellow] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=53&selection=60,14,75,21&color=yellow|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.53]]
+> > The Pepsi Pavilion project grew into a massive geodesic dome structure engulfed by artificial fog; inside was a multi-sensory experience consisting of a large heliuminflated spherical mylar mirror, kinetic sculptures, and a sound-modifier console connected to a 37-speaker sound system.
+
+> [!info] Randall Packer, «The Pepsi Pavilion: Laboratory for Social Experimentation», in: Jeffrey Shaw/Peter Weibel (eds), Future Cinema. The cinematic Imaginary after Film, exhib. cat., The MIT Press, Cambridge (Mass.), London, 2003, p. 145.
+
+> [!PDF|yellow] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=54&selection=26,27,28,73&color=yellow|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.54]]
+> > Tudor, who was the lead for the audio system worked closely with Fred Waldhauer, Gordon Mumma, and Larry Owens on the system’s development
+
+> [!PDF|yellow] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=54&selection=33,0,45,51&color=yellow|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.54]]
+> > The sound-modifier system was proposed by composer David Tudor. When the time came to think about equipment for the sound system, Tudor brought Gordon Mumma into the project. Mumma suggested a system that would modify the pitch (frequency), the loudness, and the color (formants) of each of the eight channels of the sound system, so as to give the “player” a more flexible instrument.
+> > > [!PDF|yellow] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=53&selection=87,2,92,42&color=yellow|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.53]]
+> > Nilo Lindgren, “Into the Collaboration,” Pavilion, ed. Billy Klüver, Julie Martin, and Barbara Rose (New York: E.P. Dutton, 1972)
+> 
+> 
+> 
+> 
