@@ -14,3 +14,11 @@ Table author as author, publish as "año", tags as tags
 WHERE contains(bib,"not")
 SORT Status DESC
 ```
+
+### Obras
+
+```dataview
+Table author as author, publish as "año", tags as tags
+WHERE contains(listen,"y")
+SORT Status DESC
+```

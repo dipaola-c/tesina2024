@@ -5,6 +5,7 @@ place:
 publish: 1960
 tags:
   - obra
+  - kagel
 ---
 Mauricio Kagel (1931-2008)
 

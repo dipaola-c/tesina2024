@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 64.78260869565217,
+        "dimension": 45.391304347826086,
         "children": [
           {
             "id": "d6bbc18159d6bf76",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+                "file": "01- txt/obras/Rainforest.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,20 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 35.21739130434783,
+        "dimension": 54.608695652173914,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
+                "page": 57,
+                "left": -22,
+                "top": 191,
+                "zoom": 0.7205882352941176
+              }
             }
           }
         ]
@@ -101,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+                "file": "01- txt/obras/Rainforest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+                "file": "01- txt/obras/Rainforest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md"
+                "file": "01- txt/obras/Rainforest.md"
               }
             }
           }
@@ -149,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -173,8 +179,23 @@
   },
   "active": "d6bbc18159d6bf76",
   "lastOpenFiles": [
-    "00- inicial/Resonando - txt.md",
+    "01- txt/obras/Bandoneon ! (A Combine).md",
+    "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
+    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
+    "01- txt/obras/Mesa.md",
+    "01- txt/obras/Fluorescent Sound.md",
+    "Biblio paper.md",
     "Biblio y obras general.md",
+    "01- txt/obras/Variations II.md",
+    "01- txt/obras/Rainforest.md",
+    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01- txt/obras/Untitled.md",
+    "01- txt/obras/Burroughs.md",
+    "01- txt/obras/Pandora box.md",
+    "01- txt/obras/Megaton para WM.md",
+    "01- txt/obras/Medium size mograph.md",
+    "01- txt/obras/Hornpipe.md",
+    "00- inicial/Resonando - txt.md",
     "00- inicial/Audio correcciones e ideas.md",
     "00- inicial/2- Gerardo Gandini.md",
     "00- inicial/1- Obras y análisis.md",
@@ -184,27 +205,11 @@
     "07- templates/Zotero Template.md",
     "08- utilities/0-gral.md",
     "08- utilities/SuperCollider.md",
-    "2023 Tesina - cronograma.md",
-    "2024 Tesina - cronograma.md",
-    "Análisis Resonando.md",
-    "Biblio paper.md",
-    "08- utilities/FluCoMa.md",
-    "01- txt/timbre/Modulación tímbrica.md",
-    "05- bib full/05- bib full.md",
-    "02- img/02- img.md",
-    "01- txt/timbre/La condición romántica del arte.md",
-    "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
-    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
-    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
-    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
-    "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
-    "01- txt/tiempo/Tiempo y forma.md",
     "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
     "01- txt/artistic research/course_artistic_research.pdf",
     "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "00- inicial/manual_de_estilo_2022.pdf",
     "00- inicial/Glosario.loom",
-    "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
     "05- bib full/Guzmán_2016_La condición romántica del arte.pdf",
     "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
     "06- output/prueba1/img/Asset 1.png",
