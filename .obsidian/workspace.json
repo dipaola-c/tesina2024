@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 48.69565217391305,
+        "dimension": 50.468164794007485,
         "children": [
           {
             "id": "d6bbc18159d6bf76",
@@ -25,7 +25,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 51.30434782608696,
+        "dimension": 49.53183520599251,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md"
+                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md"
               }
             }
           }
@@ -177,9 +177,9 @@
   },
   "active": "8f9a9b142a8451c0",
   "lastOpenFiles": [
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
     "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
-    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
     "Biblio paper.md",
     "Biblio y obras general.md",
     "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
