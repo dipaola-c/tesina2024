@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/obras/Untitled.md",
+                "file": "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,13 +31,11 @@
             "id": "8f9a9b142a8451c0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
-                "page": 6,
-                "left": 84,
-                "top": 260,
-                "zoom": 1.09
+                "file": "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5
   },
   "right": {
     "id": "3319ad7f620eb724",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/obras/Untitled.md",
+                "file": "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/obras/Untitled.md",
+                "file": "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/obras/Untitled.md"
+                "file": "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md"
               }
             }
           }
@@ -177,14 +175,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d6bbc18159d6bf76",
+  "active": "8f9a9b142a8451c0",
   "lastOpenFiles": [
-    "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
-    "Ideas random octubre 2024.md",
-    "Biblio paper.md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
-    "01- txt/obras/Variations II.md",
+    "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+    "Biblio paper.md",
+    "Biblio y obras general.md",
+    "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
+    "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
     "01- txt/obras/Untitled.md",
+    "Ideas random octubre 2024.md",
+    "01- txt/obras/Variations II.md",
     "01- txt/obras/Toneburst, Maps and Fragments.md",
     "01- txt/obras/Rainforest.md",
     "01- txt/obras/Pandora box.md",
@@ -195,15 +200,9 @@
     "01- txt/obras/Fluorescent Sound.md",
     "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
     "01- txt/obras/Burroughs.md",
-    "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
     "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
     "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
     "02- img/Pasted image 20241003130409.png",
-    "Biblio y obras general.md",
-    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
-    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
     "00- inicial/Resonando - txt.md",
     "00- inicial/Audio correcciones e ideas.md",
     "00- inicial/2- Gerardo Gandini.md",
@@ -215,7 +214,6 @@
     "05- bib full/Guzmán_2016_La condición romántica del arte.pdf",
     "06- output/prueba1/img/Asset 1.png",
     "05- bib full/Open_Sources_Words_Circuits_and_the_Nota.pdf",
-    "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
     "02- img/Pasted image 20240911122117.png",
     "02- img/Pasted image 20240910173252.png",
     "02- img/Pasted image 20240831163339.png",
