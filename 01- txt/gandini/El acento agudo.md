@@ -1,8 +1,7 @@
 ---
 type: bib
 author: Pablo Fessel
-tags:
-  - "#hidden_from_graph"
+tags: []
 publish: 
 bib: read
 ---

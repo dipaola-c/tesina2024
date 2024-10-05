@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 54.52173913043479,
+        "dimension": 80.20833333333334,
         "children": [
           {
             "id": "d6bbc18159d6bf76",
@@ -38,7 +38,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 45.47826086956522,
+        "dimension": 19.791666666666664,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
@@ -48,9 +48,9 @@
               "state": {
                 "file": "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
                 "page": 31,
-                "left": 11,
-                "top": 46,
-                "zoom": 0.8402777777777778
+                "left": 6,
+                "top": 395,
+                "zoom": 0.5381944444444445
               }
             }
           }
@@ -192,8 +192,13 @@
   },
   "active": "3252c0ac95a2a895",
   "lastOpenFiles": [
-    "01- txt/obras/Untitled.md",
+    "01- txt/tiempo/Tiempo y forma.md",
     "Construcción de la hipótesis; estado tímbrico.md",
+    "01- txt/artistic research/Artistic Research in Music (all text).md",
+    "01- txt/artistic research/Artistic Research in Music (extract).md",
+    "01- txt/gandini/Varios sobre Gerardo Gandini.md",
+    "01- txt/gandini/El acento agudo.md",
+    "01- txt/obras/Untitled.md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
     "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
     "01- txt/obras/Mesa.md",
@@ -216,13 +221,9 @@
     "02- img/Pasted image 20241004180205.png",
     "Biblio y obras general.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-    "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
     "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
-    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
     "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
     "02- img/Pasted image 20241003130409.png",
-    "00- inicial/Resonando - txt.md",
-    "00- inicial/Audio correcciones e ideas.md",
     "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
     "01- txt/artistic research/course_artistic_research.pdf",
     "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",

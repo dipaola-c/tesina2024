@@ -1,8 +1,7 @@
 ---
 type: bib
 author: Varios
-tags:
-  - "#hidden_from_graph"
+tags: []
 publish: 
 bib: read
 ---
