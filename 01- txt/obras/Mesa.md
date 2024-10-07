@@ -1,7 +1,7 @@
 ---
 type: obra
 author: Gordon Mumma
-publish: 1967
+publish: 1966
 place: 
 tags:
   - obra
