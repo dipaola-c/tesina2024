@@ -1,5 +1,6 @@
 ## Mayo - Junio
 
+![[Pasted image 20241009132605.png]]
 #### Research
 - [x] Essays and Papers
 - [x] Music 2.0 (Assis)

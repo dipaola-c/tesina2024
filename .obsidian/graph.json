@@ -8,51 +8,58 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#instruments  ",
+      "query": "tag:#obra  ",
       "color": {
         "a": 1,
-        "rgb": 1287190
-      }
-    },
-    {
-      "query": "tag:#hombre-maquina  ",
-      "color": {
-        "a": 1,
-        "rgb": 16385334
+        "rgb": 6084296
       }
     },
     {
       "query": "tag:#timbre  ",
       "color": {
         "a": 1,
-        "rgb": 13524182
+        "rgb": 9508365
       }
     },
     {
-      "query": "tag:#objetos  ",
+      "query": "tag:#objetos",
       "color": {
         "a": 1,
-        "rgb": 14998535
+        "rgb": 14738061
       }
     },
     {
-      "query": "tag:#obra  ",
+      "query": "tag:#instruments  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 2156832
+      }
+    },
+    {
+      "query": "tag:#textura",
+      "color": {
+        "a": 1,
+        "rgb": 11492566
+      }
+    },
+    {
+      "query": "tag:#hombre-maquina  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.3,
-  "nodeSizeMultiplier": 0.968505859375,
-  "lineSizeMultiplier": 0.727852376302083,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.11006673177083,
+  "lineSizeMultiplier": 0.70831298828125,
   "collapse-forces": false,
-  "centerStrength": 0.453938802083333,
-  "repelStrength": 8.05419921875,
-  "linkStrength": 0.9776611328125,
-  "linkDistance": 283,
-  "scale": 0.7270966417695977,
-  "close": true
+  "centerStrength": 0.653401692708333,
+  "repelStrength": 11.0213216145833,
+  "linkStrength": 0.211140950520833,
+  "linkDistance": 371,
+  "scale": 0.8579918968804837,
+  "close": false
 }

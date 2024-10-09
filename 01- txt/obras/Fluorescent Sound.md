@@ -6,7 +6,15 @@ place:
 tags:
   - obra
   - tudor
+  - timeline
 ---
+<span  
+class='ob-timelines'  
+data-date='1964-08-00-00'  
+data-title='Fluorescent Sound'  
+data-type='range'  
+data-end='1965-06-10-00'>  
+</span>
 Aquí, expone su 'paso'/migración involuntaria de pianista a compositor, con esta obra. (fuente Interview). Evento de Robert Rauschenberg en el Museo Moderno de Estocolmo + performance de Rauschenberg Elgin Tie.
 
 > [!info] Tudor, D., Schonfeld, V. 1972. “From Piano to Electronics”. Music and Musicians. no. 20

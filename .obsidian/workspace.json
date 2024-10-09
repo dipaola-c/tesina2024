@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 46.26736111111111,
+        "dimension": 17.37619461337967,
         "children": [
           {
             "id": "d6bbc18159d6bf76",
@@ -27,10 +27,10 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-                "page": 13,
-                "left": -18,
-                "top": 670,
-                "zoom": 0.8384353741496599
+                "page": 11,
+                "left": -30,
+                "top": 408,
+                "zoom": 0.5272108843537415
               }
             }
           }
@@ -40,7 +40,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 53.732638888888886,
+        "dimension": 82.62380538662033,
         "children": [
           {
             "id": "8f9a9b142a8451c0",
@@ -187,40 +187,44 @@
       "templates:Insert template": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "8f9a9b142a8451c0",
   "lastOpenFiles": [
-    "07- templates/Timeline Template.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "07- templates/Timeline Template 1.md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
-    "Biblio paper.md",
-    "Biblio y obras general.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "01- txt/obras/Toneburst, Maps and Fragments.md",
-    "01- txt/obras/Mesa.md",
-    "05- bib full/Newport Cal_How To Become A Straight-A Student.pdf",
-    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-    "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
-    "01- txt/tiempo/Tiempo y forma.md",
-    "01- txt/artistic research/Artistic Research in Music (all text).md",
-    "01- txt/artistic research/Artistic Research in Music (extract).md",
-    "01- txt/gandini/Varios sobre Gerardo Gandini.md",
-    "01- txt/gandini/El acento agudo.md",
-    "01- txt/obras/Untitled.md",
+    "01- txt/obras/Burroughs.md",
+    "07- templates/Timeline Template.md",
     "01- txt/obras/Variations II.md",
+    "01- txt/obras/Mesa.md",
+    "01- txt/obras/Hornpipe.md",
+    "01- txt/obras/Fluorescent Sound.md",
+    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
+    "01- txt/hombre-máquina.md",
+    "2024 Tesina - cronograma.md",
+    "02- img/Pasted image 20241009132605.png",
+    "01- txt/obras/Untitled.md",
+    "01- txt/obras/Toneburst, Maps and Fragments.md",
     "01- txt/obras/Rainforest.md",
     "01- txt/obras/Pandora box.md",
     "01- txt/obras/Megaton para WM.md",
     "01- txt/obras/Medium size mograph.md",
-    "01- txt/obras/Hornpipe.md",
-    "01- txt/obras/Fluorescent Sound.md",
-    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
-    "01- txt/obras/Burroughs.md",
-    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
+    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "01- txt/timbre/Modulación tímbrica.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "09- modelos/Estructuras.md",
+    "09- modelos/Abstracts.md",
+    "09- modelos",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "Biblio paper.md",
+    "Biblio y obras general.md",
+    "05- bib full/Newport Cal_How To Become A Straight-A Student.pdf",
+    "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
+    "01- txt/tiempo/Tiempo y forma.md",
     "02- img/Pasted image 20241004180205.png",
     "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
     "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
@@ -229,14 +233,12 @@
     "01- txt/artistic research/course_artistic_research.pdf",
     "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "00- inicial/manual_de_estilo_2022.pdf",
-    "00- inicial/Glosario.loom",
     "06- output/prueba1/img/Asset 1.png",
     "02- img/Pasted image 20240911122117.png",
     "02- img/Pasted image 20240910173252.png",
     "02- img/Pasted image 20240831163339.png",
     "06- output/27_08/img/logo_untref.png",
     "06- output/27_08/img/1.jpeg",
-    "06- output/prueba1 copy/img/logo_untref.png",
-    "06- output/prueba1 copy/img/1.jpeg"
+    "06- output/prueba1 copy/img/logo_untref.png"
   ]
 }

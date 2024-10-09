@@ -6,8 +6,19 @@ place:
 tags:
   - obra
   - tudor
+  - timeline
+  - test
 listen: y
 ---
+<span  
+class='ob-timelines'  
+data-date='1966-08-05-00'  
+data-title='Bandoneón'  
+data-type='range'  
+data-end='1967-08-06-00'>  
+</span>
+
+
 David Tudor (1926–1996)
 
 En 1966, artistas, ingenieros y científicos de Bell Telephone Laboratories colaboraron en una serie de representaciones innovadoras de danza, música y teatro **9 Evenings: Theatre & Engineering**, en la ciudad de Nueva York (John Cage, Lucinda Childs, Öyvind Fahlström, Alex Hay, Deborah Hay, Steve Paxton, Yvonne Rainer, Robert Rauschenberg, David Tudor y Robert Whitman) 

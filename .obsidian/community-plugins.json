@@ -12,5 +12,11 @@
   "custom-node-size",
   "reference-generator",
   "obsidian-timelines",
-  "css-snippets"
+  "css-snippets",
+  "obsidian-style-settings",
+  "mysnippets-plugin",
+  "obsidian42-brat",
+  "templater-obsidian",
+  "obsidian-year-timeline",
+  "obsidian-timeline"
 ]

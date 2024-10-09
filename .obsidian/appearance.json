@@ -2,11 +2,14 @@
   "accentColor": "",
   "cssTheme": "Golden Topaz",
   "theme": "moonstone",
-  "baseFontSize": 17,
+  "baseFontSize": 10,
   "baseFontSizeAction": true,
   "translucency": false,
   "nativeMenus": true,
   "showViewHeader": true,
   "textFontFamily": "Helvetica Neue",
-  "interfaceFontFamily": "Helvetica"
+  "interfaceFontFamily": "Helvetica",
+  "enabledCssSnippets": [
+    "timeline"
+  ]
 }

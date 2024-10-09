@@ -6,8 +6,16 @@ publish: 1960
 tags:
   - obra
   - kagel
+  - timeline
 listen: y
 ---
+<span  
+class='ob-timelines'  
+data-date='1960-03-00-00'  
+data-title='Pandora Box'  
+data-type='range'  
+data-end='1961-01-00-00'>  
+</span>
 Mauricio Kagel (1931-2008)
 
 *Al igual que el acordeón, evoca tradiciones populares pre-modernas a pesar de su construcción mecánica decididamente moderna. Sus botones son una cifra de la revolución industrial, así como un improbable precursor de la era digital.*

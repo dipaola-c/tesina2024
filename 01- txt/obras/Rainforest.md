@@ -6,8 +6,16 @@ place:
 tags:
   - obra
   - tudor
+  - timeline
 listen: y
 ---
+<span  
+class='ob-timelines'  
+data-date='1968-02-00-00'  
+data-title='Rainforest'  
+data-type='range'  
+data-end='1968-12-00-00'>  
+</span>
 (posterior a Bandoneón - significa 'selva tropical')
 > [!PDF|yellow] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=46&selection=37,0,66,8&color=yellow|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.46]]
 > > One of the ideas in my Rainforest series is that loudspeakers should be individuals, they should be instruments. So if you need a hundred of them to fill a hall, each one should have its own individual voice. How do you achieve this? You construct them. After all what is a loudspeaker? At present it’s a reproducing instrument, but my feeling all along has been that you should regard it as a generating instrument. All musical instruments work by generating sound waves, and so does a loudspeaker, so if you regard it from that point of view your whole notion of how to construct one would change. Why shouldn’t there be a thousand or more ways of building loudspeakers? Instead of what we consider to be electronic music at present, you would then make your music geared to what the particular loudspeaker can produce, and the whole input becomes simple instead of complex.

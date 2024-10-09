@@ -1,0 +1,90 @@
+{
+  "dayMarker": {
+    "style": "line",
+    "line": {
+      "color": "#CC0000",
+      "width": 2
+    },
+    "circle": {
+      "color": "#EE9900",
+      "border": "#000000",
+      "borderWidth": 2,
+      "radius": 20
+    },
+    "emoji": {
+      "character": "🔻",
+      "offsetX": 0,
+      "offsetY": 0,
+      "scale": 1
+    }
+  },
+  "customMarkers": [
+    {
+      "date": "1966-06-09",
+      "character": "Bandoneón"
+    }
+  ],
+  "timeline": {
+    "style": "custom",
+    "solid": {
+      "january": {
+        "name": "January",
+        "color": "#A7BFD4"
+      },
+      "february": {
+        "name": "February",
+        "color": "#B3D1E6"
+      },
+      "march": {
+        "name": "March",
+        "color": "#A5D5CD"
+      },
+      "april": {
+        "name": "April",
+        "color": "#C4E1B9"
+      },
+      "may": {
+        "name": "May",
+        "color": "#B8DCB6"
+      },
+      "june": {
+        "name": "June",
+        "color": "#DBE5B6"
+      },
+      "july": {
+        "name": "July",
+        "color": "#FFE080"
+      },
+      "august": {
+        "name": "August",
+        "color": "#F6DAA1"
+      },
+      "september": {
+        "name": "September",
+        "color": "#F5CDA7"
+      },
+      "october": {
+        "name": "October",
+        "color": "#F5B57C"
+      },
+      "november": {
+        "name": "November",
+        "color": "#CBAE99"
+      },
+      "december": {
+        "name": "December",
+        "color": "#C7D8E6"
+      }
+    },
+    "gradient": {
+      "angle": 0,
+      "colors": []
+    },
+    "custom": "<svg\n  xmlns='http://www.w3.org/2000/svg'\n  viewBox='0 -100 3760 200'>\n  <title>Timeline 2022</title>\n  <defs>\n    <style>\n      .labels text {\n        font-size: 50px;\n      }\n    </style>\n  </defs>\n  <g class='bars'>\n    <rect fill='#A7BFD4' x='0' width='310' height='25'></rect>\n    <rect fill='#B3D1E6' x='320' width='280' height='25'></rect>\n    <rect fill='#A5D5CD' x='610' width='310' height='25'></rect>\n    <rect fill='#C4E1B9' x='930' width='300' height='25'></rect>\n    <rect fill='#B8DCB6' x='1240' width='310' height='25'></rect>\n    <rect fill='#DBE5B6' x='1560' width='300' height='25'></rect>\n    <rect fill='#FFE080' x='1870' width='310' height='25'></rect>\n    <rect fill='#F6DAA1' x='2190' width='310' height='25'></rect>\n    <rect fill='#F5CDA7' x='2510' width='300' height='25'></rect>\n    <rect fill='#F5B57C' x='2820' width='310' height='25'></rect>\n    <rect fill='#CBAE99' x='3140' width='300' height='25'></rect>\n    <rect fill='#C7D8E6' x='3450' width='310' height='25'></rect>\n  </g>\n  <g class='labels' style='font-size:50px;' text-anchor='start'>\n    <text fill='#581845' x='0' y='80'>1960</text>\n    <text fill='#581845' x='320' y='80'>1965</text>\n    <text fill='#581845' x='610' y='80'>1970</text>\n    <text fill='#581845' x='930' y='80'>1975</text>\n    <text fill='#581845' x='1240' y='80'>1980</text>\n    <text fill='#581845' x='1560' y='80'>1985</text>\n    <text fill='#581845' x='1870' y='80'>1990</text>\n    <text fill='#581845' x='2190' y='80'>1995</text>\n    <text fill='#581845' x='2510' y='80'>2000</text>\n    <text fill='#581845' x='2820' y='80'>2005</text>\n    <text fill='#581845' x='3140' y='80'>2010</text>\n    <text fill='#581845' x='3450' y='80'>2015</text>\n  </g>\n</svg>"
+  },
+  "dailyNoteIntegration": {
+    "enabled": false,
+    "format": "YYYY-MM-DD",
+    "directory": ""
+  }
+}
