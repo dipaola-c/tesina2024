@@ -12,10 +12,11 @@ listen: y
 ---
 <span  
 class='ob-timelines'  
-data-date='1966-08-05-00'  
-data-title='Bandoneón'  
+data-date='1966-02-01-00'  
+data-title='Bandoneón' 
+data-img="https://www.fondation-langlois.org/media/activites/9evenings/tudor/historique/tudor.jpg"
 data-type='range'  
-data-end='1967-08-06-00'>  
+data-end='1966-12-01-00'>  
 </span>
 
 

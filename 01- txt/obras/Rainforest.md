@@ -11,10 +11,11 @@ listen: y
 ---
 <span  
 class='ob-timelines'  
-data-date='1968-02-00-00'  
+data-date='1968-02-01-00'  
 data-title='Rainforest'  
+data-img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkerf5fE10FLW270uET0MMeGYyN6cvYOTaQ&s"
 data-type='range'  
-data-end='1968-12-00-00'>  
+data-end='1968-12-01-00'>  
 </span>
 (posterior a Bandoneón - significa 'selva tropical')
 > [!PDF|yellow] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=46&selection=37,0,66,8&color=yellow|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.46]]

@@ -10,10 +10,10 @@ tags:
 ---
 <span  
 class='ob-timelines'  
-data-date='1964-08-00-00'  
+data-date='1964-08-01-00'  
 data-title='Fluorescent Sound'  
 data-type='range'  
-data-end='1965-06-10-00'>  
+data-end='1965-06-01-00'>  
 </span>
 Aquí, expone su 'paso'/migración involuntaria de pianista a compositor, con esta obra. (fuente Interview). Evento de Robert Rauschenberg en el Museo Moderno de Estocolmo + performance de Rauschenberg Elgin Tie.
 

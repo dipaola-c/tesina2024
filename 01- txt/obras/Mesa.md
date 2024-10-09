@@ -10,10 +10,10 @@ tags:
 ---
 <span  
 class='ob-timelines'  
-data-date='1966-04-00-00'  
+data-date='1966-04-01-00'  
 data-title='Mesa'  
 data-type='range'  
-data-end='1966-12-00-00'>  
+data-end='1966-12-01-00'>  
 </span>
 Antecedente de [[Bandoneon ! (A Combine)]]
 > [!PDF|yellow] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=43&selection=70,0,84,43&color=yellow|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.43]]

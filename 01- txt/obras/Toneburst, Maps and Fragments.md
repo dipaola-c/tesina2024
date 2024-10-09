@@ -11,10 +11,10 @@ listen:
 ---
 <span  
 class='ob-timelines'  
-data-date='1992-01-00-00'  
+data-date='1992-01-01-00'  
 data-title='Toneburst, Maps and Fragments'  
 data-type='range'  
-data-end='1992-11-00-00'>  
+data-end='1992-11-01-00'>  
 </span>
 > [!PDF|yellow] [[Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf#page=6&selection=39,1,98,9&color=yellow|Kuivila_Open_Sources_Words_Circuits_and_the_Nota, p.22]]
 > > Untitled was also the basis for a collaboration with the visual artist Sophia Ogielska, undertaken 20 years later. The latter project was based on the analogy Tudor saw between Ogielska’s manner of working and his own. Both began with a limited range of initial material, which was subjected to a wide range of transformations in order to generate the totality of the work. In the installation, the source images for Ogielska’s transparent panels are taken directly from Tudor’s notations of the piece, subjected to varying transformations of position and scale and rendered in an extremely bright palette that Tudor insisted upon. Figure 8 shows a basic set of images that Ogielska created from Tudor’s notations. The five figures to the left in the top row are filtering operations with three sinusoids to indicate low, middle and high frequencies; the figures in the second row from the top are mixing (including nonlinear mixing) operations; and the figures in the bottom two rows are control points. Figure 9 shows how they were combined to form large transparent panels. It was not possible for Tudor to realize the original score of Toneburst for a tour of Merce Cunningham’s Sounddance in 1995. Instead, he created three CDs of material drawn from the same techniques that were remixed, equalized and rerouted for the performances. While this version differed from the original and was understood as a “solution” rather than a new piece, the dynamic range, density and transparency of this “remixed” version was remarkably vivid on its own terms and quite close in technique to the pieces he undertook in collaboration with Ogielska.

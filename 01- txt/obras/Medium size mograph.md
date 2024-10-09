@@ -10,8 +10,8 @@ tags:
 ---
 <span  
 class='ob-timelines'  
-data-date='1963-02-00-00'  
+data-date='1963-02-01-00'  
 data-title='Medium size mograph'  
 data-type='range'  
-data-end='1963-11-00-00'>  
+data-end='1963-11-01-00'>  
 </span>

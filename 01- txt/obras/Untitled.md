@@ -11,10 +11,10 @@ listen: y
 ---
 <span  
 class='ob-timelines'  
-data-date='1972-01-00-00'  
+data-date='1972-01-01-00'  
 data-title='Untitled'  
 data-type='range'  
-data-end='1972-11-00-00'>  
+data-end='1972-11-01-00'>  
 </span>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2TgHFISt7HE?si=uaexwg5fIiL3LPlJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

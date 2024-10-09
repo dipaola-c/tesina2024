@@ -11,10 +11,10 @@ listen: y
 ---
 <span  
 class='ob-timelines'  
-data-date='1960-03-00-00'  
+data-date='1960-03-01-00'  
 data-title='Pandora Box'  
 data-type='range'  
-data-end='1961-01-00-00'>  
+data-end='1961-01-01-00'>  
 </span>
 Mauricio Kagel (1931-2008)
 

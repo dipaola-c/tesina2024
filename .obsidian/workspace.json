@@ -27,9 +27,9 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-                "page": 11,
+                "page": 10,
                 "left": -30,
-                "top": 408,
+                "top": 130,
                 "zoom": 0.5272108843537415
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07- templates/Timeline Template.md",
+                "file": "07- templates/Timeline Template horizontal.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07- templates/Timeline Template.md",
+                "file": "07- templates/Timeline Template horizontal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07- templates/Timeline Template.md",
+                "file": "07- templates/Timeline Template horizontal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07- templates/Timeline Template.md"
+                "file": "07- templates/Timeline Template horizontal.md"
               }
             }
           }
@@ -194,24 +194,24 @@
   },
   "active": "8f9a9b142a8451c0",
   "lastOpenFiles": [
-    "07- templates/Timeline Template 1.md",
-    "01- txt/obras/Bandoneon ! (A Combine).md",
+    "07- templates/Timeline Template vertical.md",
     "01- txt/obras/Burroughs.md",
-    "07- templates/Timeline Template.md",
+    "01- txt/obras/Rainforest.md",
+    "01- txt/obras/Bandoneon ! (A Combine).md",
+    "07- templates/Timeline Template horizontal.md",
+    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
     "01- txt/obras/Variations II.md",
+    "01- txt/obras/Untitled.md",
+    "01- txt/obras/Toneburst, Maps and Fragments.md",
+    "01- txt/obras/Pandora box.md",
     "01- txt/obras/Mesa.md",
+    "01- txt/obras/Megaton para WM.md",
+    "01- txt/obras/Medium size mograph.md",
     "01- txt/obras/Hornpipe.md",
     "01- txt/obras/Fluorescent Sound.md",
-    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
     "01- txt/hombre-máquina.md",
     "2024 Tesina - cronograma.md",
     "02- img/Pasted image 20241009132605.png",
-    "01- txt/obras/Untitled.md",
-    "01- txt/obras/Toneburst, Maps and Fragments.md",
-    "01- txt/obras/Rainforest.md",
-    "01- txt/obras/Pandora box.md",
-    "01- txt/obras/Megaton para WM.md",
-    "01- txt/obras/Medium size mograph.md",
     "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "01- txt/timbre/Modulación tímbrica.md",
