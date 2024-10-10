@@ -11,7 +11,8 @@ tags:
 <span  
 class='ob-timelines'  
 data-date='1961-01-01-00'  
-data-title='Variations II'  
+data-title='Variations II'
+data-img="https://www.rosewhitemusic.com/cage/texts/Var2Fig2.gif"
 data-type='range'  
 data-end='1961-11-01-00'>  
 </span>

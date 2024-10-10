@@ -12,6 +12,7 @@ tags:
 class='ob-timelines'  
 data-date='1964-08-01-00'  
 data-title='Fluorescent Sound'  
+data-img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMYS9WK95nCuHgsJVboTcFUC59Y4ftE6y11Q&s"
 data-type='range'  
 data-end='1965-06-01-00'>  
 </span>

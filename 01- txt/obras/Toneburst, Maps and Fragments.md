@@ -12,7 +12,8 @@ listen:
 <span  
 class='ob-timelines'  
 data-date='1992-01-01-00'  
-data-title='Toneburst, Maps and Fragments'  
+data-title='Toneburst, Maps and Fragments'
+data-img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZzU3bc3KPiB5LIg_19PPxtY-uzfPFj_oOQ&s"
 data-type='range'  
 data-end='1992-11-01-00'>  
 </span>

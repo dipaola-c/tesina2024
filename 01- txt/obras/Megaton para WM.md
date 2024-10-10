@@ -11,7 +11,8 @@ tags:
 <span  
 class='ob-timelines'  
 data-date='1967-02-01-00'  
-data-title='Megaton para WM'  
+data-title='Megaton para WM'
+data-img="https://i.ytimg.com/vi/X-CKVm8MXxU/hqdefault.jpg"
 data-type='range'  
 data-end='1967-12-01-00'>  
 </span>

@@ -12,7 +12,8 @@ listen: y
 <span  
 class='ob-timelines'  
 data-date='1972-01-01-00'  
-data-title='Untitled'  
+data-title='Untitled'
+data-img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_OrbfIoGtIeshqOI3J8gCfPxTzmCGI0vQQ&s"
 data-type='range'  
 data-end='1972-11-01-00'>  
 </span>

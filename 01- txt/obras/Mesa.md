@@ -11,7 +11,8 @@ tags:
 <span  
 class='ob-timelines'  
 data-date='1966-04-01-00'  
-data-title='Mesa'  
+data-title='Mesa'
+data-img="https://spiralcage.wordpress.com/wp-content/uploads/2021/06/68d17-mesa-setup.png?w=694"
 data-type='range'  
 data-end='1966-12-01-00'>  
 </span>

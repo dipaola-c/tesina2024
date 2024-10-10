@@ -12,7 +12,8 @@ listen: y
 <span  
 class='ob-timelines'  
 data-date='1960-03-01-00'  
-data-title='Pandora Box'  
+data-title='Pandora Box' 
+data-img="https://i.vimeocdn.com/video/647383042-4744d96be8f6ac74805b7f18c7de4744c2a13f6ca4cba98fd432d5733b7ef018-d?f=webp"
 data-type='range'  
 data-end='1961-01-01-00'>  
 </span>
