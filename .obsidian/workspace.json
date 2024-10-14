@@ -28,14 +28,28 @@
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
                 "page": 19,
-                "left": -17,
-                "top": 496,
-                "zoom": 0.9217687074829932
+                "left": -16,
+                "top": 500,
+                "zoom": 0.923469387755102
+              }
+            }
+          },
+          {
+            "id": "2700c7d1576bceb3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05- bib full/SaittaCarmelo_2016_timbre.pdf",
+                "page": 2,
+                "left": -22,
+                "top": 772,
+                "zoom": 0.6840858697843177
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9a6ae9738fab9122",
@@ -48,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "Construcción de la hipótesis; estado tímbrico.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "Construcción de la hipótesis; estado tímbrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "Construcción de la hipótesis; estado tímbrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
+                "file": "Construcción de la hipótesis; estado tímbrico.md"
               }
             }
           }
@@ -194,8 +208,11 @@
   },
   "active": "2f1d7777968a8b07",
   "lastOpenFiles": [
-    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "01- txt/timbre/El timbre como factor estructurante.md",
+    "05- bib full/SaittaCarmelo_2016_timbre.pdf",
+    "Biblio paper.md",
     "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "Construcción de la hipótesis; estado tímbrico.md",
     "Excalidraw/Tudor obra.md",
     "Excalidraw",
@@ -219,9 +236,7 @@
     "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
     "01- txt/hombre-máquina.md",
-    "2024 Tesina - cronograma.md",
     "02- img/Pasted image 20241009132605.png",
-    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
     "09- modelos",
     "05- bib full/Newport Cal_How To Become A Straight-A Student.pdf",
     "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
@@ -231,7 +246,6 @@
     "02- img/Pasted image 20241003130409.png",
     "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
     "01- txt/artistic research/course_artistic_research.pdf",
-    "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "06- output/prueba1/img/Asset 1.png",
     "02- img/Pasted image 20240911122117.png",
     "02- img/Pasted image 20240910173252.png",

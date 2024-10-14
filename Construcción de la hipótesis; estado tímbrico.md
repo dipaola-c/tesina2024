@@ -16,7 +16,7 @@ LINK DOC ---> https://docs.google.com/document/d/11NxPNiOfMT86gngqzhd7j4eYtF8B48
 > > It was not only the capacity to sustain notes at length that fascinated Tudor, as Mumma’s comments suggest, but also the irregular envelopes that such sounds produce: it is relatively difficult to sustain a bandoneon note with a constant intensity because of fluctuations in the air pressure caused by the movement of the bellows. Consequently, the sounds produced are bewilderingly irregular and full of unpredictable nuances. The electronic circuitry used in Mesa was elaborate, as the schematic diagram of the piece’s electronic circuitry prepared by the composer at the time displays (fig. 11).
 
 6) Qúe pasa con lo textural? Lo que **Goldman** llama =='texturas sónicas'== ![[Bandoneon ! (A Combine)#De la textura]] 
-7) 
+7) Pensar configuraciones (otra vez!) o binomios de combinaciones posibles, inspiradas en ![[El timbre como factor estructurante]]
 
 > [! task] Configuraciones completas y complejas de 'momentos' (forma momentos) particulares, en este caso, de x objeto en vibración (estudiar), genera un objeto único (o una resultante sonora única)
 > 		Complejidad desde la polifonía (superposición de sonidos)
