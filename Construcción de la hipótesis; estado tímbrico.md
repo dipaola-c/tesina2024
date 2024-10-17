@@ -1,6 +1,11 @@
 
 LINK DOC ---> https://docs.google.com/document/d/11NxPNiOfMT86gngqzhd7j4eYtF8B48ZudGU6G_iQjFE/edit
 
+> [!info] entonces, retomando a Saitta, Schoenberg y demás definiciones... pensar en que la intromisión de la máquina genera un cambio de 'paradigma??' en donde los ejes propuestos para analizar un sonido en función al timbre se ven excedidos, y surge la necesidad de ... 'estado tímbrico' como configuración, o método de análisis o de composición.....
+
+
+> [!info ] ojo aquí, You Nakai sugiere que Tudor en (the view.. david tudor papers) 'Cuanto más profundo es este proceso de observación, más parecen requerir y sugerir los componentes sus propias ideas musicales, [...] la música se revela desde “dentro”, en lugar de desde “fuera”'... pensar entonces, cómo se revela la máquina y cómo esta deviene en estado tímbrico.
+
 ---------
 1) Cybersonic en relación a estado tímbrico?? o parte de... + estructuras sónicas según Goldman
 

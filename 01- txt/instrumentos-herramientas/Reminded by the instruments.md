@@ -37,8 +37,31 @@ bib: read
 > (...) Pero las personas más versadas en electrónica generalmente tenían el problema opuesto al coordinar lo que entendían con todas las cosas no electrónicas que hacía Tudor. **No existía un lenguaje universal para procesar la totalidad de su producción.**
 En resumen, **la naturaleza de la música de Tudor iba en contra de los conceptos tradicionales, mientras que la naturaleza de los materiales que documentaban su música iba en contra de la alfabetización tradicional**. Sin embargo, me pareció que estas dos cuestiones podían abordarse por separado. Los problemas de Alfabetización y Texto eran problemas técnicos que exigían más trabajo. Los problemas de Diversidad y Concepto, por otro lado, no exigían más trabajo sino una forma diferente de trabajar. (del binomio música - electrónica como carriles separados)
 
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=20&selection=93,0,105,18&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.20]]
+> > 29 “Instead of what we consider to be electronic music at present, you would then make your music geared to what the particular loudspeaker can produce, and the whole input becomes simple instead of complex” (David Tudor and Victor Schonfield, “From Piano to Electronics,” Music and Musicians 20 (August 1972), 26)
+**> > 	En los años 70, había enseñado a los compositores más jóvenes que la fuente de sonido debe coincidir con el carácter de cada altavoz individual, que nunca es neutral.**
 
-**==LEER A PARTIR DE 6==**
+> [!PDF|yellow] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=24&selection=19,1,36,48&color=yellow|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.24]]
+> >  For if this was the case, I could just ignore the question of whether David Tudor was a performer or a composer, or when and how he made the transition from one to the other. Instead, I could think of him as an instrumentalist who always produced music from his engagement with what he called the “nature” of each specific instrument. If there was a transition, it was never from performer to composer. As Tudor himself had revealed in the title of one of the very few interviews published during his lifetime, it was “From Piano to Electronics”39— a change of instrumentation, not of profession.
+> 
+> En cambio, podría pensar en él como un instrumentista que siempre produjo música a partir de su compromiso con lo que él llamaba la “naturaleza” de cada instrumento específico. Si hubo una transición, nunca fue de intérprete a compositor. Como el propio Tudor había revelado en el título de una de las pocas entrevistas publicadas durante su vida, se trató de “Del piano a la electrónica”39: un cambio de instrumentación, no de profesión.
 
+> [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=25&selection=74,20,107,2&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.25]]
+> > The problem was not in the specific principles of material but in their apparent lack.43 Second, what Tudor said implicitly went directly against what Amirkhanian had assumed: an instrument does not immediately reveal its specific principles to everybody. In other words, there was no such thing as “the same instrument,” as Tudor stressed in his response: No, no, no. We are not speaking of instruments. We are not speaking of instruments. No, we are speaking of ideas. I mean look at people who have written string quartets. Look at John Cage who’s written a string quartet. Look at Michael von Biel who’s written a string quartet. Look at Benjamin Franklin who’s written a string quartet. You can see immediately that the concept of the instrument is different. I mean an instrument is not just an instrument which everybody uses in the same way.44
+> > > [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=26&selection=6,0,16,58&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.26]]
+> > The difference between instruments with specific principles and those that offer too many possibilities was not in the instruments, but in the “ideas” about instruments— by which Tudor meant, as he clarified, how one conceptualized and used them.45 Everything depended on the nature of particular coordination between an instrument and its user which was based on one idea or another. 
+> 
+> Quiero decir que un instrumento no es sólo un instrumento que todo el mundo utiliza de la misma manera. 44 La diferencia entre instrumentos con principios específicos y aquellos que ofrecen demasiadas posibilidades no estaba en los instrumentos, sino en las “ideas” sobre los instrumentos, con lo que Tudor quería decir, como él mismo aclaró, cómo uno los conceptualizaba y los utilizaba. 45 Todo dependía de la naturaleza de la coordinación particular entre un instrumento y su usuario, que se basaba en una idea u otra. Empezar “desde el otro lado” simplemente significaba que esta idea se derivaría de los propios instrumentos.
+> > [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=26&selection=126,0,128,3&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.26]]
+> > Tudor, “The View from Inside (1976),” Box 19, Folder 12, David Tudor Papers, GRI
+> 
+> 
+> 
+> 
+
+****==IMPORTANTE LEER 'THE VIEW FROM INSIDE' DAVID TUDOR PAPERS==****
+
+
+**==LEER A PARTIR DE 10==**
 
 *Cuando releí los estudios existentes con esta nueva mentalidad, me sorprendió un paralelo inesperado: mi método para derivar la mejor aproximación al material a partir del material mismo fue la forma en que Tudor abordó sus materiales. En la década de 1950, había creado plantillas y reglas específicas que coincidían con la escala de la partitura gráfica particular que necesitaba medir; en los años 1960 había descrito su primera composición como algo que se componía a sí mismo a partir de su propia naturaleza instrumental; y en la década de 1970, había enseñado a compositores más jóvenes que la fuente de sonido debe coincidir con el carácter de cada altavoz individual, que nunca es neutral. **En todos los casos, David Tudor pareció dejar que la naturaleza específica de un material determinado determinara los métodos y herramientas necesarios. En otras palabras, mi método de simulación ya era una simulación.***

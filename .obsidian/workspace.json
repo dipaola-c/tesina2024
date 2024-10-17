@@ -27,9 +27,9 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-                "page": 19,
+                "page": 27,
                 "left": -16,
-                "top": 500,
+                "top": 564,
                 "zoom": 0.923469387755102
               }
             }
@@ -41,15 +41,15 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/SaittaCarmelo_2016_timbre.pdf",
-                "page": 3,
-                "left": -22,
-                "top": 442,
-                "zoom": 0.6840858697843177
+                "page": 1,
+                "left": 60,
+                "top": 846,
+                "zoom": 0.86
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "9a6ae9738fab9122",
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/timbre/El timbre como factor estructurante.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/timbre/El timbre como factor estructurante.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/timbre/El timbre como factor estructurante.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/timbre/El timbre como factor estructurante.md"
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
               }
             }
           }
@@ -208,18 +208,18 @@
   },
   "active": "2f1d7777968a8b07",
   "lastOpenFiles": [
-    "05- bib full/SaittaCarmelo_2016_timbre.pdf",
-    "01- txt/timbre/El timbre como factor estructurante.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "Biblio paper.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-    "Excalidraw/Tudor obra.md",
-    "Excalidraw",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
     "09- modelos/Estructuras.md",
     "09- modelos/Abstracts.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "01- txt/timbre/El timbre como factor estructurante.md",
+    "05- bib full/SaittaCarmelo_2016_timbre.pdf",
+    "Biblio paper.md",
+    "Excalidraw/Tudor obra.md",
+    "Excalidraw",
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
     "07- templates/Timeline Template vertical.md",
     "07- templates/Timeline Template horizontal.md",
     "01- txt/obras/Burroughs.md",
