@@ -41,9 +41,9 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/SaittaCarmelo_2016_timbre.pdf",
-                "page": 2,
+                "page": 3,
                 "left": -22,
-                "top": 772,
+                "top": 442,
                 "zoom": 0.6840858697843177
               }
             }
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
+                "file": "01- txt/timbre/El timbre como factor estructurante.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
+                "file": "01- txt/timbre/El timbre como factor estructurante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
+                "file": "01- txt/timbre/El timbre como factor estructurante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md"
+                "file": "01- txt/timbre/El timbre como factor estructurante.md"
               }
             }
           }
@@ -208,12 +208,12 @@
   },
   "active": "2f1d7777968a8b07",
   "lastOpenFiles": [
-    "01- txt/timbre/El timbre como factor estructurante.md",
     "05- bib full/SaittaCarmelo_2016_timbre.pdf",
+    "01- txt/timbre/El timbre como factor estructurante.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
     "Biblio paper.md",
     "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-    "Construcción de la hipótesis; estado tímbrico.md",
     "Excalidraw/Tudor obra.md",
     "Excalidraw",
     "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
