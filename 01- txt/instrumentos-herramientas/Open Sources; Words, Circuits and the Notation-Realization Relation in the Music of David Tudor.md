@@ -6,7 +6,7 @@ publish: 2004
 tags:
   - tudor
   - instruments
-bib: forreading
+bib: sec
 ---
 > [! important] todo leido, ver en todo caso 'Untitled', tal vez no lo uso como cita ni nada pero sí me sirvió como disparador de otra obra
 

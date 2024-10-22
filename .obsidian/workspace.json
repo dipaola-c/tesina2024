@@ -6,17 +6,19 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 50.56472632493484,
+        "dimension": 17.36111111111111,
         "children": [
           {
             "id": "d6bbc18159d6bf76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
-                "mode": "source",
-                "source": false
+                "file": "05- bib full/Younakai_hearAfter.pdf",
+                "page": 33,
+                "left": 47,
+                "top": 173,
+                "zoom": 0.87
               }
             }
           },
@@ -28,9 +30,9 @@
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
                 "page": 27,
-                "left": -16,
-                "top": 564,
-                "zoom": 0.923469387755102
+                "left": -19,
+                "top": 637,
+                "zoom": 0.7857142857142857
               }
             }
           },
@@ -47,14 +49,29 @@
                 "zoom": 0.86
               }
             }
+          },
+          {
+            "id": "bc92618c5030bbba",
+            "type": "leaf",
+            "dimension": 33.333333333333336,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05- bib full/SaittaCarmelo_2016_timbre.pdf",
+                "page": 2,
+                "left": -4,
+                "top": 301,
+                "zoom": 0.62
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 49.43527367506516,
+        "dimension": 82.63888888888889,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -62,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "07- templates/Timeline Template vertical.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "07- templates/Timeline Template vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "07- templates/Timeline Template vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
+                "file": "07- templates/Timeline Template vertical.md"
               }
             }
           }
@@ -208,50 +225,51 @@
   },
   "active": "2f1d7777968a8b07",
   "lastOpenFiles": [
-    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "09- modelos/Estructuras.md",
-    "09- modelos/Abstracts.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "01- txt/timbre/El timbre como factor estructurante.md",
-    "05- bib full/SaittaCarmelo_2016_timbre.pdf",
-    "Biblio paper.md",
-    "Excalidraw/Tudor obra.md",
-    "Excalidraw",
-    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+    "01- txt/obras/Neural Synthesis.md",
+    "01- txt/obras/Rainforest.md",
     "07- templates/Timeline Template vertical.md",
     "07- templates/Timeline Template horizontal.md",
-    "01- txt/obras/Burroughs.md",
-    "01- txt/obras/Variations II.md",
-    "01- txt/obras/Untitled.md",
     "01- txt/obras/Toneburst, Maps and Fragments.md",
-    "01- txt/obras/Rainforest.md",
-    "01- txt/obras/Pandora box.md",
-    "01- txt/obras/Mesa.md",
-    "01- txt/obras/Megaton para WM.md",
-    "01- txt/obras/Medium size mograph.md",
-    "01- txt/obras/Hornpipe.md",
     "01- txt/obras/Fluorescent Sound.md",
-    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
+    "01- txt/obras/Medium size mograph.md",
+    "01- txt/obras/Megaton para WM.md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
-    "01- txt/hombre-máquina.md",
+    "01- txt/obras/Mesa.md",
+    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
+    "01- txt/obras/Hornpipe.md",
+    "01- txt/instrumentos-herramientas/Varios Tudor.md",
+    "01- txt/obras/Untitled.md",
+    "02- img/Pasted image 20241021231137.png",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "Biblio y obras general.md",
+    "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
+    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
+    "01- txt/timbre/El timbre como factor estructurante.md",
+    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
+    "01- txt/timbre/La condición romántica del arte.md",
+    "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+    "01- txt/timbre/Modulación tímbrica.md",
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "05- bib full/SaittaCarmelo_2016_timbre.pdf",
+    "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
+    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "05- bib full/Younakai_hearAfter.pdf",
+    "Excalidraw",
     "02- img/Pasted image 20241009132605.png",
     "09- modelos",
     "05- bib full/Newport Cal_How To Become A Straight-A Student.pdf",
-    "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
     "02- img/Pasted image 20241004180205.png",
     "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
     "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
     "02- img/Pasted image 20241003130409.png",
     "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
-    "01- txt/artistic research/course_artistic_research.pdf",
     "06- output/prueba1/img/Asset 1.png",
     "02- img/Pasted image 20240911122117.png",
     "02- img/Pasted image 20240910173252.png",
     "02- img/Pasted image 20240831163339.png",
     "06- output/27_08/img/logo_untref.png",
-    "06- output/27_08/img/1.jpeg",
-    "06- output/prueba1 copy/img/logo_untref.png"
+    "06- output/27_08/img/1.jpeg"
   ]
 }

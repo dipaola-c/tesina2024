@@ -6,7 +6,7 @@ publish: 2021
 tags:
   - instruments
   - tudor
-bib: read
+bib: forreading
 ---
 > [!important] (como un cuento...) a partir de la obra de Yvonne Rainer, quien fue coreógrafo de obras del '60'. Analiza la obra de Tudor 'desarmando' el misterio que siempre tuvo el compositor, atravesando las diferentes dificultades que surgieron, como la falta de documentación escrita por él, las categorías/conceptos que no logran incluir su música o materiales, la variedad de su obra/actividad artística, sus partituras de circuitos y no en el sentido tradicional...
 
