@@ -6,22 +6,8 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 17.36111111111111,
+        "dimension": 56.857638888888886,
         "children": [
-          {
-            "id": "d6bbc18159d6bf76",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05- bib full/Younakai_hearAfter.pdf",
-                "page": 33,
-                "left": 47,
-                "top": 173,
-                "zoom": 0.87
-              }
-            }
-          },
           {
             "id": "3252c0ac95a2a895",
             "type": "leaf",
@@ -29,24 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-                "page": 27,
-                "left": -19,
-                "top": 637,
-                "zoom": 0.7857142857142857
-              }
-            }
-          },
-          {
-            "id": "2700c7d1576bceb3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05- bib full/SaittaCarmelo_2016_timbre.pdf",
-                "page": 1,
-                "left": 60,
-                "top": 846,
-                "zoom": 0.86
+                "page": 33,
+                "left": 37,
+                "top": 623,
+                "zoom": 1.22
               }
             }
           },
@@ -58,20 +30,19 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/SaittaCarmelo_2016_timbre.pdf",
-                "page": 2,
-                "left": -4,
-                "top": 301,
+                "page": 3,
+                "left": -10,
+                "top": 732,
                 "zoom": 0.62
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 82.63888888888889,
+        "dimension": 43.14236111111111,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -79,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07- templates/Timeline Template vertical.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07- templates/Timeline Template vertical.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07- templates/Timeline Template vertical.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07- templates/Timeline Template vertical.md"
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
               }
             }
           }
@@ -225,11 +196,13 @@
   },
   "active": "2f1d7777968a8b07",
   "lastOpenFiles": [
-    "01- txt/obras/Neural Synthesis.md",
-    "01- txt/obras/Rainforest.md",
-    "07- templates/Timeline Template vertical.md",
-    "07- templates/Timeline Template horizontal.md",
+    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01- txt/obras/Toneburst, Maps and Fragments.md",
+    "01- txt/obras/Neural Synthesis.md",
+    "07- templates/Timeline Template vertical.md",
+    "01- txt/obras/Rainforest.md",
+    "07- templates/Timeline Template horizontal.md",
     "01- txt/obras/Fluorescent Sound.md",
     "01- txt/obras/Medium size mograph.md",
     "01- txt/obras/Megaton para WM.md",
@@ -250,11 +223,8 @@
     "01- txt/timbre/La condición romántica del arte.md",
     "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
     "01- txt/timbre/Modulación tímbrica.md",
-    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "05- bib full/SaittaCarmelo_2016_timbre.pdf",
     "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
-    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "05- bib full/Younakai_hearAfter.pdf",
     "Excalidraw",
     "02- img/Pasted image 20241009132605.png",

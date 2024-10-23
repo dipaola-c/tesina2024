@@ -61,7 +61,11 @@ En resumen, **la naturaleza de la música de Tudor iba en contra de los concepto
 
 ****==IMPORTANTE LEER 'THE VIEW FROM INSIDE' DAVID TUDOR PAPERS==****
 
+**En todos los casos, David Tudor pareció dejar que la naturaleza específica de un material determinado determinara los métodos y herramientas necesarios. En otras palabras, mi método de simulación ya era una simulación.***
 
-**==LEER A PARTIR DE 10==**
 
-*Cuando releí los estudios existentes con esta nueva mentalidad, me sorprendió un paralelo inesperado: mi método para derivar la mejor aproximación al material a partir del material mismo fue la forma en que Tudor abordó sus materiales. En la década de 1950, había creado plantillas y reglas específicas que coincidían con la escala de la partitura gráfica particular que necesitaba medir; en los años 1960 había descrito su primera composición como algo que se componía a sí mismo a partir de su propia naturaleza instrumental; y en la década de 1970, había enseñado a compositores más jóvenes que la fuente de sonido debe coincidir con el carácter de cada altavoz individual, que nunca es neutral. **En todos los casos, David Tudor pareció dejar que la naturaleza específica de un material determinado determinara los métodos y herramientas necesarios. En otras palabras, mi método de simulación ya era una simulación.***
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=28&selection=67,1,92,5&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.28]]
+> > n actual use, Tudor would paraphrase one with the other, as when he talked about loudspeakers in May 1972: “Each output mechanism has its own bias. So I must see what its properties are as a natural phenomenon, and not spend my time making it do something against its nature.”53 Each nature is thus biased. This paraphrase, however, turns the positivity of “nature” into a negativity. Bias does not determine or identify, it only constrains—which gives an unusual perspective on how things like musical scores and instruments work.
+> 
+> sobre el término 'naturaleza' y 'sesgo' en relación a la observación y utilización del instrumento/s
+
