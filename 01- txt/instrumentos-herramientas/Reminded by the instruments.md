@@ -69,3 +69,87 @@ En resumen, **la naturaleza de la música de Tudor iba en contra de los concepto
 > 
 > sobre el término 'naturaleza' y 'sesgo' en relación a la observación y utilización del instrumento/s
 
+> [!PDF|yellow] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=40&selection=4,0,4,10&color=yellow|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.40]]
+> > The key to
+> 
+> MECANISMO DEL PIANO hasta p34
+
+> [!PDF|yellow] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=42&selection=63,2,69,38&color=yellow|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.42]]
+> > “the success of Tudor’s performances stems from his particular attention to the feedback of the resonance of the piano in order to control the timing of the attacks and releases of the notes, as well as the overall dynamics of the notes being performed.
+> 
+> “el éxito de las interpretaciones de Tudor se debe a su particular atención a la retroalimentación de la resonancia del piano para controlar el ritmo de los ataques y las liberaciones de las notas, así como la dinámica general de las notas que se interpretan”
+> > [!PDF|yellow] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=42&selection=72,0,85,12&color=yellow|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.42]]
+> > True to the lessons of Eurhythmics, Tudor coordinated his own perception—input— and movement—output— with the mechanism of the piano. A feedback loop was thus formed between the two instruments.
+> > > [!PDF|yellow] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=42&selection=120,0,123,1&color=yellow|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.42]]
+> > Nedelman, “Performance Analysis of David Tudor’s Interpretations of Karlheinz Stockhausen’s Klavierstücke, 186
+> 
+> 
+
+
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=45&selection=47,0,47,12&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.45]]
+> > One day in 1
+> 
+> HISTORIA DE TUDOR, CAGE, FELDMAN Y BOULEZ
+
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=47&selection=25,0,25,6&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.47]]
+> > Having
+> 
+> CAGE
+
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=55&selection=4,3,4,13&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.55]]
+> > creativity
+> 
+> INDETERMINACION
+
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=56&selection=97,5,97,12&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.56]]
+> > Systems
+> 
+> FOUR SYSTEMS - EARLE BROWN
+
+> [!PDF|yellow] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=61&selection=52,0,81,0&color=yellow|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.61]]
+> > Toward the end of his letter to Brown, Tudor revealed a two-step recipe of sorts for accomplishing this goal:“my view is that accuracy of observation has to be considered first; accuracy of representation will follow (in the case where representation’s involved).”104 Thirty-two years later, on April 3, 1989, he would repeat a similar observation to Larry Austin: “For me, the concept of observation is primary [. . .] I need to observe something in a way that I don’t put any prejudice. I want to see what it tells me.” 105 Stockhausen also reported in his 1959 Darmstadt lecture that, according to Tudor, “graphic structures existed on the paper as any formation in nature.”106 
+> > De la observación como primer mecanismo siempre, y de las estructuras gráficas ya en la naturaleza.
+> 
+> 
+
+> [!PDF|yellow] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=62&selection=65,0,79,4&color=yellow|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.62]]
+> > In later years Tudor would describe a similar principle guiding his approach to electronic instruments, for instance on September 29, 1985, during a workshop at the Mobius Art Center in Boston: “You use the natural state of the components for what they give you, not what they are supposed to do. The description of one of these components is telling you something that the designer thinks that it should do, then you put it to test and you find out that it doesn’t do that” (David Tudor, “Workshop at Mobius Art Center, Boston (September 29, 1985),” Box 2A, C75, David Tudor Papers, GRI)
+
+> [!PDF|note] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=62&selection=46,0,61,84&color=note|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.62]]
+> > In other words, Tudor’s process of realization entailed not one but two realizations: (a) to first realize the bias of material through unbiased observation; (b) to then realize its (re)presentation by biasing the subsequent approach to the material accordingly. For instance, as Holzaepfel reported, observing the nature of Feldman’s
+> > 
+> > En otras palabras, el proceso de realización de Tudor implicaba no una sino dos realizaciones: (a) primero darse cuenta del sesgo del material mediante una observación imparcial; (b) luego realizar su (re)presentación sesgando en consecuencia el enfoque posterior del material.
+> 
+> 
+
+> [!PDF|note] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=63&selection=55,0,84,32&color=note|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.63]]
+> > Indeterminacy that takes recourse to the bias of materials.111 But if the “procedure” of chance operation is observed carefully, one may realize that even Cage relied on such bias to generate the unforeseen. After all, he had spent most of the year 1951 throwing coins everywhere he went to determine the parametric values for Music of Changes. Each coin toss is biased by the specific materials involved in the act of chance, starting from the coin and Cage’s body, and extending to the particular subway or elevator he happened to be on. The same is true for the method of obtaining notes from the imperfections on paper which he began in 1952 as a quicker alternative to the timeconsuming process of throwing coins. Instead of reducing the process of realization to probability or statistics, chance operations preserve the material bias of each coin or each paper, a degree of specificity that cannot be reduced to any preconceived universe of possibilities—or “procedure,” for that matter.
+> 
+> INDETERMINACION - CAGE - SESGO
+> > [!PDF|note] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=64&selection=127,0,144,3&color=note|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.64]]
+> > Holzaepfel, “David Tudor and the Performance of American Experimental Music,” 85. He also writes: “Tudor’s role in the composition of American experi mental music during this period and his legacy as a pianist are intertwined: his overriding interest in the music lay in the challenges presented by its notational problems, problems Tudor regarded as puzzles. And his solutions were, throughout the 1950s, invariably in terms of what he could do with the piano, either by extending existing techniques or inventing new ones. In this regard, the dissertation is a contribution to the history of piano-playing” (ibid., v).
+
+
+> [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=64&selection=65,3,97,30&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.64]]
+> >  variety and complexity of cluster-writing beyond precedent.”116 Tudor’s choice of material was thus biased by the instrument of his choice. Indeed, his repertoire throughout the decade—pointillist works that coordinated discrete musical parameters with extreme precision and speed (whether via chance or choice)— coordinated well with his exploration of the piano as a remote-controlled percussion instrument, an exploration based on meticulous control of timing “within a time continuum of one second.”117 In other words, as the anecdote of Four More reveals, Tudor’s choices were by no means random—the composers were just as instrumental to Tudor as he was to them. But this also meant that if the instrument changed its nature, so would the nature of his realization.
+> 
+> La elección de material de Tudor estuvo, por lo tanto, sesgada por el instrumento de su elección. De hecho, su repertorio a lo largo de la década —obras puntillistas que coordinaban parámetros musicales discretos con extrema precisión y velocidad (ya sea por casualidad o por elección)— se coordinaba bien con su exploración del piano como instrumento de percusión controlado a distancia, una exploración basada en un control meticuloso del tiempo “dentro de un continuo temporal de un segundo”. 117 En otras palabras, como revela la anécdota de Four More, las elecciones de Tudor no fueron en absoluto aleatorias: los compositores fueron tan instrumentales para Tudor como él lo fue para ellos. Pero esto también significaba que si el instrumento cambiaba su naturaleza, también lo haría la naturaleza de su realización.
+
+> [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=69&selection=0,10,11,30&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.69]]
+> > Figure 1.7 Tudor | 34'46.776" For a Pianist, list of materials for preparation (first page, corresponding to strings B2-a) | Undated (presumably 1954)
+> 
+> **SU PRIMER INSTRUMENTO?? AUNQUE FUE PIANO PREPARADO ES COMO SI CONSTRUYERA SU PROPIO INSTRUMENTO LLEVADO A LA PERCUSIÓN (LA NATURALEZA DEL PIANO)**
+
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=77&selection=64,0,68,15&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.77]]
+> > Christian Wolff | For Pianist (page 2) | 1959
+
+> [!PDF|note] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=84&selection=39,0,43,57&color=note|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.84]]
+> > Piece 1 is composed of three systems, each starting from a number, and each with a fixed duration of 30 seconds, 15 seconds, and 45 seconds 
+> BUSSOTTI SYLVANO
+
+ 
+> [!PDF|note] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=91&selection=23,0,29,1&color=note|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.91]]
+> > One day toward the end of May 1959, as he read Bussotti’s letter that arrived in the big parcel, David Tudor w
+> sobre ARTAUD
+
+ 
