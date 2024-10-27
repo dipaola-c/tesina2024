@@ -9,6 +9,8 @@ NOMOGRAMA DE TUDOR!!!!!!! PAG 114 DEL LIBRO
 
 > [!info] ver terminología de naturaleza y sesgo en Tudor, y síntesis objetiva en Cage (de Artaud, magia y hechicería)
 
+LA JUSTIFICACIÓN DEL TÍTULO DE LA TESINA, LA CORRELACIÓN ENTRE ESTADOS TÍMBRICOS Y MÁQUINA SE PUEDE RELACIONAR CON LA OBRA DE TUDOR EN GENERAL, TOMANDO COMO PUNTO DE PARTIDA ![[Reminded by the instruments#Del devenir de los intrumentos]]
+
 ---------
 1) Cybersonic en relación a estado tímbrico?? o parte de... + estructuras sónicas según Goldman
 
