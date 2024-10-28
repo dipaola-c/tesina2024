@@ -278,3 +278,24 @@ El primer grupo [A] está compuesto por cinco conjuntos de notas, en las que los
 ![[Pasted image 20241027225456.png]]
 
 ==IMAGENES DETALLE DE LA OBRA==
+
+> [!PDF|yellow] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=139&selection=22,0,64,10&color=yellow|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.139]]
+> > All the events performed on the Variations II instrument during the broadcast can be matched with the objects and actions in Tudor’s notes. In the order of their appearance they are: EDGE PLASTIC SWEEPS / THIMBLE SLAP, SWEEP / FIST ON PLASTIC ON BDG. HORIZONTAL RULER FRICTION, RULE MUTED PIZZ., KNIFE STROKES78 & MUTED PIZZ. RUBBER SCRUBBING BS. (SOFT; 2 KINDS) CARTRIDGE & CLUSTER GYROSCOPE CARTRIDGE PRESSURE FEED(BACK)
+> 
+> En el orden de aparición son: BARRIDO DE PLÁSTICO DE BORDE / GOLPE DE DEDAL, BARRIDO / PUÑO SOBRE PLÁSTICO SOBRE BDG. FRICCIÓN DE REGLA HORIZONTAL, REGLA SILENCIADA PIZZ., GOLPE DE CUCHILLO S78 & MUTED PIZZ. RUBBER SCRUBBING BS. (SOFT; 2 KINDS) CARTUCHO Y GRUPO GIROSCOPIO PRESIÓN DEL CARTUCHO FEED(BACK)
+
+> [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=139&selection=94,45,110,34&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.139]]
+> > Cage, looking indifferent, continued: “I was reading, oh, about eight months ago, a book of the architect Le Corbusier, and he used the terms ‘instrument’ and ‘tool.’ A tool, for instance, is like a knife. When you use a knife, that is to say, to cut something, it doesn’t leave itself on the thing that is cut. Whereas when you . . . rather when you play ah . . .” He stopped there as Tudor began
+> > > [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=142&selection=6,0,55,2&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.142]]
+> > scraping the strings of one of the amplified pianos and the fortified sound coming out from the loudspeaker was scattered all over what he had to say. Cage waited until Tudor was done to continue his thoughts: “. . . in opposition to a tool, we have the piano as an instrument. And when the piano is not prepared, unlike a knife, it leaves its tones scattered all over the music that was played on it. We try to turn the piano then, by constantly changing it, into something that resembles a tool rather than an instrument.”80 Eight months before, in May 1962, Cage had written a text titled “Rhythm Etc.” as an homage to Tudor in which he indeed referred to his then-recent reading of Le Corbusier’s book The Modulor.81 The composer took the polarity between “tool” and “instrument” from the architect, and called for the disguise of one as the other: we must dispense with instruments altogether and get used to working with tools. Then, God willing, we’ll get some work done. It can be put this way too: find ways of using instruments as though they were tools, i.e., so that they leave no traces. That’s precisely what our tape-recorders, amplifiers, microphones, loud-speakers, photoelectric cells, etc., are: things to be used which don’t necessarily determine the nature of what is done.82
+> 
+> 
+> 
+> “Sr. Cage, ¿por qué prepara el piano? ¿Está intentando conseguir un nuevo tono como el que se utiliza en los registros del órgano? ¿O está criticando el piano porque, en su opinión, está obsoleto como instrumento y ya no es útil?”79 Cage respondió de inmediato: “No, nunca diría que el piano está obsoleto. Es extremadamente útil”. Una carcajada surgió del público. Cage, con aspecto indiferente, continuó: “Estaba leyendo, hace unos ocho meses, un libro del arquitecto Le Corbusier, y utilizaba los términos ‘instrumento’ y ‘herramienta’. Una herramienta, por ejemplo, es como un cuchillo. Cuando se utiliza un cuchillo, es decir, para cortar algo, no se queda pegado a la cosa cortada. Mientras que cuando… más bien cuando se toca…” Cage se detuvo allí cuando Tudor comenzó a raspar las cuerdas de uno de los pianos amplificados y el sonido fortificado que salía del altavoz se dispersó por todo lo que tenía que decir. Cage esperó hasta que Tudor terminó para continuar con sus pensamientos: “... en oposición a una herramienta, tenemos el piano como instrumento. Y cuando el piano no está preparado, a diferencia de un cuchillo, deja sus tonos esparcidos por toda la música que se tocó en él. Tratamos entonces de convertir el piano, cambiándolo constantemente, en algo que se parezca a una herramienta más que a un instrumento”.
+> > [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=142&selection=99,0,102,1&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.142]]
+> > Cage, “Rhythm Etc.,” in A Year from Monday.
+
+
+leer a partir de pag 137 del libro a fin del cap
+
+luego, de 155 en adelante
