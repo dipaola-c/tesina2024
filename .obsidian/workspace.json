@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 60.59027777777778,
+        "dimension": 53.55902777777778,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-                "page": 163,
-                "left": 37,
-                "top": 15,
+                "page": 183,
+                "left": 42,
+                "top": 665,
                 "zoom": 1.3
               }
             }
@@ -49,13 +49,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 39.40972222222222,
+        "dimension": 46.44097222222222,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -209,9 +208,16 @@
   },
   "active": "2f1d7777968a8b07",
   "lastOpenFiles": [
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "01- txt/obras/Variations VI.md",
+    "01- txt/obras/Jagdstück.md",
+    "01- txt/obras/Variations II.md",
+    "01- txt/obras/Light Piece for David Tudor 1.md",
+    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
+    "01- txt/obras/Hornpipe.md",
+    "01- txt/obras/Burroughs.md",
     "08- utilities/0-gral.md",
     "02- img/Pasted image 20241027225456.png",
     "02- img/Pasted image 20241026151534.png",
@@ -229,18 +235,11 @@
     "01- txt/obras/Megaton para WM.md",
     "01- txt/obras/Mesa.md",
     "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
-    "01- txt/obras/Hornpipe.md",
     "01- txt/instrumentos-herramientas/Varios Tudor.md",
     "01- txt/obras/Untitled.md",
     "02- img/Pasted image 20241021231137.png",
     "Biblio y obras general.md",
     "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
-    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
-    "01- txt/timbre/El timbre como factor estructurante.md",
-    "01- txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
-    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
-    "01- txt/timbre/La condición romántica del arte.md",
-    "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
     "05- bib full/SaittaCarmelo_2016_timbre.pdf",
     "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
     "05- bib full/Younakai_hearAfter.pdf",
