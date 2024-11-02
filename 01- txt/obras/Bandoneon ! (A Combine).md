@@ -156,3 +156,21 @@ Antecedente --> [[Duo for bandoneon and accordion with possible mynah bird obbli
 **En cambio, en la música electrónica que Tudor compondría e interpretaría más tarde, la continuidad superpuesta y el "tiempo suave" prevalecen sobre la fragmentación y el puntillismo. Fundamentalmente, la música electrónica en este período no se produce con la ayuda de secuenciadores o una interfaz MIDI, que definen los sonidos como eventos específicos del tiempo a lo largo de un eje temporal. En lugar de eso, el sonido pasa a través de un transductor, como un micrófono, y luego a través de resonadores, moduladores, filtros y similares, antes de ser difundido a través de altavoces. Interpretar este tipo de música electrónica en vivo no es muy distinto del efecto de crear un bucle de retroalimentación apuntando un micrófono a un amplificador: una vez que el proceso se pone en marcha, sigue creciendo; el sistema sigue vibrando a través de la estimulación eléctrica, o se le reinyectan nuevas entradas sónicas. ==En este tipo de música, no hay eventos específicos en el tiempo, no hay “puntos” de sonido, solo texturas sónicas que progresan suavemente, ya sean de naturaleza violenta o tranquila.== Esto podría explicar por qué las suaves sonoridades de las notas sostenidas en el bandoneón capturaron tanto la imaginación de Tudor, como se vio en el comentario de Tudor a Mumma (“A ver si puedes respirar todo este tiempo…”). Las largas notas sostenidas de Pandorasbox ya anunciaban la posibilidad de crear largas franjas de tiempo suave. Mumma, muy en sintonía con las preocupaciones de Tudor, exploró en Mesa las suaves sonoridades producidas por los sonidos del bandoneón modulados en anillo.**. ==70. Pierre Boulez defines the “smooth time/striated time” (temps lisse/temps strié) distinction in Boulez on Music Today, trans. Susan Bradshaw and Richard Rodney Bennett (Cambridge, MA: Harvard University Press, 1971), 98–99==
 > 
 > 
+
+## You Nakai
+> [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=220&selection=57,0,75,6&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.220]]
+> > The White Noise Generator whose output went into the Beat Frequency Oscillator in Tudor’s sound system of Fontana Mix is another extant box that is now part of the Wesleyan collection (Instrument 0493) (Figures 3.42 and 3.43).
+> 
+> 
+
+![[Pasted image 20241102175939.png]]
+![[Pasted image 20241102180031.png]]
+
+> [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=221&selection=4,1,12,34&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.221]]
+> > The internal circuitry follows the standard method of making a noise generator by putting a point-contact diode (1N21B)—stored in a fuse holder—in what is called a “reverse-biased” circuit.
+> > 
+> El circuito interno sigue el método estándar de hacer un generador de ruido colocando un diodo de contacto puntual (1N21B), almacenado en un portafusibles, en lo que se llama un circuito de "polarización inversa". Los diodos permiten o bloquean la corriente en una dirección dependiendo de la polaridad de su fuente de voltaje externa. Cuando la polaridad se establece de modo que el diodo bloquee la corriente, esto se llama polarización inversa. Sin embargo, cuando se aplica suficiente voltaje de polarización inversa, el diodo pasa por un estado temporal de ruptura, produciendo ruido que luego se puede amplificar. En el instrumento 0493, este proceso de amplificación se realiza con Lafayette PK-522, el amplificador de tres transistores que Tudor había comprado el 24 de abril de 1962 en la tienda Lafayette Radio Electronics en Paramus, Nueva Jersey.163 Se quitó el transformador de salida del kit. Junto con otras modificaciones, este cambio está garabateado en el diagrama esquemático del amplificador que se encuentra entre los papeles de Tudor.
+
+Medio año antes de la realización de Fontana Mix en Toronto, este instrumento en particular jugó un papel principal dentro de otro sistema de sonido: Bandoneon!, el primer intento consciente de Tudor de componer su propia composición, que el manuscrito de 1974 había enumerado como (Realización 6)
+
+

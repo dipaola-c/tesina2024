@@ -7,7 +7,15 @@ LINK DOC ---> https://docs.google.com/document/d/11NxPNiOfMT86gngqzhd7j4eYtF8B48
 
 NOMOGRAMA DE TUDOR!!!!!!! PAG 114 DEL LIBRO
 
+**Algo de lo modular? Ver **
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=219&selection=74,79,94,1&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.219]]
+> > s a corollary to his observation while realizing Variations II that the instrument did not have to be one but could be many, Tudor’s sound systems were modular in nature, composed of multiple discrete components. Which meant that a part of a given whole could also be used as a part of another whole.
+> 
+> 
+
 > [!info ] ojo aquí, You Nakai sugiere que Tudor en (the view.. david tudor papers) 'Cuanto más profundo es este proceso de observación, más parecen requerir y sugerir los componentes sus propias ideas musicales, [...] la música se revela desde “dentro”, en lugar de desde “fuera”'... pensar entonces, cómo se revela la máquina y cómo esta deviene en estado tímbrico.
+
+HAY ALGO DE LA RETROALIMENTACION QUE TENGA QUE VER EN LOS ESTADOS TIMBRICOS? ES UN REQUISITO?? O UN TIPO DE ESTADOS?
 
 > [!info] ver terminología de naturaleza y sesgo en Tudor, y síntesis objetiva en Cage (de Artaud, magia y hechicería)
 

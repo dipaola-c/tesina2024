@@ -330,5 +330,49 @@ leer a partir de pag 137 del libro a fin del cap
 > [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=183&selection=4,1,20,12&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.183]]
 > > pecific components composed specific instruments, which in turn composed specific sound systems—so it was bias all the way down. But if that is the case, instead of trying to generalize what people wrote or recalled, it would suit the nature of sound systems to go in the other direction and focus on very specific instruments used in very specific realizations.118 This involves a switch in the scale of observation.
 > 
-> Componentes específicos componían instrumentos específicos, que a su vez componían sistemas de sonido específicos, por lo que había un sesgo en todo momento. Pero si ese es el caso, en lugar de intentar generalizar lo que la gente escribió o recordó, sería adecuado para la naturaleza de los sistemas de sonido ir en la otra dirección y centrarse en instrumentos muy específicos utilizados en realizaciones muy específicas.118 Esto implica un cambio en la escala de observación.
+> **Componentes específicos componían instrumentos específicos, que a su vez componían sistemas de sonido específicos, por lo que había un sesgo en todo momento.** Pero si ese es el caso, en lugar de intentar generalizar lo que la gente escribió o recordó, sería adecuado para la naturaleza de los sistemas de sonido ir en la otra dirección y centrarse en instrumentos muy específicos utilizados en realizaciones muy específicas.118 Esto implica un cambio en la escala de observación.
+
+## Instrumentos inventados
+### Spectrum Transfer
+![[Pasted image 20241102152927.png]]
+> [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=198&selection=32,2,77,16&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.198]]
+> > AIN Festival co-curated by Mumma. Cybersonic Spectrum Transfer became one of the most frequently used boxes in Tudor’s entire collection of instruments, appearing in diagrams and photographs throughout the years until the end of his life. The extant instrument at Wesleyan reveals it was basically a ring modulator: using the principle of heterodyning, the instrument multiplied the two input signals, producing a new spectrum consisting of sums and differences of their frequency components (f1+f2 and f1–f2). A notable feature of Mumma’s design was that it allowed a switching between two functions: “double-spectrum,” which
+> 
+> El instrumento existente en Wesleyan revela que era básicamente un modulador de anillo: **utilizando el principio de heterodinación, el instrumento multiplicaba las dos señales de entrada, produciendo un nuevo espectro que consistía en sumas y diferencias de sus componentes de frecuencia** (f1+f2 y f1–f2). Una característica notable del diseño de Mumma era que permitía cambiar entre dos funciones: "doble espectro", que hacía lo que hacen los moduladores de anillo normales, y "espectro único", que enviaba la señal modulada a través de un filtro de paso bajo con múltiples etapas para eliminar las frecuencias por encima de la frecuencia de corte designada (3 kHz) y emitir solo la diferencia entre las señales (f1–f2), una técnica conocida como modulación de banda lateral única (Figura 3.25).
+
+> [!info] Sigue relatando instrumentos propios hasta pp 204 del libro
+
+## Sobre Tudor y el acto de componer
+
+> [!PDF|note] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=213&selection=54,2,92,5&color=note|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.213]]
+> > xt; for another, if there was a crossing of any sort, it had already happened by then. Like Cage’s recollection of the “delay system” in Variations V, the story of “transition” from performer to composer sees an effect, but the mechanism it imagines is often the projection of the observer’s own biases. Just as there are other ways to cause delay than just “delay systems,” so there are other ways to change one’s attitudes about written material than just becoming a “composer.” Thus, the story is not only incorrect factually— Tudor continued to realize other people’s materials even after he started composing his own—but also conceptually— Tudor did not so much join the ranks of “composers” one day, as he expanded the act of composition through his particular approach to the performance of music. The title of “composer” did not indicate any accomplishment but lack of a better word.
+> 
+> Al igual que el recuerdo de Cage del “sistema de retardo” en Variations V, la historia de la “transición” de intérprete a compositor ve un efecto, pero el mecanismo que imagina es a menudo la proyección de los propios prejuicios del observador. Así como hay otras formas de causar retraso además de los “sistemas de retardo”, también hay otras formas de cambiar las actitudes de uno sobre el material escrito además de convertirse simplemente en un “compositor”. Así, la historia no sólo es incorrecta en los hechos (Tudor siguió realizando los materiales de otras personas incluso después de haber empezado a componer los suyos propios), sino también en lo conceptual (Tudor no se unió a las filas de los “compositores” un día, sino que expandió el acto de composición a través de su particular enfoque de la interpretación de la música). El título de “compositor” no indicaba ningún logro, sino la falta de una palabra mejor.
+
+> [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=214&selection=40,29,45,21&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.214]]
+> > Tudor had found a way to produce materials himself that would nonetheless behave as an “other”: he could quite literally let the instruments take the lead. 
+> 
+> Tudor había encontrado con los instrumentos electrónicos una forma de producir materiales que, no obstante, se comportaran como un “otro”: podía dejar que los instrumentos tomaran literalmente la iniciativa.
+
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=219&selection=41,12,66,3&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.219]]
+> > . At one point the unnamed interviewer brought up the difference between a “performer” and a “composer,” suggesting Tudor had made the transition from one to the other some years before: “I think it’s only fair to say that in several of the pieces that you played before even on the piano, composed by other people, you were in fact, the true composer.” Tudor disagreed: Well, I beg to differ! [laughs] Because one person’s process is not another person’s process. And still, even though one is involved in making precise all the details of an indeterminate composition, still the process is not what one would choose oneself, if one were to choose it. There would surely be a different choice somewhere in the process.162
+> 
+> > [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=219&selection=112,0,120,3&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.219]]
+> > “Interview with John Cage and David Tudor,” May 29, 1972, KPFA, Other Minds Audio Archive, accessed December 15, 2019:http:// archive.org/ details/ am_ 1972_ 05_ 29
+> 
+> En un momento dado, el entrevistador anónimo mencionó la diferencia entre un “intérprete” y un “compositor”, sugiriendo que Tudor había hecho la transición de uno a otro algunos años antes: “Creo que es justo decir que en varias de las piezas que tocabas antes, incluso en el piano, compuestas por otras personas, eras de hecho el verdadero compositor”. Tudor no estaba de acuerdo: Bueno, ¡yo discrepo! [risas] Porque el proceso de una persona no es el proceso de otra. Y aun así, aunque uno esté involucrado en hacer precisos todos los detalles de una composición indeterminada, aun así el proceso no es lo que uno elegiría, si lo eligiera. Seguramente habría una elección diferente en algún lugar del proceso.
+
+> [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=219&selection=72,40,74,41&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.219]]
+> > The duality of composition always turned what Tudor did into a part of the whole. 
+> 
+> **La dualidad de la composición siempre convertía lo que Tudor hacía en una parte del todo.**
+
+> [!PDF|important] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=219&selection=74,78,94,1&color=important|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.219]]
+> > As a corollary to his observation while realizing Variations II that the instrument did not have to be one but could be many, Tudor’s sound systems were modular in nature, composed of multiple discrete components. Which meant that a part of a given whole could also be used as a part of another whole.
+> 
+> Como corolario de su observación, mientras realizaba Variations II, de que el instrumento no tenía por qué ser uno sino que podía ser muchos, **los sistemas de sonido de Tudor eran de naturaleza modular, compuestos de múltiples componentes discretos. Lo que significaba que una parte de un todo dado también podía usarse como parte de otro todo.** De hecho, muchos instrumentos que aparecieron en la realización de Fontana Mix de 1967 también aparecieron en otras obras, coordinados con otros componentes en otros complejos electrónicos, de la misma manera que se usaron elementos militares sobrantes para componer esos mismos instrumentos. En otras palabras, además de la dualidad entre sistemas de sonido y composición, había otra dualidad dentro de los propios sistemas de sonido: una brecha entre el sistema y los instrumentos individuales, así como entre los instrumentos y sus componentes. Tal constancia de los instrumentos presenta un tercer caso en contra de la simple historia de la transición.
+
+> [!info] Aquí, sobre el White Noise Generator, me paso a Bandoneón. (pp211)
+
+![[Pasted image 20241102175846.png]]
 

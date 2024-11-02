@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 53.55902777777778,
+        "dimension": 57.538994800693246,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -15,25 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-                "page": 183,
-                "left": 42,
-                "top": 665,
-                "zoom": 1.3
-              }
-            }
-          },
-          {
-            "id": "bc92618c5030bbba",
-            "type": "leaf",
-            "dimension": 33.333333333333336,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05- bib full/SaittaCarmelo_2016_timbre.pdf",
-                "page": 3,
-                "left": -10,
-                "top": 732,
-                "zoom": 0.62
+                "page": 227,
+                "left": 51,
+                "top": 592,
+                "zoom": 1.42
               }
             }
           },
@@ -54,7 +39,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 46.44097222222222,
+        "dimension": 42.46100519930676,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -67,8 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc92618c5030bbba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Construcción de la hipótesis; estado tímbrico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "Construcción de la hipótesis; estado tímbrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "Construcción de la hipótesis; estado tímbrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
+                "file": "Construcción de la hipótesis; estado tímbrico.md"
               }
             }
           }
@@ -206,12 +204,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f1d7777968a8b07",
+  "active": "bc92618c5030bbba",
   "lastOpenFiles": [
+    "01- txt/obras/=) Cybersonic.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "01- txt/obras/Bandoneon ! (A Combine).md",
+    "02- img/Pasted image 20241102180031.png",
+    "02- img/Pasted image 20241102175939.png",
+    "01- txt/obras/Fluorescent Sound.md",
     "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "02- img/Pasted image 20241102175846.png",
     "Construcción de la hipótesis; estado tímbrico.md",
+    "02- img/Pasted image 20241102171250.png",
+    "05- bib full/SaittaCarmelo_2016_timbre.pdf",
+    "02- img/Pasted image 20241102152927.png",
     "01- txt/obras/Variations VI.md",
+    "01- txt/obras/Fontana Mix.md",
+    "02- img/Pasted image 20241102143835.png",
+    "02- img/Pasted image 20241031114941.png",
     "01- txt/obras/Jagdstück.md",
     "01- txt/obras/Variations II.md",
     "01- txt/obras/Light Piece for David Tudor 1.md",
@@ -222,36 +232,24 @@
     "02- img/Pasted image 20241027225456.png",
     "02- img/Pasted image 20241026151534.png",
     "02- img/Pasted image 20241026151252.png",
-    "02- img/Pasted image 20241026151248.png",
-    "02- img/Pasted image 20241026150835.png",
-    "01- txt/obras/Bandoneon ! (A Combine).md",
     "01- txt/obras/Toneburst, Maps and Fragments.md",
     "01- txt/obras/Neural Synthesis.md",
     "07- templates/Timeline Template vertical.md",
     "01- txt/obras/Rainforest.md",
     "07- templates/Timeline Template horizontal.md",
-    "01- txt/obras/Fluorescent Sound.md",
     "01- txt/obras/Medium size mograph.md",
     "01- txt/obras/Megaton para WM.md",
     "01- txt/obras/Mesa.md",
     "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
     "01- txt/instrumentos-herramientas/Varios Tudor.md",
     "01- txt/obras/Untitled.md",
-    "02- img/Pasted image 20241021231137.png",
-    "Biblio y obras general.md",
-    "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
-    "05- bib full/SaittaCarmelo_2016_timbre.pdf",
     "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
     "05- bib full/Younakai_hearAfter.pdf",
     "Excalidraw",
-    "02- img/Pasted image 20241009132605.png",
     "09- modelos",
     "05- bib full/Newport Cal_How To Become A Straight-A Student.pdf",
-    "02- img/Pasted image 20241004180205.png",
     "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
     "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf",
-    "02- img/Pasted image 20241003130409.png",
-    "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
-    "06- output/prueba1/img/Asset 1.png"
+    "01- txt/semiótica/Retórica persuasión - Mapa.pdf"
   ]
 }
