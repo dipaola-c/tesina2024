@@ -376,3 +376,4 @@ leer a partir de pag 137 del libro a fin del cap
 
 ![[Pasted image 20241102175846.png]]
 
+LEER A PARTIR DE PAGINA 220 DEL LIBRO

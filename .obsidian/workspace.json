@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-                "page": 227,
-                "left": 51,
-                "top": 592,
+                "page": 228,
+                "left": 48,
+                "top": 364,
                 "zoom": 1.42
               }
             }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "01- txt/obras/=) Cybersonic.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8046bc5cf1b2079d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md"
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
               }
             }
           }
@@ -204,17 +216,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc92618c5030bbba",
+  "active": "8046bc5cf1b2079d",
   "lastOpenFiles": [
     "01- txt/obras/=) Cybersonic.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
     "02- img/Pasted image 20241102180031.png",
     "02- img/Pasted image 20241102175939.png",
     "01- txt/obras/Fluorescent Sound.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "02- img/Pasted image 20241102175846.png",
-    "Construcción de la hipótesis; estado tímbrico.md",
     "02- img/Pasted image 20241102171250.png",
     "05- bib full/SaittaCarmelo_2016_timbre.pdf",
     "02- img/Pasted image 20241102152927.png",
