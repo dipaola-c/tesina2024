@@ -6,15 +6,17 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 57.538994800693246,
+        "dimension": 46.227233304423244,
         "children": [
           {
             "id": "3252c0ac95a2a895",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf"
+                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,7 +37,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 42.46100519930676,
+        "dimension": 53.772766695576756,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -55,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
+                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md"
+                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md"
               }
             }
           }
@@ -212,12 +214,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8046bc5cf1b2079d",
+  "active": "3252c0ac95a2a895",
   "lastOpenFiles": [
-    "01- txt/obras/=) Cybersonic.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01- txt/instrumentos-herramientas/Hear After.md",
+    "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "01- txt/obras/=) Cybersonic.md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
     "02- img/Pasted image 20241102180031.png",
     "02- img/Pasted image 20241102175939.png",
@@ -244,13 +253,6 @@
     "01- txt/obras/Neural Synthesis.md",
     "07- templates/Timeline Template vertical.md",
     "01- txt/obras/Rainforest.md",
-    "07- templates/Timeline Template horizontal.md",
-    "01- txt/obras/Medium size mograph.md",
-    "01- txt/obras/Megaton para WM.md",
-    "01- txt/obras/Mesa.md",
-    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
-    "01- txt/instrumentos-herramientas/Varios Tudor.md",
-    "01- txt/obras/Untitled.md",
     "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
     "05- bib full/Younakai_hearAfter.pdf",
     "Excalidraw",
