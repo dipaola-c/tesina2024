@@ -15,22 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/Godoy_GesturalSonorousObjects.pdf",
-                "page": 1,
-                "left": 52,
-                "top": 703,
-                "zoom": 0.76
-              }
-            }
-          },
-          {
-            "id": "fc5c2bf0863741d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
-                "mode": "source",
-                "source": false
+                "page": 3,
+                "left": 170,
+                "top": 518,
+                "zoom": 1.01
               }
             }
           }
@@ -60,6 +48,18 @@
               "type": "markdown",
               "state": {
                 "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc5c2bf0863741d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Construcción de la hipótesis; estado tímbrico.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,6 +220,7 @@
   "lastOpenFiles": [
     "05- bib full/Godoy_GesturalSonorousObjects.pdf",
     "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
     "Excalidraw/Tudor obra.md",
     "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
@@ -230,7 +231,6 @@
     "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
     "01- txt/obras/=) Cybersonic.md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
     "02- img/Pasted image 20241102180031.png",
