@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 46.227233304423244,
+        "dimension": 53.90625,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/Godoy_GesturalSonorousObjects.pdf",
-                "page": 3,
-                "left": 170,
-                "top": 518,
+                "page": 4,
+                "left": 138,
+                "top": 780,
                 "zoom": 1.01
               }
             }
@@ -27,7 +27,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 53.772766695576756,
+        "dimension": 46.09375,
         "children": [
           {
             "id": "2f1d7777968a8b07",
