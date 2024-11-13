@@ -34,6 +34,7 @@ De aquí, el termino *objeto sonoro*.
 				- Sonido nodal (altura vaga o masa compleja, por ej, temblor de platillo en zona de tesitura)
 	- Timbre armónico (distinto al timbre instrumental)
 - Criterio de Duración - variación
+
 Relacionado a su duración y a su variación según Masa y Factura (duración percibida, no la cronométrica)
 - Criterio de Equilibrio y originalidad
 	- Objetos convenientes (equilibrados)
