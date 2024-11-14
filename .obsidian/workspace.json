@@ -14,11 +14,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "05- bib full/Godoy_GesturalSonorousObjects.pdf",
-                "page": 7,
-                "left": 40,
-                "top": 604,
-                "zoom": 1.01
+                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
+                "page": 2,
+                "left": 73,
+                "top": 779,
+                "zoom": 0.7525906735751295
               }
             }
           }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md"
+                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf"
               }
             }
           }
@@ -216,14 +216,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc92618c5030bbba",
+  "active": "3252c0ac95a2a895",
   "lastOpenFiles": [
+    "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+    "09- modelos/Estructuras.md",
+    "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
     "05- bib full/Godoy_GesturalSonorousObjects.pdf",
-    "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+    "02- img/Pasted image 20241113134127.png",
+    "02- img/Pasted image 20241113134113.png",
+    "02- img/Pasted image 20241113134056.png",
+    "09- modelos/Abstracts.md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
+    "01- txt/objetos sonoros/Spectromorphological Analysis of Sound Objects An adaptation of Pierre Schaeffer’s Typomorphology..md",
+    "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
     "Construcción de la hipótesis; estado tímbrico.md",
     "Excalidraw/Tudor obra.md",
-    "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
     "01- txt/instrumentos-herramientas/Hear After.md",
@@ -249,19 +257,11 @@
     "01- txt/obras/Variations II.md",
     "01- txt/obras/Light Piece for David Tudor 1.md",
     "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
-    "01- txt/obras/Hornpipe.md",
-    "01- txt/obras/Burroughs.md",
-    "08- utilities/0-gral.md",
-    "02- img/Pasted image 20241027225456.png",
-    "02- img/Pasted image 20241026151534.png",
-    "02- img/Pasted image 20241026151252.png",
-    "01- txt/obras/Toneburst, Maps and Fragments.md",
     "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
     "05- bib full/Younakai_hearAfter.pdf",
     "Excalidraw",
     "09- modelos",
     "05- bib full/Newport Cal_How To Become A Straight-A Student.pdf",
-    "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf",
-    "05- bib full/Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf"
+    "05- bib full/Kuivila_Open_Sources_Words_Circuits_and_the_Nota.pdf"
   ]
 }

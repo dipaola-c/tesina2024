@@ -178,3 +178,11 @@ CHEQUEAR ---> Aunque ha habido algunos proyectos interesantes que siguen el enfo
 > 
 > En lo que respecta más concretamente a la percepción del sonido, la llamada teoría motora en lingüística (Liberman y Mattingly 1985) afirmaba que la percepción del habla no es sólo una cuestión de procesar la señal auditiva en busca de ciertas señales acústicas, sino también de que los sujetos que escuchan recreen mentalmente los gestos articulatorios necesarios para producir los sonidos.
 
+> [!PDF|red] [[Godoy_GesturalSonorousObjects.pdf#page=7&selection=220,1,258,1&color=red|Godoy_GesturalSonorousObjects, p.7]]
+> > n the background of evidence from different sources, it would not seem unreasonable to suggest that there is what I have called a motormimetic component in music perception and cognition (Godøy 2003). The idea of motormimetic cognition implies that there is a mental simulation of sound-producing gestures going on when we perceive and/or imagine music; hence, that motor imagery (Jeannerod 2001) may actually be considered a component of musical imagery (Godøy 2004). 
+> 
+> Sobre la base de la evidencia de diferentes fuentes, no parecería descabellado sugerir que existe lo que he llamado un componente motormimético en la percepción y cognición musical (Godøy 2003). La idea de **cognición motormimética** implica que hay una simulación mental de gestos que producen sonido cuando percibimos y/o imaginamos música; por lo tanto, **esa imaginería motora (Jeannerod 2001) puede considerarse en realidad un componente de la imaginería musical** (Godøy 2004)
+
+
+--- fin ---
+
