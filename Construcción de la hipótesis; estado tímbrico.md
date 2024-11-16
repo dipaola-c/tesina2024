@@ -19,6 +19,11 @@ HAY ALGO DE LA RETROALIMENTACION QUE TENGA QUE VER EN LOS ESTADOS TIMBRICOS? ES 
 
 VER CONFIGURACION TOTAL DE MUMMA (SOBRE CYBERSONIC) [[=) Cybersonic]]
 
+
+![[Pasted image 20241116170025.png]]
+Glissando de estados tímbricos??? (SAARIAHO)
+
+
 > [!info] ver terminología de naturaleza y sesgo en Tudor, y síntesis objetiva en Cage (de Artaud, magia y hechicería); Relacionar con Schaeffer y la escucha reducida (ignorando el contexto)
 
 LA JUSTIFICACIÓN DEL TÍTULO DE LA TESINA, LA CORRELACIÓN ENTRE ESTADOS TÍMBRICOS Y MÁQUINA SE PUEDE RELACIONAR CON LA OBRA DE TUDOR EN GENERAL, TOMANDO COMO PUNTO DE PARTIDA ![[Reminded by the instruments#Del devenir de los intrumentos]]

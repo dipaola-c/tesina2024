@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
-                "page": 6,
-                "left": 67,
-                "top": 675,
-                "zoom": 0.84
+                "page": 39,
+                "left": 97,
+                "top": 395,
+                "zoom": 1.05
               },
               "icon": "lucide-file-text",
               "title": "Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Timbre and Harmony interpolations of timbral structures"
+              "title": "Backlinks for Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Timbre and Harmony interpolations of timbral structures"
+              "title": "Outgoing links from Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures"
             }
           },
           {
@@ -206,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md"
+                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Timbre and Harmony interpolations of timbral structures"
+              "title": "Outline of Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures"
             }
           }
         ]
@@ -240,24 +240,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc92618c5030bbba",
+  "active": "3252c0ac95a2a895",
   "lastOpenFiles": [
-    "02- img/Pasted image 20241116160513.png",
-    "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
     "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
-    "02- img/Pasted image 20241116160417.png",
-    "02- img/Pasted image 20241116160416.png",
+    "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
+    "Pasted image 20241116175718.png",
+    "Pasted image 20241116175704.png",
+    "Pasted image 20241116174723.png",
+    "Pasted image 20241116174713.png",
+    "Pasted image 20241116173851.png",
+    "Pasted image 20241116172424.png",
+    "02- img/Pasted image 20241116170257.png",
+    "02- img/Pasted image 20241116170236.png",
+    "02- img/Pasted image 20241116170219.png",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "02- img/Pasted image 20241116170025.png",
     "09- modelos/Estructuras.md",
     "05- bib full/Godoy_GesturalSonorousObjects.pdf",
-    "02- img/Pasted image 20241113134127.png",
-    "02- img/Pasted image 20241113134113.png",
-    "02- img/Pasted image 20241113134056.png",
     "09- modelos/Abstracts.md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
     "01- txt/objetos sonoros/Spectromorphological Analysis of Sound Objects An adaptation of Pierre Schaeffer’s Typomorphology..md",
     "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
     "Excalidraw/Tudor obra.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
@@ -269,13 +273,8 @@
     "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
     "01- txt/obras/=) Cybersonic.md",
     "01- txt/obras/Bandoneon ! (A Combine).md",
-    "02- img/Pasted image 20241102180031.png",
-    "02- img/Pasted image 20241102175939.png",
     "01- txt/obras/Fluorescent Sound.md",
-    "02- img/Pasted image 20241102175846.png",
-    "02- img/Pasted image 20241102171250.png",
     "05- bib full/SaittaCarmelo_2016_timbre.pdf",
-    "02- img/Pasted image 20241102152927.png",
     "01- txt/obras/Variations VI.md",
     "01- txt/obras/Fontana Mix.md",
     "01- txt/obras/Jagdstück.md",
