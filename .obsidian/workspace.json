@@ -15,11 +15,13 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
-                "page": 2,
-                "left": 73,
-                "top": 779,
-                "zoom": 0.7525906735751295
-              }
+                "page": 6,
+                "left": 67,
+                "top": 675,
+                "zoom": 0.84
+              },
+              "icon": "lucide-file-text",
+              "title": "Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures"
             }
           }
         ]
@@ -38,7 +40,9 @@
                 "file": "01- txt/obras/=) Cybersonic.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "=) Cybersonic"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Timbre and Harmony interpolations of timbral structures"
             }
           },
           {
@@ -62,7 +68,9 @@
                 "file": "Construcción de la hipótesis; estado tímbrico.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Construcción de la hipótesis; estado tímbrico"
             }
           },
           {
@@ -74,7 +82,9 @@
                 "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Reminded by the instruments"
             }
           }
         ],
@@ -98,7 +108,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -113,7 +125,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -121,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -144,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
+                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +168,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Timbre and Harmony interpolations of timbral structures"
             }
           },
           {
@@ -161,10 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
+                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Timbre and Harmony interpolations of timbral structures"
             }
           },
           {
@@ -175,7 +195,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -184,8 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf"
-              }
+                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Timbre and Harmony interpolations of timbral structures"
             }
           }
         ]
@@ -216,11 +240,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3252c0ac95a2a895",
+  "active": "bc92618c5030bbba",
   "lastOpenFiles": [
-    "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
-    "09- modelos/Estructuras.md",
+    "02- img/Pasted image 20241116160513.png",
     "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
+    "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+    "02- img/Pasted image 20241116160417.png",
+    "02- img/Pasted image 20241116160416.png",
+    "09- modelos/Estructuras.md",
     "05- bib full/Godoy_GesturalSonorousObjects.pdf",
     "02- img/Pasted image 20241113134127.png",
     "02- img/Pasted image 20241113134113.png",
@@ -251,8 +278,6 @@
     "02- img/Pasted image 20241102152927.png",
     "01- txt/obras/Variations VI.md",
     "01- txt/obras/Fontana Mix.md",
-    "02- img/Pasted image 20241102143835.png",
-    "02- img/Pasted image 20241031114941.png",
     "01- txt/obras/Jagdstück.md",
     "01- txt/obras/Variations II.md",
     "01- txt/obras/Light Piece for David Tudor 1.md",
