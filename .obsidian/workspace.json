@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 53.90625,
+        "dimension": 47.31833910034602,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -14,14 +14,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
-                "page": 39,
-                "left": 97,
-                "top": 395,
-                "zoom": 1.05
+                "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+                "page": 224,
+                "left": -19,
+                "top": 575,
+                "zoom": 0.8486394557823129
               },
               "icon": "lucide-file-text",
-              "title": "Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures"
+              "title": "YouNakai_RemindedbytheInstruments_David Tudor'sMusic"
             }
           }
         ]
@@ -29,7 +29,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 46.09375,
+        "dimension": 52.68166089965398,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -43,20 +43,6 @@
               },
               "icon": "lucide-file",
               "title": "=) Cybersonic"
-            }
-          },
-          {
-            "id": "bc92618c5030bbba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timbre and Harmony interpolations of timbral structures"
             }
           },
           {
@@ -74,7 +60,7 @@
             }
           },
           {
-            "id": "8046bc5cf1b2079d",
+            "id": "bc92618c5030bbba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,9 +72,23 @@
               "icon": "lucide-file",
               "title": "Reminded by the instruments"
             }
+          },
+          {
+            "id": "b4025c3ac305f6d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- txt/obras/Bandoneon ! (A Combine).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bandoneon ! (A Combine)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
+                "file": "02- img/Pasted image 20241116172424.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures"
+              "title": "Backlinks for Pasted image 20241116172424"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
+                "file": "02- img/Pasted image 20241116172424.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures"
+              "title": "Outgoing links from Pasted image 20241116172424"
             }
           },
           {
@@ -206,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf"
+                "file": "02- img/Pasted image 20241116172424.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures"
+              "title": "Outline of Pasted image 20241116172424"
             }
           }
         ]
@@ -242,37 +242,37 @@
   },
   "active": "3252c0ac95a2a895",
   "lastOpenFiles": [
+    "01- txt/obras/Bandoneon ! (A Combine).md",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "01- txt/obras/=) Cybersonic.md",
+    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+    "02- img/Pasted image 20241116172424.png",
+    "09- modelos/Estructuras.md",
+    "02- img/Pasted image 20241116184333.png",
+    "02- img/Pasted image 20241116184322.png",
+    "09- modelos/Abstracts.md",
     "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
-    "Pasted image 20241116175718.png",
-    "Pasted image 20241116175704.png",
-    "Pasted image 20241116174723.png",
-    "Pasted image 20241116174713.png",
-    "Pasted image 20241116173851.png",
-    "Pasted image 20241116172424.png",
+    "02- img/Pasted image 20241116175718.png",
+    "02- img/Pasted image 20241116175704.png",
+    "02- img/Pasted image 20241116174723.png",
+    "02- img/Pasted image 20241116174713.png",
+    "02- img/Pasted image 20241116173851.png",
     "02- img/Pasted image 20241116170257.png",
     "02- img/Pasted image 20241116170236.png",
-    "02- img/Pasted image 20241116170219.png",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "02- img/Pasted image 20241116170025.png",
-    "09- modelos/Estructuras.md",
     "05- bib full/Godoy_GesturalSonorousObjects.pdf",
-    "09- modelos/Abstracts.md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
     "01- txt/objetos sonoros/Spectromorphological Analysis of Sound Objects An adaptation of Pierre Schaeffer’s Typomorphology..md",
     "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
     "Excalidraw/Tudor obra.md",
-    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
     "01- txt/instrumentos-herramientas/Hear After.md",
     "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
     "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
     "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
-    "01- txt/obras/=) Cybersonic.md",
-    "01- txt/obras/Bandoneon ! (A Combine).md",
     "01- txt/obras/Fluorescent Sound.md",
     "05- bib full/SaittaCarmelo_2016_timbre.pdf",
     "01- txt/obras/Variations VI.md",

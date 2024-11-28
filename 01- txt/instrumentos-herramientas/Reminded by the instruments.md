@@ -354,6 +354,8 @@ leer a partir de pag 137 del libro a fin del cap
 > 
 > Tudor había encontrado con los instrumentos electrónicos una forma de producir materiales que, no obstante, se comportaran como un “otro”: podía dejar que los instrumentos tomaran literalmente la iniciativa.
 
+### Bandoneón
+
 > [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=219&selection=41,12,66,3&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.219]]
 > > . At one point the unnamed interviewer brought up the difference between a “performer” and a “composer,” suggesting Tudor had made the transition from one to the other some years before: “I think it’s only fair to say that in several of the pieces that you played before even on the piano, composed by other people, you were in fact, the true composer.” Tudor disagreed: Well, I beg to differ! [laughs] Because one person’s process is not another person’s process. And still, even though one is involved in making precise all the details of an indeterminate composition, still the process is not what one would choose oneself, if one were to choose it. There would surely be a different choice somewhere in the process.162
 > 
@@ -376,4 +378,3 @@ leer a partir de pag 137 del libro a fin del cap
 
 ![[Pasted image 20241102175846.png]]
 
-LEER A PARTIR DE PAGINA 220 DEL LIBRO
