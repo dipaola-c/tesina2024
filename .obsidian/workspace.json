@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 55.5763823805061,
+        "dimension": 44.142455482661674,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -44,7 +44,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 44.42361761949391,
+        "dimension": 55.857544517338326,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -256,8 +256,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7962b9bd89898ef8",
+  "active": "7f80322636974088",
   "lastOpenFiles": [
+    "04- media/resonando_correcciones.mp3",
+    "03- score/esquemaFormal_tentativo.pdf",
+    "04- media/resonando_03-12.wav",
+    "08- utilities/fluCoMa/classification-video-demo_modif.scd",
+    "08- utilities/fluCoMa/classification-video-demo.scd",
+    "08- utilities/fluCoMa",
+    "08- utilities/untitled folder",
     "08- utilities/SuperCollider.md",
     "08- utilities/guia_sc.pdf",
     "08- utilities/0-gral.md",
@@ -296,12 +303,6 @@
     "02- img/Pasted image 20241116173851.png",
     "02- img/Pasted image 20241116170257.png",
     "02- img/Pasted image 20241116170236.png",
-    "05- bib full/Godoy_GesturalSonorousObjects.pdf",
-    "05- bib full/SaittaCarmelo_2016_timbre.pdf",
-    "05- bib full/GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf",
-    "05- bib full/Younakai_hearAfter.pdf",
-    "Excalidraw",
-    "09- modelos",
-    "05- bib full/Newport Cal_How To Become A Straight-A Student.pdf"
+    "05- bib full/Godoy_GesturalSonorousObjects.pdf"
   ]
 }
