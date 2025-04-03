@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 44.142455482661674,
+        "dimension": 54.570259208731244,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -37,14 +37,24 @@
               "icon": "lucide-file",
               "title": "fluCoMa"
             }
+          },
+          {
+            "id": "fe4322618ef808e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 55.857544517338326,
+        "dimension": 45.429740791268756,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -94,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/obras/Bandoneon ! (A Combine).md",
+                "file": "01- txt/hombre-máquina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bandoneon ! (A Combine)"
+              "title": "hombre-máquina"
             }
           }
         ],
@@ -160,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "right": {
     "id": "3319ad7f620eb724",
@@ -256,53 +266,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f80322636974088",
+  "active": "fe4322618ef808e4",
   "lastOpenFiles": [
+    "01- txt/artistic research/How to become a Straight-A student.md",
+    "01- txt/artistic research/course_artistic_research.pdf",
+    "01- txt/artistic research/Artistic Research in Music (extract).md",
+    "01- txt/artistic research/Artistic Research in Music (all text).md",
+    "00- inicial/Resonando - txt.md",
+    "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
+    "00- inicial/manual_de_estilo_2022.pdf",
+    "00- inicial/Glosario.loom",
+    "00- inicial/Audio correcciones e ideas.md",
+    "00- inicial/2- Gerardo Gandini.md",
+    "00- inicial/1- Obras y análisis.md",
+    "00- inicial/0- Ideas obra.md",
+    "00- inicial/1- Investigación.md",
+    "01- txt/textura/Style in musical art.md",
+    "01- txt/timbre/El timbre como factor estructurante.md",
+    "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
+    "01- txt/textura/La doble génesis del concepto de textura musical.md",
+    "01- txt/semiótica/El grado cero retórico y la neorretórica. La lectura tropológica.md",
+    "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+    "01- txt/gandini/El acento agudo.md",
+    "01- txt/gandini/Varios sobre Gerardo Gandini.md",
+    "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
+    "01- txt/objetos sonoros/Spectromorphological Analysis of Sound Objects An adaptation of Pierre Schaeffer’s Typomorphology..md",
+    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
+    "01- txt/tiempo/Tiempo y forma.md",
+    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
+    "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
+    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
+    "01- txt/timbre/Modulación tímbrica.md",
+    "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
+    "05- bib full/SaittaCarmelo_2016_timbre.pdf",
     "04- media/resonando_correcciones.mp3",
     "03- score/esquemaFormal_tentativo.pdf",
     "04- media/resonando_03-12.wav",
-    "08- utilities/fluCoMa/classification-video-demo_modif.scd",
-    "08- utilities/fluCoMa/classification-video-demo.scd",
-    "08- utilities/fluCoMa",
-    "08- utilities/untitled folder",
-    "08- utilities/SuperCollider.md",
-    "08- utilities/guia_sc.pdf",
-    "08- utilities/0-gral.md",
-    "08- utilities/fluCoMa.md",
-    "2023 Tesina - cronograma.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "Biblio paper.md",
-    "Análisis Resonando.md",
-    "2024 Tesina - cronograma.md",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-    "01- txt/obras/Bandoneon ! (A Combine).md",
-    "01- txt/artistic research/How to become a Straight-A student.md",
-    "01- txt/artistic research/Artistic Research in Music (extract).md",
-    "01- txt/artistic research/Artistic Research in Music (all text).md",
-    "01- txt/hombre-máquina.md",
-    "Biblio y obras general.md",
-    "Excalidraw/Tudor obra.md",
-    "01- txt/obras/Rainforest.md",
-    "01- txt/obras/Neural Synthesis.md",
-    "01- txt/obras/Megaton para WM.md",
-    "01- txt/obras/Medium size mograph.md",
-    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
-    "01- txt/obras/=) Cybersonic.md",
-    "01- txt/obras/Untitled.md",
-    "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
-    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
-    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "02- img/Pasted image 20241116172424.png",
     "02- img/Pasted image 20241116184333.png",
     "02- img/Pasted image 20241116184322.png",
-    "05- bib full/Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf",
     "02- img/Pasted image 20241116175718.png",
     "02- img/Pasted image 20241116175704.png",
     "02- img/Pasted image 20241116174723.png",
     "02- img/Pasted image 20241116174713.png",
     "02- img/Pasted image 20241116173851.png",
     "02- img/Pasted image 20241116170257.png",
-    "02- img/Pasted image 20241116170236.png",
-    "05- bib full/Godoy_GesturalSonorousObjects.pdf"
+    "02- img/Pasted image 20241116170236.png"
   ]
 }

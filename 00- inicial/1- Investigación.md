@@ -168,13 +168,13 @@ Sobre la relación entre el tiempo y la forma musical, desde su acepción entre 
 
 
 ## Consultar
-- https://archive.org/details/stylemusicalart00parriala/page/172/mode/2up (*Style in music art* - Parry)
-- *La textura de la música moderna* - George Dyson
+==- https://archive.org/details/stylemusicalart00parriala/page/172/mode/2up (*Style in music art* - Parry)==
+==- *La textura de la música moderna* - George Dyson==
 - *Metamorfosis de la forma musical* - Georgy Ligeti
 - _Solfeo del objeto sonoro_ publicado por Schaeffer y colaboradores (1998)
-- https://prezi.com/user/qoqnfi0epuzd/ (notacion, interesante!)
-- https://55igo.notion.site/2-Materiales-notaci-n-multiparam-trica-716d8e0408ff4e66a2192dc19da2f000 (notacion)
-- https://sites.google.com/view/dsmc/publicaciones-contenidos/la-guitarra-en-la-generaci%C3%B3n-claem (Ricardo Cuadros Pradilla sobre los tientos)
-- Influencia de los Seis tientos para Guitarra de Gerardo Gandini en los Seis Estudios para Guitarra - Libro de Fernando Maglia - Juan Cunningham
--   MICHEL CHION  **La audiovisión** Introducción a un análisis conjunto de la imagen y el sonido
+==- https://prezi.com/user/qoqnfi0epuzd/ (notacion, interesante!)==
+==- https://55igo.notion.site/2-Materiales-notaci-n-multiparam-trica-716d8e0408ff4e66a2192dc19da2f000 (notacion)==
+==- https://sites.google.com/view/dsmc/publicaciones-contenidos/la-guitarra-en-la-generaci%C3%B3n-claem (Ricardo Cuadros Pradilla sobre los tientos)==
+==- Influencia de los Seis tientos para Guitarra de Gerardo Gandini en los Seis Estudios para Guitarra - Libro de Fernando Maglia - Juan Cunningham==
+-  MICHEL CHION  **La audiovisión** Introducción a un análisis conjunto de la imagen y el sonido
 - Programme rainy days (spectral)
