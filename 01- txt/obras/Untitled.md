@@ -17,6 +17,9 @@ data-img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_OrbfIoGtIeshq
 data-type='range'  
 data-end='1972-11-01-00'>  
 </span>
+
+[!timeline|t-l]
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2TgHFISt7HE?si=uaexwg5fIiL3LPlJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 También conocida como *Homage to Toshi Ichiyanagi*, se estrenó en 1972 en una serie de conciertos de presentaciones simultáneas de la obra de Cage y Tudor como compositores.

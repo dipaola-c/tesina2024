@@ -14,7 +14,7 @@ listen: y
 class='ob-timelines'  
 data-date='1966-02-01-00'  
 data-title='Bandoneón' 
-data-img="https://www.fondation-langlois.org/media/activites/9evenings/tudor/historique/tudor.jpg"
+data-img="https://www.moma.org/d/assets/W1siZiIsIjIwMTkvMTAvMTUvMjJsOHZsbXI0ZV8xX1R1ZG9yQmFuZG9uZW9uX0ZvbmRhdGlvbkxhbmdsb2lzX2hpZ2hlcl9yZXMuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMTE4NHg4ODhcdTAwM2UiXV0/1_TudorBandoneon_FondationLanglois_higher_res.jpg?sha=c768b337cbacb267"
 data-type='range'  
 data-end='1966-12-01-00'>  
 </span>

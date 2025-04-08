@@ -7,7 +7,6 @@
   "notion-like-tables",
   "obsidian-full-calendar",
   "obsidian-zotero-desktop-connector",
-  "pdf-plus",
   "obsidian-latex-suite",
   "custom-node-size",
   "reference-generator",
@@ -18,5 +17,6 @@
   "obsidian42-brat",
   "templater-obsidian",
   "obsidian-year-timeline",
-  "obsidian-timeline"
+  "obsidian-timeline",
+  "pdf-plus"
 ]
