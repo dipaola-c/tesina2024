@@ -56,4 +56,32 @@ La introducción del espacio físico como material en la historia de la música 
 > [!PDF|important] [[FesselPablo_LaTexturaComoEspacioInmanente.pdf#page=12&selection=76,2,116,27&color=important|FesselPablo_LaTexturaComoEspacioInmanente, p.12]]
 > >  El término “textura” se incorporó a la terminología de la música en lo que aparentan ser dos sentidos disímiles, que podríamos caracterizar, con cierta simplificación, como representación de una estratificación de la simultaneidad, por una parte, y como representación de una clase precisa de material musical, por otra. Sin embargo, no se trata de una homonimia que encubriría, como un gran malentendido histórico, una disparidad conceptual. En su acepción más abstracta posible, el término “textura” designa cierta forma de discontinuidad en la continuidad. Los dos sentidos del término se corresponden entonces en realidad con una focalización unilateral sobre uno de los dos elementos que designan el concepto, la discontinuidad o la continuidad.
 
+Entonces, el término de textura tiene dos sentidos disímiles, pero que se funden en uno mismo (uno hace referencia a la discontinuidad y otro, a la continuidad) "el término textura designa cierta forma de discontinuidad EN LA continuidad".
+El **primer** sentido se aplica a la constitución de la simultaneidad musical (representando la **disimilitud**), de allí las categorías de polifonía, homofonía, heterofonía, etc.
+El **segundo**, se aplica a los materiales musicales ??? 
+> [!PDF|yellow] [[FesselPablo_LaTexturaComoEspacioInmanente.pdf#page=13&selection=19,48,29,40&color=yellow|FesselPablo_LaTexturaComoEspacioInmanente, p.13]]
+> > Los materiales caracterizados como texturas tienen como uno de sus atributos esenciales el de no existir con anterioridad al espacio musical en el que se encuentran: a diferencia del motivo y el tema, susceptibles de una disposición en la simultaneidad musical, el espacio que despliega la textura representa uno de sus mismos atributos. 
+
+> [!PDF|important] [[FesselPablo_LaTexturaComoEspacioInmanente.pdf#page=13&selection=29,40,34,21&color=important|FesselPablo_LaTexturaComoEspacioInmanente, p.13]]
+> > De acuerdo con esta concepción, la textura alude al contenido concreto de la **simultaneidad** y se identifica con conceptos como los de material y sonoridad.
+
+
+(consecuencia de la introducción de la disonancia en la tonalidad y la disolución de la misma)
+> [!PDF|yellow] [[FesselPablo_LaTexturaComoEspacioInmanente.pdf#page=13&selection=74,35,81,49&color=yellow|FesselPablo_LaTexturaComoEspacioInmanente, p.13]]
+> >  Esto significó un detrimento del papel del acorde como regulador de una simultaneidad integrada. La indiferenciación acórdica determinó así, indirectamente, una individuación de los estratos que conforman la textura. Ésta perdió la referencia a un elemento organizador unitario.
+(ej, Charles Ives)
+
+> [!PDF|yellow] [[FesselPablo_LaTexturaComoEspacioInmanente.pdf#page=14&selection=78,64,93,29&color=yellow|FesselPablo_LaTexturaComoEspacioInmanente, p.14]]
+> > No se trata sólo de que la distinción entre consonancia y disonancia haya sido neutralizada. El intervalo como categoría —su naturaleza abstracta— pierde toda sustancia en una música que destaca el carácter concreto de sus sonoridades. El material, como “sustancia” de la simultaneidad, se ubica acá en primer lugar.
+> 
+> **El sentido de textura como material/sonoridad**
+> (ej, Ligeti, Xenakis)
+
+Jonathan Dunsby --> Emancipación de la textura (Jonathan Dunsby, “Considerations of Texture”)
+
+Como **conclusión** ==releer==
+> [!PDF|important] [[FesselPablo_LaTexturaComoEspacioInmanente.pdf#page=15&selection=19,0,51,68&color=important|FesselPablo_LaTexturaComoEspacioInmanente, p.15]]
+> > El concepto de textura se constituyó en el pensamiento del siglo XX como uno de los conceptos centrales de ese espacio musical descentrado y concreto. Son precisamente esos dos atributos los que, por la negativa, posibilitan la introducción del espacio físico: éste se incorpora como dimensión musical en la medida en que se descentra (se lo disocia) y adquiere una forma concreta y particularizada. El espacio físico de la música tradicional cuenta como totalidad. Ese espacio es todavía homogéneo, y en ese sentido indistinto, y por eso mismo en cierto modo se cancela como dimensión formal. La operación compositiva del espacio presupone en cambio una disociación al interior de ese campo espacial. Es ahí donde se puede ubicar ese punto de unión entre la textura estratificada, basada en la individuación de los elementos que la componen, y la disociación del espacio, que permite operar con él como un campo de acción compositiva. La textura, entendida en un sentido matérico, representa por su parte expresión de un proceso particularista que terminaría alcanzando al espacio mismo, entendido ya no como puro medio de transmisión del sonido sino, por así decir, como sustancia.
+
+
 
