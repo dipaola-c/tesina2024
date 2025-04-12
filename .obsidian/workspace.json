@@ -109,10 +109,10 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
-                "page": 3,
-                "left": -23,
-                "top": 811,
-                "zoom": 0.6991333266149351
+                "page": 12,
+                "left": 70,
+                "top": 523,
+                "zoom": 0.98
               },
               "icon": "lucide-file-text",
               "title": "FesselPablo_LaTexturaComoEspacioInmanente"
@@ -284,12 +284,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3db9ee0c3a153921",
+  "active": "fe4322618ef808e4",
   "lastOpenFiles": [
+    "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
+    "01- txt/textura/La textura como espacio inmanente. Teoría, representaciones historiográficas y concepciones estéticas.md",
     "05- bib full/FesselPablo_LosDiariosdeGandini.pdf",
     "09- modelos/Estructuras.md",
     "07- templates/Timeline Template horizontal.md",
-    "01- txt/textura/La textura como espacio inmanente. Teoría, representaciones historiográficas y concepciones estéticas.md",
     "01- txt/filosofía técnica/Espectografías.md",
     "07- templates/Zotero Template.md",
     "01- txt/tiempo/Tiempo y forma.md",
@@ -316,7 +317,6 @@
     "Pasted image 20250405190039.png",
     "Pasted image 20250405190034.png",
     "Pasted image 20250405190021.png",
-    "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
     "05- bib full/Assis_2018_Experimental Systems and Artistic Research.pdf",
     "05- bib full/FesselPablo_Textura.pdf",
     "05- bib full/admin,+Gestor_a+de+la+revista,+RAM_20_39-58_Dos-Fessel.pdf",
@@ -325,7 +325,6 @@
     "00- inicial/manual_de_estilo_2022.pdf",
     "00- inicial/Glosario.loom",
     "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
-    "01- txt/semiótica/Retórica persuasión - Mapa.pdf",
     "02- img/Pasted image 20241116172424.png",
     "02- img/Pasted image 20241116184333.png",
     "02- img/Pasted image 20241116184322.png",
