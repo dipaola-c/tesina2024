@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 48.08027923211169,
+        "dimension": 48.080279232111685,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/textura/La textura como espacio inmanente. Teoría, representaciones historiográficas y concepciones estéticas.md",
+                "file": "01- txt/forma/Forma en la nueva música (Metamorfosis de la forma musical).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La textura como espacio inmanente. Teoría, representaciones historiográficas y concepciones estéticas"
+              "title": "Forma en la nueva música (Metamorfosis de la forma musical)"
             }
           }
         ],
@@ -58,7 +58,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 51.91972076788831,
+        "dimension": 51.919720767888315,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -109,10 +109,10 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
-                "page": 15,
-                "left": 70,
-                "top": 734,
-                "zoom": 0.98
+                "page": 19,
+                "left": -25,
+                "top": 607,
+                "zoom": 0.6021364506701602
               },
               "icon": "lucide-file-text",
               "title": "FesselPablo_LaTexturaComoEspacioInmanente"
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3319ad7f620eb724",
@@ -286,8 +287,9 @@
   },
   "active": "fe4322618ef808e4",
   "lastOpenFiles": [
-    "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
     "01- txt/textura/La textura como espacio inmanente. Teoría, representaciones historiográficas y concepciones estéticas.md",
+    "01- txt/forma/Forma en la nueva música (Metamorfosis de la forma musical).md",
+    "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
     "05- bib full/FesselPablo_LosDiariosdeGandini.pdf",
     "09- modelos/Estructuras.md",
     "07- templates/Timeline Template horizontal.md",
