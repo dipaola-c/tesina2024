@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 48.080279232111685,
+        "dimension": 45.342706502636204,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -30,35 +30,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08- utilities/fluCoMa.md",
+                "file": "01- txt/textura/Music and letters - The Texture of Modern Music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fluCoMa"
-            }
-          },
-          {
-            "id": "fe4322618ef808e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- txt/forma/Forma en la nueva música (Metamorfosis de la forma musical).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forma en la nueva música (Metamorfosis de la forma musical)"
+              "title": "Music and letters - The Texture of Modern Music"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 51.919720767888315,
+        "dimension": 54.6572934973638,
         "children": [
           {
             "id": "2f1d7777968a8b07",
@@ -89,6 +75,22 @@
             }
           },
           {
+            "id": "fe4322618ef808e4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
+                "page": 1,
+                "left": -3,
+                "top": 796,
+                "zoom": 1.0310374149659864
+              },
+              "icon": "lucide-file-text",
+              "title": "DysonGeorge_1923_The Texture of Modern Music"
+            }
+          },
+          {
             "id": "bc92618c5030bbba",
             "type": "leaf",
             "state": {
@@ -109,17 +111,17 @@
               "type": "pdf",
               "state": {
                 "file": "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
-                "page": 19,
-                "left": -25,
-                "top": 607,
-                "zoom": 0.6021364506701602
+                "page": 1,
+                "left": -38,
+                "top": 846,
+                "zoom": 0.390506903154288
               },
               "icon": "lucide-file-text",
               "title": "FesselPablo_LaTexturaComoEspacioInmanente"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3319ad7f620eb724",
@@ -285,10 +286,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fe4322618ef808e4",
+  "active": "7962b9bd89898ef8",
   "lastOpenFiles": [
+    "01- txt/textura/Style in musical art.md",
+    "08- utilities/fluCoMa.md",
+    "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
+    "01- txt/textura/Music and letters - The Texture of Modern Music.md",
+    "Excalidraw/Tudor obra.md",
+    "Glosario.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01- txt/timbre/La condición romántica del arte.md",
+    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
+    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
+    "01- txt/timbre/El timbre como factor estructurante.md",
+    "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
+    "01- txt/textura/Considerations of Texture.md",
+    "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
+    "01- txt/textura/La doble génesis del concepto de textura musical.md",
     "01- txt/textura/La textura como espacio inmanente. Teoría, representaciones historiográficas y concepciones estéticas.md",
     "01- txt/forma/Forma en la nueva música (Metamorfosis de la forma musical).md",
+    "05- bib full/DunsbyJonathan_Considerations of Texture (1989).pdf",
+    "05- bib full/[Music and Letters 1989-feb vol. 70 iss. 1] Jonathan Dunsby - Considerations of Texture (1989) [10.2307_735640] - libgen.li.pdf",
     "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
     "05- bib full/FesselPablo_LosDiariosdeGandini.pdf",
     "09- modelos/Estructuras.md",
@@ -300,21 +319,6 @@
     "01- txt/obras/Toneburst, Maps and Fragments.md",
     "01- txt/obras/Pandora box.md",
     "01- txt/obras/Mesa.md",
-    "01- txt/obras/Light Piece for David Tudor 1.md",
-    "01- txt/obras/Hornpipe.md",
-    "01- txt/obras/Fontana Mix.md",
-    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
-    "01- txt/obras/Burroughs.md",
-    "01- txt/obras/Bandoneon ! (A Combine).md",
-    "01- txt/obras/=) Cybersonic.md",
-    "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
-    "07- templates/Timeline Template vertical.md",
-    "01- txt/obras/Variations II.md",
-    "01- txt/obras/Untitled.md",
-    "01- txt/obras/Rainforest.md",
-    "01- txt/obras/Neural Synthesis.md",
-    "01- txt/obras/Megaton para WM.md",
-    "01- txt/obras/Medium size mograph.md",
     "Pasted image 20250405190043.png",
     "Pasted image 20250405190039.png",
     "Pasted image 20250405190034.png",
@@ -324,9 +328,6 @@
     "05- bib full/admin,+Gestor_a+de+la+revista,+RAM_20_39-58_Dos-Fessel.pdf",
     "01- txt/artistic research/course_artistic_research.pdf",
     "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
-    "00- inicial/manual_de_estilo_2022.pdf",
-    "00- inicial/Glosario.loom",
-    "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
     "02- img/Pasted image 20241116172424.png",
     "02- img/Pasted image 20241116184333.png",
     "02- img/Pasted image 20241116184322.png",
