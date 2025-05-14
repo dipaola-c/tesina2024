@@ -39,7 +39,7 @@ LA JUSTIFICACIÓN DEL TÍTULO DE LA TESINA, LA CORRELACIÓN ENTRE ESTADOS TÍMBR
 ![[Rainforest#Idea 2]]
 
 
-3) Pensar la notación de David Tudor en *Untitled* como dibujos / estados tímbricos ![[Glosario]]] 
+3) Pensar la notación de David Tudor en *Untitled* como dibujos / estados tímbricos ![[Glosario (parte del estado del arte)]]] 
 4) Idem, ver [[Toneburst, Maps and Fragments]]
 5) Qué pasa si hay instrumentos (expandir) que de por sí tienen timbres 'más complejos?' o devuelven en sí mismo estados tímbricos?? Específicamente en la obra [[Mesa]] - De la esterofonización, ver la obra
 > [!PDF|yellow] [[GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor.pdf#page=20&selection=9,0,21,18&color=yellow|GoldmanJonathan_The_Buttons_on_Pandora_s_Box_David_Tudor, p.20]]

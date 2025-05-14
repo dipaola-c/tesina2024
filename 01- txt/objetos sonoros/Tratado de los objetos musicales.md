@@ -88,3 +88,7 @@ El hilo conductor de este capítulo es trazar un _recorrido histórico de la ev
 
 ==En este sentido, Schaeffer define dos tipos de escucha: **la escucha reducida y la escucha ordinaria. La escucha reducida se concibe como un acercamiento al objeto sonoro, gracias al voluntario descuido de la procedencia del sonido. En cambio, la escucha ordinaria puede centrarse en lo abstracto (valores, sentido y lenguaje para comprender el mensaje) o en lo concreto (indicios, causas y acontecimientos para aprehender el mensaje).**==
 
+## DEL TEXTO ORIGINAL TRADUCIDO
+
+![[Pasted image 20250507085358.png]] (pag 23)
+

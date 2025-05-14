@@ -13,7 +13,7 @@ PERTENECE A UN LIBRO *Musical Gestures* (2004-2007) DE GODOY Y LEMAN
 >>> **A partir de los cambios 'tímbricos' que produce la máquina en la música/sonido etc, cuáles son los nuevos parámetros de análisis, o formas de analizar 'al objeto sonoro'?**
 
 >[!important] categorización de sonidos, no estoy del todo segura. Habla mucho de lo gestual. No lo descartaría, tal vez para usar algún que otro término.
-
+## Definición
 **El objeto sonoro es un fragmento de sonido, normalmente de unos pocos segundos (a menudo incluso menos), percibido como una unidad.** Los objetos sonoros se constituyen, estudian y evalúan según diversos criterios, y los objetos sonoros que se consideran adecuados se consideran objetos musicales que pueden usarse en la composición musical. En la selección y calificación de estos objetos sonoros, se nos anima a practicar **lo que Schaeffer llamó "escucha reducida", es decir, ignorar el contexto original del sonido, incluida su fuente y significado**, y, en cambio, centrar nuestra escucha en las características sonoras ==(ALGO RELACIONADO A LO QUE TUDOR LLAMA SESGO/NATURALEZA DEL INSTRUMENTO).== Ahora bien, Godoy relaciona esto al gesto (objetos gestuales-sonoros) en relación a cognición corporizada...
 
 > [!PDF|yellow] [[Godoy_GesturalSonorousObjects.pdf#page=1&selection=19,18,32,33&color=yellow|Godoy_GesturalSonorousObjects, p.1]]

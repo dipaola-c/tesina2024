@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 45.342706502636204,
+        "dimension": 47.635726795096325,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/objetos sonoros/Tratado de los objetos musicales.md",
+                "file": "Glosario (parte del estado del arte).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tratado de los objetos musicales"
+              "title": "Glosario (parte del estado del arte)"
             }
           }
         ],
@@ -44,10 +44,54 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 54.6572934973638,
+        "dimension": 52.364273204903675,
         "children": [
           {
             "id": "fc5c2bf0863741d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reminded by the instruments"
+            }
+          },
+          {
+            "id": "fe4322618ef808e4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
+                "page": 12,
+                "left": -30,
+                "top": 413,
+                "zoom": 0.4922711058263972
+              },
+              "icon": "lucide-file-text",
+              "title": "SchaefferPierre_Tratado_de_los_objetos_musicales"
+            }
+          },
+          {
+            "id": "062c281b6d9c5613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus"
+            }
+          },
+          {
+            "id": "23d4f1a7939ae7f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,25 +103,9 @@
               "icon": "lucide-file",
               "title": "Construcción de la hipótesis; estado tímbrico"
             }
-          },
-          {
-            "id": "fe4322618ef808e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
-                "page": 5,
-                "left": -10,
-                "top": 446,
-                "zoom": 0.44
-              },
-              "icon": "lucide-file-text",
-              "title": "SchaefferPierre_Tratado_de_los_objetos_musicales"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bandoneo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,19 +272,20 @@
   },
   "active": "7962b9bd89898ef8",
   "lastOpenFiles": [
-    "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
+    "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+    "Glosario (parte del estado del arte).md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "02- img/Pasted image 20250507085358.png",
     "01- txt/objetos sonoros/Tratado de los objetos musicales.md",
+    "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
     "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
-    "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
-    "Glosario.md",
     "01- txt/textura/Music and letters - The Texture of Modern Music.md",
     "01- txt/textura/Style in musical art.md",
     "08- utilities/fluCoMa.md",
     "Excalidraw/Tudor obra.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01- txt/timbre/La condición romántica del arte.md",
     "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
     "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
@@ -287,7 +316,6 @@
     "02- img/Pasted image 20241116184333.png",
     "02- img/Pasted image 20241116184322.png",
     "02- img/Pasted image 20241116175718.png",
-    "02- img/Pasted image 20241116175704.png",
-    "02- img/Pasted image 20241116174723.png"
+    "02- img/Pasted image 20241116175704.png"
   ]
 }
