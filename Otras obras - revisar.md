@@ -17,3 +17,8 @@ Pandorasbox bears witness to an aspect of the instrument that seems to have fasc
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdNtl15oRTWf4niLuEV8EqQgTFMB-AUBuV5tWle25wTdwJhSS6aZrmfjUneZG-jau1VU09IhxalVuzNrTU0FNxDJ1hwBKaWZ_HT3mQaknezaMh5zkxuu-K5AYlESazMg5k3OsFUmRBTDLEoCfw5q05EP73Q?key=M1_UrYDOtLcm2qcRg6zt9Q)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJOLkDmCkzqwZN-o3VI0FB5oddF8Gevbz12B7SvoJ7domxDmJhIffu4Ak7EF-MyjgD0dpIoQ0GAe0lJSdR8auH0-gl4Y9xqTTxNzJ74fk8cSPyv68f3X1z7fO71NaxCsz9uZ2XPCFnr5Hka8ywBzHVcHs?key=M1_UrYDOtLcm2qcRg6zt9Q)
+
+
+Así, _Rainforest_ (1968) --lindante esta con lo hoy llamaríamos 'instalación sonora'--, _Toneburst_ (1974) o _Forest Speech_ (1976) (tudor) y mejor: _Microphone_ (1973) Los elementos con los que está construida son treinta y siete micrófonos repartidos en una sala que reciben a tiempos variables de velocidad sonidos provenientes de un generador eléctrico, en una suerte de _feedback_ donde el eco y la resonancia son protagonistas esenciales. La obra se dio a conocer en el Pabellón Pepsi de la Exposición Universal de 1970 en Osaka (Japón), si bien su escucha en disco hace considerable justicia a la experiencia que propone su autor.
+
+Neural Síntesis david tudor --> supone el referente de muchas otras composiciones que han intentado establecer un vínculo entre el material electroacústico y el organismo humano. _Clocker_ de Alvin Lucier o _Invisible Gold_ de David Rosenboom recogen más modernamente el testigo de las nueve piezas para sintetizador que integran _Neural Síntesis_. En ellas, Tudor explora procesos biológicos que luego asocia con diversos mecanismos de composición y que le sirven para elaborar un conjunto de piezas electrónicas de una expresión insobornablemente radical.

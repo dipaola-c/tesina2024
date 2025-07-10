@@ -3,27 +3,53 @@ El objeto sonoro es un fragmento de sonido que se constituye como una unidad de 
 [[Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus#Definición]]
 
 Es aquí, que Schaeffer propone y analiza las características tipológicas (**tipología**) y morfológicas (**morfología**) como forma posible de analizar al objeto sonoro (el objeto sonoro como forma). La tipología responde a las características más 'obvias' del objeto (envolventes, tono, contenido espectral) y la morfología, a una demarcación más detallada de características internas (podrían ser movimientos internos de esas características 'obvias').
+![[Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer#Sobre la escucha de Schaeffer#Tipología de los objetos sonoros]]
 #### Escucha reducida
 Ignorar el contexto del sonido incluyendo su fuente y significado y reducirse hacia lo sonoro, es decir, las características del sonido.
 #### Contexto y contextura
 El contexto, visto desde una perspectiva macro, por ejemplo, el de la totalidad de una obra. A su vez, la contextura, desde lo micro, interno al objeto.
 ##### Micro, meso y macro
-El micro denota el sustrato acústico continuo puro, divisible hasta una sola muestra ??? 
+El micro denota el sustrato acústico continuo puro, divisible hasta una sola muestra ??? (ampliar)
 El meso o nivel medio, es el nivel del objeto sonoro en su totalidad, no internamente.
 El macro, es el nivel de la continuidad de más objetos.
 'Operan' en simultáneo.
 
-==Seguir en página 5 de Godoy==
 ## Texturas sónicas - Goldman sobre Mumma
+==COMPLETAR==
 
 ## Cybersonics - Mumma - ver ‘configuración total’
-
+El procesamiento electrónico en vivo de sonidos, principalmente acústicos, mediante el cual algunos aspectos de los sonidos procesados y amplificados retroalimentan al sistema electrónico y se 'auto' modifican ‘por características derivadas directamente del sonido mismo' (feedback).
 ## Eje sonido-ruido - Saariaho
+Relaciona timbre-armonía, 'reemplazando' el binomio consonancia/disonancia por sonido/ruido.
+- Pureza del sonido (puro/ruido)
+- Textura (granulada/lisa)
+![[Pasted image 20241116160417.png]]
 
+Pensar esto, pero llevado a un objeto sonoro (no a la forma general) y superponerlos
+![[Pasted image 20241116170219.png]]
 ## Nomograma - Tudor
-"El término “nomograma” (también llamado “nomograma”) se refiere generalmente a una forma de diagrama que alinea varios conjuntos de escalas en paralelo para permitir un cálculo rápido y preciso de fórmulas trazando una línea recta a través de las escalas y leyendo el valor en las intersecciones." (definición general)
+Representación de un 'evento sonoro' en un cuadrado, asignándole sus características.
+"*El término “nomograma” (también llamado “nomograma”) se refiere generalmente a una forma de diagrama que alinea varios conjuntos de escalas en paralelo para permitir un cálculo rápido y preciso de fórmulas trazando una línea recta a través de las escalas y leyendo el valor en las intersecciones.*" (definición general)
 ![[Pasted image 20241026151252.png]]
-
+- Amplitud: 
+	- “simple” podía tomar cualquier valor (de 0 a infinito) pero tenía que ser fijo; 
+	- “complejo” significaba no fijo y que variaba a través de la retroalimentación y otros procesos. 
+- Frecuencia: 
+	- “simple” podía tomar cualquier valor pero tenía que permanecer inmutable; 
+	- “complejo” significaba cambiante. 
+- Duración: 
+	- “simple” podía tener cualquier longitud pero tenía que tomar su propio tiempo; 
+	- “complejo” significaba superpuesto o mezclado con otros eventos. 
+- Ocurrencia: 
+	- “simple” podía suceder en cualquier momento, pero sólo una vez; 
+	- “complejo” significaba que se repetiría. 
+- Timbre: 
+	- “simple” podía ser cualquier tipo de espectro pero tenía que ser fijo; 
+	- “complejo” significaba espectro variado. 
+- Estructura: 
+	- “simple” significaba un solo evento; 
+	- “complejo” significaba dos o más eventos simultáneos. 
+![[Pasted image 20241026151534.png]]
 ### Lachenmann 
 Un bloque sonido-timbre, el otro sonidos-cadencia, otro bloque sonido-timbre procesual…
 ### Struktur y Textur - Ligeti

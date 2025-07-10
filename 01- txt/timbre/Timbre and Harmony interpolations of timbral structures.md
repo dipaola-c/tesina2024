@@ -33,7 +33,6 @@ To link to this Article: DOI: 10.1080/07494468708567055 URL: http://dx.doi.org/1
 > En definitiva, planta varios conjuntos binomio
 
 
-
 VER O PENSAR COMO ESTADOs TIMBRICOs
 > [!PDF|yellow] [[Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures.pdf#page=4&selection=48,1,57,89&color=yellow|Saariaho_TimbreandHarmonyInterpolationsoftimbralStructures, p.4]]
 > > igure 2 Chart for the beginning of Sah den Vogeln for ensemble and live electronics: the processes are indicated by the wedge-shaped figures and the stable parameters by the regions above and below the wedges.

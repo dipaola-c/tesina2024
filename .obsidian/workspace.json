@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 51.66374781085814,
+        "dimension": 57.787610619469035,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -16,7 +16,7 @@
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
                 "page": 1,
-                "left": -17,
+                "left": -4,
                 "top": 670,
                 "zoom": 0.8112244897959184
               },
@@ -30,21 +30,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glosario (parte del estado del arte).md",
+                "file": "01- txt/objetos sonoros/Tratado de los objetos musicales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glosario (parte del estado del arte)"
+              "title": "Tratado de los objetos musicales"
+            }
+          },
+          {
+            "id": "867fa94a450b0fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- txt/obras/Pandora box.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pandora box"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 48.33625218914185,
+        "dimension": 42.21238938053097,
         "children": [
           {
             "id": "fc5c2bf0863741d2",
@@ -58,20 +72,6 @@
               },
               "icon": "lucide-file",
               "title": "Reminded by the instruments"
-            }
-          },
-          {
-            "id": "062c281b6d9c5613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus"
             }
           },
           {
@@ -89,49 +89,51 @@
             }
           },
           {
-            "id": "72a315fab7e22b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- txt/filosofía técnica/La pregunta por la técnica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La pregunta por la técnica"
-            }
-          },
-          {
-            "id": "7f2a52f37827d820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
             "id": "8a49aeb49a4fffc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis Resonando.md",
+                "file": "Otras obras - revisar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análisis Resonando"
+              "title": "Otras obras - revisar"
+            }
+          },
+          {
+            "id": "555d430f54862ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer"
+            }
+          },
+          {
+            "id": "286c18daf0957842",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
+                "page": 1,
+                "left": -38,
+                "top": 599,
+                "zoom": 0.38971462544589774
+              },
+              "icon": "lucide-file-text",
+              "title": "SchaefferPierre_Tratado_de_los_objetos_musicales"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -296,42 +298,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a49aeb49a4fffc8",
+  "active": "867fa94a450b0fc6",
   "lastOpenFiles": [
-    "Otras obras - revisar.md",
-    "Links.md",
-    "01- txt/filosofía técnica/La pregunta por la técnica.md",
-    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
-    "Glosario (parte del estado del arte).md",
-    "01- txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+    "01- txt/obras/Bandoneon ! (A Combine).md",
+    "01- txt/obras/Fontana Mix.md",
+    "01- txt/obras/Hornpipe.md",
+    "01- txt/obras/Jagdstück.md",
+    "01- txt/obras/Neural Synthesis.md",
+    "01- txt/obras/Toneburst, Maps and Fragments.md",
+    "01- txt/obras/Untitled.md",
+    "01- txt/obras/Burroughs.md",
+    "01- txt/obras/=) Cybersonic Cantilevers.md",
+    "01- txt/obras/Variations VI.md",
+    "01- txt/obras/Variations II.md",
+    "01- txt/obras/Rainforest.md",
+    "01- txt/obras/Pandora box.md",
+    "01- txt/obras/Mesa.md",
+    "01- txt/obras/Megaton para WM.md",
+    "01- txt/obras/Medium size mograph.md",
+    "01- txt/obras/Light Piece for David Tudor 1.md",
+    "01- txt/obras/Fluorescent Sound.md",
+    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
     "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
-    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "02- img/Pasted image 20250507085358.png",
+    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01- txt/instrumentos-herramientas/Hear After.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/objetos sonoros/Tratado de los objetos musicales.md",
     "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
+    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+    "Glosario (parte del estado del arte).md",
+    "01- txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+    "02- img/Pasted image 20250507085358.png",
     "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-    "01- txt/objetos sonoros/Tipos sonoros de la nueva música.md",
-    "01- txt/textura/Music and letters - The Texture of Modern Music.md",
-    "01- txt/textura/Style in musical art.md",
-    "08- utilities/fluCoMa.md",
-    "Excalidraw/Tudor obra.md",
-    "01- txt/timbre/La condición romántica del arte.md",
-    "01- txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
-    "01- txt/timbre/El espacio tímbrico como estructura de control musical.md",
-    "01- txt/timbre/El timbre como factor estructurante.md",
-    "01- txt/timbre/Composing with Multidimensional Timbre Representations.md",
-    "01- txt/textura/Considerations of Texture.md",
-    "01- txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
-    "01- txt/textura/La doble génesis del concepto de textura musical.md",
-    "01- txt/textura/La textura como espacio inmanente. Teoría, representaciones historiográficas y concepciones estéticas.md",
-    "01- txt/forma/Forma en la nueva música (Metamorfosis de la forma musical).md",
     "05- bib full/DunsbyJonathan_Considerations of Texture (1989).pdf",
     "05- bib full/[Music and Letters 1989-feb vol. 70 iss. 1] Jonathan Dunsby - Considerations of Texture (1989) [10.2307_735640] - libgen.li.pdf",
     "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
     "05- bib full/FesselPablo_LosDiariosdeGandini.pdf",
-    "09- modelos/Estructuras.md",
     "Pasted image 20250405190043.png",
     "Pasted image 20250405190039.png",
     "Pasted image 20250405190034.png",

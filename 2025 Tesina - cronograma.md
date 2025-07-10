@@ -1,5 +1,10 @@
 ## Mayo - Junio
 
+WEB
+
+[https://dipaola-c.github.io/estadosmaquinotimbricos/](https://dipaola-c.github.io/estadosmaquinotimbricos/)
+
+
 ![[Pasted image 20241009132605.png]]
 #### Research
 - [x] Essays and Papers
@@ -141,3 +146,12 @@ https://www.getty.edu/research/tools/guides_bibliographies/david_tudor/resources
 
 - Teodorescu-Ciocanea, L. (2022). Poetics of Hypertimbralism in music. Proceedings of the European Academy of Sciences & Arts, Vol. 1, No 1, pp. 1-20
 - Herold, N. (2012). Timbre et analyse musicale : les possibilités d’intégration du timbre dans l’analyse formelle des œuvres pour piano du dix-neuvième siècle.
+
+[http://remindedbytheinstruments.info/book.html](http://remindedbytheinstruments.info/book.html)
+
+[http://remindedbytheinstruments.info/matrixmapdiagram.html](http://remindedbytheinstruments.info/matrixmapdiagram.html)
+
+
+VISITAR! [https://www.fondation-langlois.org/9evenings/e/david-tudor/performance.html](https://www.fondation-langlois.org/9evenings/e/david-tudor/performance.html)
+
+Sobre FluCoMa [https://www.youtube.com/watch?v=cjk9oHw7PQg&ab_channel=FluidCorpusManipulation](https://www.youtube.com/watch?v=cjk9oHw7PQg&ab_channel=FluidCorpusManipulation)

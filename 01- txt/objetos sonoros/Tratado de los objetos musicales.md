@@ -7,6 +7,7 @@ tags:
 bib:
 ---
 (5 libros)
+(bio breve) A modo de breve introducción mencionaremos que Pierre Schaeffer nació en Nancy, Francia, en 1910 y murió en Aix-en-Provence, Francia, en 1995. Realizó varios trabajos, pero fue como técnico en telecomunicaciones para la radio y televisión francesa (RTF) donde realizó sus mayores descubrimientos. En 1944 funda el Estudio Electrónico en Radio France. En 1948, crea la primer obra de música concreta. ‘Etude Pathetique’, (trabajo con voces grabadas y procesadas). También en ese año coordina el primer concierto radial de Música Concreta, en aquella oportunidad se ejecuta Etude aux Chemins de Fer. En el año 1950 comienza su colaboración junto a Pierre Henry y ese mismo año crean Symphonie pour un homme seul, (obra de 12 movimientos empleando sonidos del cuerpo humano). A lo largo de aquellos años realizó extensos estudios en el campo de la Psicoacústica, como resultado de aquellas investigaciones escribió en Traité de Objets Musicaux (1966), en el cual define los conceptos de escucha reducida y objeto sonoro.
 
 ## Hacer y oír
 
@@ -90,5 +91,27 @@ El hilo conductor de este capítulo es trazar un _recorrido histórico de la ev
 
 ## DEL TEXTO ORIGINAL TRADUCIDO
 
-![[Pasted image 20250507085358.png]] (pag 23)
+![[Pasted image 20250507085358.png]] (pag 23, y del por qué abandona el **término 'música concreta'**)
+
+-----
+Leo (anotaciones personales):
+
+En su prólogo, Schaeffer hablar de los tres **'impasses' de la musicología** al 'querer incluir' a la música no occidental (algo que tal vez puedo utilizar): a saber, el primero es la importancia única en la altura (específicamente en la nota, y como ésta queda relegada), el segundo, es el de las fuentes instrumentales (como encuadrar instrumentos exóticos a la par de los sonidos concretos o electrónicos) y el tercero, es el comentario estético.
+
+![[SchaefferPierre_Tratado_de_los_objetos_musicales.pdf#page=11&rect=45,64,388,143&color=yellow|SchaefferPierre_Tratado_de_los_objetos_musicales, p.11]]
+==**¿¿Hay o puede haber una 'escucha' maquínica?? ¿¿o los estados tímbricos aportan a ese campo o sólo sirven de análisis?? cómo el concepto de mirar x cantidad de canales por segundo generación a generación**==
+
+![[SchaefferPierre_Tratado_de_los_objetos_musicales.pdf#page=12&rect=477,102,813,300&color=yellow|SchaefferPierre_Tratado_de_los_objetos_musicales, p.12]]
+**Sobre la terminología, puede ser útil**
+
+![[SchaefferPierre_Tratado_de_los_objetos_musicales.pdf#page=13&rect=42,221,367,375&color=yellow|SchaefferPierre_Tratado_de_los_objetos_musicales, p.13]]
+**Sobre los recortes de tiempo?? de sonido, con qué criterio se realiza un corte, y por qué??**
+
+
+
+
+
+
+
+
 
