@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "obra",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -60,6 +60,6 @@
   "repelStrength": 11.0213216145833,
   "linkStrength": 0.211140950520833,
   "linkDistance": 371,
-  "scale": 1.3245322625258273,
+  "scale": 0.9721698876185189,
   "close": false
 }
