@@ -275,6 +275,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "notion-like-tables:Create loom": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
