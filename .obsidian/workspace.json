@@ -122,12 +122,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+                "file": "2025 Tesina - cronograma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer"
+              "title": "2025 Tesina - cronograma"
             }
           }
         ],
@@ -262,6 +262,16 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "a8cc724346102411",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
@@ -276,29 +286,31 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "notion-like-tables:Create loom": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "templates:Insert template": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8cd79cf445d2c167",
+  "active": "555d430f54862ddb",
   "lastOpenFiles": [
+    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "01- txt/obras/=) Cybersonic Cantilevers.md",
     "02- img/Pasted image 20250716144556.png",
     "01- txt/obras/Pandora box.md",
     "02- img/Pasted image 20250716144754.png",
@@ -313,7 +325,6 @@
     "Otras obras - revisar.md",
     "juanma tkm.md",
     "05- bib full/GarcíaAmezagaNekane_PensamientoyCritica_Adorno.pdf",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "05- bib full/DunsbyJonathan_Considerations of Texture (1989).pdf",
     "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
     "2025 Tesina - cronograma.md",
@@ -326,7 +337,6 @@
     "01- txt/obras/Toneburst, Maps and Fragments.md",
     "01- txt/obras/Untitled.md",
     "01- txt/obras/Burroughs.md",
-    "01- txt/obras/=) Cybersonic Cantilevers.md",
     "01- txt/obras/Variations VI.md",
     "01- txt/obras/Variations II.md",
     "01- txt/obras/Rainforest.md",
