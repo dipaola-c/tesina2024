@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 50.67567567567568,
+        "dimension": 43.844109831709474,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/obras/=) Cybersonic Cantilevers.md",
+                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "=) Cybersonic Cantilevers"
+              "title": "DIY en Mumma, Tudor y Cage"
             }
           }
         ],
@@ -72,7 +72,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 49.32432432432432,
+        "dimension": 56.155890168290526,
         "children": [
           {
             "id": "fc5c2bf0863741d2",
@@ -299,6 +299,16 @@
   },
   "active": "8cd79cf445d2c167",
   "lastOpenFiles": [
+    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
+    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
+    "01- txt/instrumentos-herramientas/Hear After.md",
+    "01- txt/hombre-máquina.md",
+    "01- txt/obras/=) Cybersonic Cantilevers.md",
     "02- img/Pasted image 20250716144556.png",
     "01- txt/obras/Pandora box.md",
     "02- img/Pasted image 20250716144754.png",
@@ -313,7 +323,6 @@
     "Otras obras - revisar.md",
     "juanma tkm.md",
     "05- bib full/GarcíaAmezagaNekane_PensamientoyCritica_Adorno.pdf",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "05- bib full/DunsbyJonathan_Considerations of Texture (1989).pdf",
     "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
     "2025 Tesina - cronograma.md",
@@ -326,17 +335,9 @@
     "01- txt/obras/Toneburst, Maps and Fragments.md",
     "01- txt/obras/Untitled.md",
     "01- txt/obras/Burroughs.md",
-    "01- txt/obras/=) Cybersonic Cantilevers.md",
     "01- txt/obras/Variations VI.md",
     "01- txt/obras/Variations II.md",
     "01- txt/obras/Rainforest.md",
-    "01- txt/obras/Mesa.md",
-    "01- txt/obras/Megaton para WM.md",
-    "01- txt/obras/Medium size mograph.md",
-    "01- txt/obras/Light Piece for David Tudor 1.md",
-    "01- txt/obras/Fluorescent Sound.md",
-    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
     "05- bib full/[Music and Letters 1989-feb vol. 70 iss. 1] Jonathan Dunsby - Considerations of Texture (1989) [10.2307_735640] - libgen.li.pdf",
