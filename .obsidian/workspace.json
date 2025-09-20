@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 43.844109831709474,
+        "dimension": 72.37569060773481,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+                "file": "00- inicial/(esquema viejo).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIY en Mumma, Tudor y Cage"
+              "title": "(esquema viejo)"
             }
           }
         ],
@@ -72,7 +72,7 @@
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 56.155890168290526,
+        "dimension": 27.624309392265197,
         "children": [
           {
             "id": "fc5c2bf0863741d2",
@@ -297,21 +297,39 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7f80322636974088",
+  "active": "8cd79cf445d2c167",
   "lastOpenFiles": [
-    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
-    "conflict-files-obsidian-git.md",
+    "00- inicial/2023 Tesina - cronograma.md",
+    "00- inicial/manual_de_estilo_2022.pdf",
+    "01- txt/artistic research/How to become a Straight-A student.md",
+    "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
+    "01- txt/artistic research/course_artistic_research.pdf",
+    "01- txt/artistic research/Artistic Research in Music (extract).md",
+    "01- txt/artistic research/Artistic Research in Music (all text).md",
+    "Glosario (parte del estado del arte).md",
+    "00- inicial/(esquema viejo).md",
+    "00- inicial/1- Obras y análisis.md",
+    "00- inicial/2- Gerardo Gandini.md",
+    "00- inicial/Audio correcciones e ideas.md",
+    "00- inicial/Glosario.loom",
+    "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
+    "00- inicial/Resonando - txt.md",
     "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "2025 Tesina - cronograma.md",
+    "Análisis Resonando.md",
+    "Biblio paper.md",
+    "Biblio y obras general.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "06- output/27_08/main.pdf",
+    "09- modelos/Estructuras.md",
+    "09- modelos/Abstracts.md",
+    "conflict-files-obsidian-git.md",
+    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
     "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
     "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
     "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
     "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
-    "01- txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
-    "01- txt/instrumentos-herramientas/Hear After.md",
-    "01- txt/hombre-máquina.md",
-    "01- txt/obras/=) Cybersonic Cantilevers.md",
     "02- img/Pasted image 20250716144556.png",
-    "01- txt/obras/Pandora box.md",
     "02- img/Pasted image 20250716144754.png",
     "02- img/Pasted image 20250716144743.png",
     "02- img/Pasted image 20250716144723.png",
@@ -320,30 +338,11 @@
     "02- img/Pasted image 20250716144639.png",
     "02- img/Pasted image 20250716144626.png",
     "02- img/Pasted image 20250716144614.png",
-    "Glosario (parte del estado del arte).md",
-    "Otras obras - revisar.md",
-    "juanma tkm.md",
     "05- bib full/GarcíaAmezagaNekane_PensamientoyCritica_Adorno.pdf",
     "05- bib full/DunsbyJonathan_Considerations of Texture (1989).pdf",
     "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
-    "2025 Tesina - cronograma.md",
     "02- img/Pasted image 20230412123202.png",
-    "01- txt/obras/Bandoneon ! (A Combine).md",
-    "01- txt/obras/Fontana Mix.md",
-    "01- txt/obras/Hornpipe.md",
-    "01- txt/obras/Jagdstück.md",
-    "01- txt/obras/Neural Synthesis.md",
-    "01- txt/obras/Toneburst, Maps and Fragments.md",
-    "01- txt/obras/Untitled.md",
-    "01- txt/obras/Burroughs.md",
-    "01- txt/obras/Variations VI.md",
-    "01- txt/obras/Variations II.md",
     "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-    "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
-    "05- bib full/[Music and Letters 1989-feb vol. 70 iss. 1] Jonathan Dunsby - Considerations of Texture (1989) [10.2307_735640] - libgen.li.pdf",
-    "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
-    "05- bib full/FesselPablo_LosDiariosdeGandini.pdf",
-    "05- bib full/Assis_2018_Experimental Systems and Artistic Research.pdf",
-    "05- bib full/FesselPablo_Textura.pdf"
+    "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf"
   ]
 }
