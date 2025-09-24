@@ -1,56 +1,56 @@
 
-1. ### Introducción
+## Introducción
 
-	1.1 Definiciones
+### Definiciones
 
-		1.1.1 Los estados tímbricos
+#### Los estados tímbricos
 
-		1.1.2 El principio de emergencia y complejidad aplicado al timbre
+#### El principio de emergencia y complejidad aplicado al timbre
 
-		1.1.3 El binomio humano-máquina (ver textos de emiliano causa y generatividad) incluye al humano (metamáquina)
+#### El binomio humano-máquina (ver textos de emiliano causa y generatividad) incluye al humano (metamáquina)
 
-	1.2 Arreglos analíticos (Metodología)
+### Arreglos analíticos (Metodología)
 
-		1.2.1 Similitud-diferencia
+#### Similitud-diferencia
+### Detección de principios vs semantización
 
-2. ### Herramientas tímbrico-formales
+## Herramientas tímbrico-formales
 
-	2.1 Hacia una forma tímbrica?
+### Hacia una forma tímbrica?
 
-		2.1.1 Aportes sobre el timbre
+#### Aportes sobre el timbre
 
-			2.1.1.1 Gerard Grisey
+##### Gerard Grisey
+##### Kaija Saariaho
 
-			2.1.1.2 Kaija Saariaho
+#### Processus
 
-		2.1.2 Processus
+#### Principio de excitación separada y modelización de la resonancia
 
-		2.1.3 Principio de excitación separada y modelización de la resonancia
+### Moduladores acústico-instrumentales
+### Moduladores maquínicos
 
-	2.2 Moduladores acústico-instrumentales
+### Moduladores acústicos-maquínicos
 
-	2.3 Moduladores maquínicos
-
-	2.4 Moduladores acústicos-maquínicos
-
-3. ### Casos de estudio
+## Casos de estudio
     
-	3.1 Gerard Grisey
+### Gerard Grisey
 
-	3.1 David Tudor
+### David Tudor
 
-4. ### Análisis Resonando
+## Análisis Resonando
     
-	4.1 Del proceso y el resultado
+### Del proceso y el resultado
+### Aplicación de los Arreglos Analíticos a resonando
 
-	4.2 Aplicación de los Arreglos Analíticos a resonando
-
-5. ### Conclusiones generales
+## Conclusiones generales
     
-6. ### Bibliografía
-    
+## Bibliografía
 
-### Preguntas posibles 
+
+----
+
+## Preguntas posibles 
 
 - ¿Puede hacerse una distinción propia entre humano y máquina desde el timbre? (desde el análisis y no desde la percepción/psicoacústica)
     
